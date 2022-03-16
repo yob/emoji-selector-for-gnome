@@ -111,6 +111,17 @@ var ALL = [
     "sort_order": 10
   },
   {
+    "name": "MELTING FACE",
+    "short_name": "melting_face",
+    "short_names": [
+      "melting_face"
+    ],
+    "unified": "1FAE0",
+    "non_qualified": null,
+    "category": "Smileys & Emotion",
+    "sort_order": 11
+  },
+  {
     "name": "WINKING FACE",
     "short_name": "wink",
     "short_names": [
@@ -119,7 +130,7 @@ var ALL = [
     "unified": "1F609",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 11
+    "sort_order": 12
   },
   {
     "name": "SMILING FACE WITH SMILING EYES",
@@ -130,7 +141,7 @@ var ALL = [
     "unified": "1F60A",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 12
+    "sort_order": 13
   },
   {
     "name": "SMILING FACE WITH HALO",
@@ -141,7 +152,7 @@ var ALL = [
     "unified": "1F607",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 13
+    "sort_order": 14
   },
   {
     "name": "SMILING FACE WITH SMILING EYES AND THREE HEARTS",
@@ -152,7 +163,7 @@ var ALL = [
     "unified": "1F970",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 14
+    "sort_order": 15
   },
   {
     "name": "SMILING FACE WITH HEART-SHAPED EYES",
@@ -163,7 +174,7 @@ var ALL = [
     "unified": "1F60D",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 15
+    "sort_order": 16
   },
   {
     "name": "GRINNING FACE WITH STAR EYES",
@@ -175,7 +186,7 @@ var ALL = [
     "unified": "1F929",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 16
+    "sort_order": 17
   },
   {
     "name": "FACE THROWING A KISS",
@@ -186,7 +197,7 @@ var ALL = [
     "unified": "1F618",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 17
+    "sort_order": 18
   },
   {
     "name": "KISSING FACE",
@@ -197,7 +208,7 @@ var ALL = [
     "unified": "1F617",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 18
+    "sort_order": 19
   },
   {
     "name": "WHITE SMILING FACE",
@@ -208,7 +219,7 @@ var ALL = [
     "unified": "263A-FE0F",
     "non_qualified": "263A",
     "category": "Smileys & Emotion",
-    "sort_order": 19
+    "sort_order": 20
   },
   {
     "name": "KISSING FACE WITH CLOSED EYES",
@@ -219,7 +230,7 @@ var ALL = [
     "unified": "1F61A",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 20
+    "sort_order": 21
   },
   {
     "name": "KISSING FACE WITH SMILING EYES",
@@ -230,7 +241,7 @@ var ALL = [
     "unified": "1F619",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 21
+    "sort_order": 22
   },
   {
     "name": "SMILING FACE WITH TEAR",
@@ -241,7 +252,7 @@ var ALL = [
     "unified": "1F972",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 22
+    "sort_order": 23
   },
   {
     "name": "FACE SAVOURING DELICIOUS FOOD",
@@ -252,7 +263,7 @@ var ALL = [
     "unified": "1F60B",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 23
+    "sort_order": 24
   },
   {
     "name": "FACE WITH STUCK-OUT TONGUE",
@@ -263,7 +274,7 @@ var ALL = [
     "unified": "1F61B",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 24
+    "sort_order": 25
   },
   {
     "name": "FACE WITH STUCK-OUT TONGUE AND WINKING EYE",
@@ -274,7 +285,7 @@ var ALL = [
     "unified": "1F61C",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 25
+    "sort_order": 26
   },
   {
     "name": "GRINNING FACE WITH ONE LARGE AND ONE SMALL EYE",
@@ -286,7 +297,7 @@ var ALL = [
     "unified": "1F92A",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 26
+    "sort_order": 27
   },
   {
     "name": "FACE WITH STUCK-OUT TONGUE AND TIGHTLY-CLOSED EYES",
@@ -297,7 +308,7 @@ var ALL = [
     "unified": "1F61D",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 27
+    "sort_order": 28
   },
   {
     "name": "MONEY-MOUTH FACE",
@@ -308,7 +319,7 @@ var ALL = [
     "unified": "1F911",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 28
+    "sort_order": 29
   },
   {
     "name": "HUGGING FACE",
@@ -319,7 +330,7 @@ var ALL = [
     "unified": "1F917",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 29
+    "sort_order": 30
   },
   {
     "name": "SMILING FACE WITH SMILING EYES AND HAND COVERING MOUTH",
@@ -331,7 +342,29 @@ var ALL = [
     "unified": "1F92D",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 30
+    "sort_order": 31
+  },
+  {
+    "name": "FACE WITH OPEN EYES AND HAND OVER MOUTH",
+    "short_name": "face_with_open_eyes_and_hand_over_mouth",
+    "short_names": [
+      "face_with_open_eyes_and_hand_over_mouth"
+    ],
+    "unified": "1FAE2",
+    "non_qualified": null,
+    "category": "Smileys & Emotion",
+    "sort_order": 32
+  },
+  {
+    "name": "FACE WITH PEEKING EYE",
+    "short_name": "face_with_peeking_eye",
+    "short_names": [
+      "face_with_peeking_eye"
+    ],
+    "unified": "1FAE3",
+    "non_qualified": null,
+    "category": "Smileys & Emotion",
+    "sort_order": 33
   },
   {
     "name": "FACE WITH FINGER COVERING CLOSED LIPS",
@@ -343,7 +376,7 @@ var ALL = [
     "unified": "1F92B",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 31
+    "sort_order": 34
   },
   {
     "name": "THINKING FACE",
@@ -354,7 +387,18 @@ var ALL = [
     "unified": "1F914",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 32
+    "sort_order": 35
+  },
+  {
+    "name": "SALUTING FACE",
+    "short_name": "saluting_face",
+    "short_names": [
+      "saluting_face"
+    ],
+    "unified": "1FAE1",
+    "non_qualified": null,
+    "category": "Smileys & Emotion",
+    "sort_order": 36
   },
   {
     "name": "ZIPPER-MOUTH FACE",
@@ -365,7 +409,7 @@ var ALL = [
     "unified": "1F910",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 33
+    "sort_order": 37
   },
   {
     "name": "FACE WITH ONE EYEBROW RAISED",
@@ -377,7 +421,7 @@ var ALL = [
     "unified": "1F928",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 34
+    "sort_order": 38
   },
   {
     "name": "NEUTRAL FACE",
@@ -388,7 +432,7 @@ var ALL = [
     "unified": "1F610",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 35
+    "sort_order": 39
   },
   {
     "name": "EXPRESSIONLESS FACE",
@@ -399,7 +443,7 @@ var ALL = [
     "unified": "1F611",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 36
+    "sort_order": 40
   },
   {
     "name": "FACE WITHOUT MOUTH",
@@ -410,7 +454,18 @@ var ALL = [
     "unified": "1F636",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 37
+    "sort_order": 41
+  },
+  {
+    "name": "DOTTED LINE FACE",
+    "short_name": "dotted_line_face",
+    "short_names": [
+      "dotted_line_face"
+    ],
+    "unified": "1FAE5",
+    "non_qualified": null,
+    "category": "Smileys & Emotion",
+    "sort_order": 42
   },
   {
     "name": "FACE IN CLOUDS",
@@ -421,7 +476,7 @@ var ALL = [
     "unified": "1F636-200D-1F32B-FE0F",
     "non_qualified": "1F636-200D-1F32B",
     "category": "Smileys & Emotion",
-    "sort_order": 38
+    "sort_order": 43
   },
   {
     "name": "SMIRKING FACE",
@@ -432,7 +487,7 @@ var ALL = [
     "unified": "1F60F",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 39
+    "sort_order": 44
   },
   {
     "name": "UNAMUSED FACE",
@@ -443,7 +498,7 @@ var ALL = [
     "unified": "1F612",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 40
+    "sort_order": 45
   },
   {
     "name": "FACE WITH ROLLING EYES",
@@ -454,7 +509,7 @@ var ALL = [
     "unified": "1F644",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 41
+    "sort_order": 46
   },
   {
     "name": "GRIMACING FACE",
@@ -465,7 +520,7 @@ var ALL = [
     "unified": "1F62C",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 42
+    "sort_order": 47
   },
   {
     "name": "FACE EXHALING",
@@ -476,7 +531,7 @@ var ALL = [
     "unified": "1F62E-200D-1F4A8",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 43
+    "sort_order": 48
   },
   {
     "name": "LYING FACE",
@@ -487,7 +542,7 @@ var ALL = [
     "unified": "1F925",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 44
+    "sort_order": 49
   },
   {
     "name": "RELIEVED FACE",
@@ -498,7 +553,7 @@ var ALL = [
     "unified": "1F60C",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 45
+    "sort_order": 50
   },
   {
     "name": "PENSIVE FACE",
@@ -509,7 +564,7 @@ var ALL = [
     "unified": "1F614",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 46
+    "sort_order": 51
   },
   {
     "name": "SLEEPY FACE",
@@ -520,7 +575,7 @@ var ALL = [
     "unified": "1F62A",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 47
+    "sort_order": 52
   },
   {
     "name": "DROOLING FACE",
@@ -531,7 +586,7 @@ var ALL = [
     "unified": "1F924",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 48
+    "sort_order": 53
   },
   {
     "name": "SLEEPING FACE",
@@ -542,7 +597,7 @@ var ALL = [
     "unified": "1F634",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 49
+    "sort_order": 54
   },
   {
     "name": "FACE WITH MEDICAL MASK",
@@ -553,7 +608,7 @@ var ALL = [
     "unified": "1F637",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 50
+    "sort_order": 55
   },
   {
     "name": "FACE WITH THERMOMETER",
@@ -564,7 +619,7 @@ var ALL = [
     "unified": "1F912",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 51
+    "sort_order": 56
   },
   {
     "name": "FACE WITH HEAD-BANDAGE",
@@ -575,7 +630,7 @@ var ALL = [
     "unified": "1F915",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 52
+    "sort_order": 57
   },
   {
     "name": "NAUSEATED FACE",
@@ -586,7 +641,7 @@ var ALL = [
     "unified": "1F922",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 53
+    "sort_order": 58
   },
   {
     "name": "FACE WITH OPEN MOUTH VOMITING",
@@ -598,7 +653,7 @@ var ALL = [
     "unified": "1F92E",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 54
+    "sort_order": 59
   },
   {
     "name": "SNEEZING FACE",
@@ -609,7 +664,7 @@ var ALL = [
     "unified": "1F927",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 55
+    "sort_order": 60
   },
   {
     "name": "OVERHEATED FACE",
@@ -620,7 +675,7 @@ var ALL = [
     "unified": "1F975",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 56
+    "sort_order": 61
   },
   {
     "name": "FREEZING FACE",
@@ -631,7 +686,7 @@ var ALL = [
     "unified": "1F976",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 57
+    "sort_order": 62
   },
   {
     "name": "FACE WITH UNEVEN EYES AND WAVY MOUTH",
@@ -642,7 +697,7 @@ var ALL = [
     "unified": "1F974",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 58
+    "sort_order": 63
   },
   {
     "name": "DIZZY FACE",
@@ -653,7 +708,7 @@ var ALL = [
     "unified": "1F635",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 59
+    "sort_order": 64
   },
   {
     "name": "FACE WITH SPIRAL EYES",
@@ -664,7 +719,7 @@ var ALL = [
     "unified": "1F635-200D-1F4AB",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 60
+    "sort_order": 65
   },
   {
     "name": "SHOCKED FACE WITH EXPLODING HEAD",
@@ -676,7 +731,7 @@ var ALL = [
     "unified": "1F92F",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 61
+    "sort_order": 66
   },
   {
     "name": "FACE WITH COWBOY HAT",
@@ -687,7 +742,7 @@ var ALL = [
     "unified": "1F920",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 62
+    "sort_order": 67
   },
   {
     "name": "FACE WITH PARTY HORN AND PARTY HAT",
@@ -698,7 +753,7 @@ var ALL = [
     "unified": "1F973",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 63
+    "sort_order": 68
   },
   {
     "name": "DISGUISED FACE",
@@ -709,7 +764,7 @@ var ALL = [
     "unified": "1F978",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 64
+    "sort_order": 69
   },
   {
     "name": "SMILING FACE WITH SUNGLASSES",
@@ -720,7 +775,7 @@ var ALL = [
     "unified": "1F60E",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 65
+    "sort_order": 70
   },
   {
     "name": "NERD FACE",
@@ -731,7 +786,7 @@ var ALL = [
     "unified": "1F913",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 66
+    "sort_order": 71
   },
   {
     "name": "FACE WITH MONOCLE",
@@ -742,7 +797,7 @@ var ALL = [
     "unified": "1F9D0",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 67
+    "sort_order": 72
   },
   {
     "name": "CONFUSED FACE",
@@ -753,7 +808,18 @@ var ALL = [
     "unified": "1F615",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 68
+    "sort_order": 73
+  },
+  {
+    "name": "FACE WITH DIAGONAL MOUTH",
+    "short_name": "face_with_diagonal_mouth",
+    "short_names": [
+      "face_with_diagonal_mouth"
+    ],
+    "unified": "1FAE4",
+    "non_qualified": null,
+    "category": "Smileys & Emotion",
+    "sort_order": 74
   },
   {
     "name": "WORRIED FACE",
@@ -764,7 +830,7 @@ var ALL = [
     "unified": "1F61F",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 69
+    "sort_order": 75
   },
   {
     "name": "SLIGHTLY FROWNING FACE",
@@ -775,7 +841,7 @@ var ALL = [
     "unified": "1F641",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 70
+    "sort_order": 76
   },
   {
     "name": "FROWNING FACE",
@@ -786,7 +852,7 @@ var ALL = [
     "unified": "2639-FE0F",
     "non_qualified": "2639",
     "category": "Smileys & Emotion",
-    "sort_order": 71
+    "sort_order": 77
   },
   {
     "name": "FACE WITH OPEN MOUTH",
@@ -797,7 +863,7 @@ var ALL = [
     "unified": "1F62E",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 72
+    "sort_order": 78
   },
   {
     "name": "HUSHED FACE",
@@ -808,7 +874,7 @@ var ALL = [
     "unified": "1F62F",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 73
+    "sort_order": 79
   },
   {
     "name": "ASTONISHED FACE",
@@ -819,7 +885,7 @@ var ALL = [
     "unified": "1F632",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 74
+    "sort_order": 80
   },
   {
     "name": "FLUSHED FACE",
@@ -830,7 +896,7 @@ var ALL = [
     "unified": "1F633",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 75
+    "sort_order": 81
   },
   {
     "name": "FACE WITH PLEADING EYES",
@@ -841,7 +907,18 @@ var ALL = [
     "unified": "1F97A",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 76
+    "sort_order": 82
+  },
+  {
+    "name": "FACE HOLDING BACK TEARS",
+    "short_name": "face_holding_back_tears",
+    "short_names": [
+      "face_holding_back_tears"
+    ],
+    "unified": "1F979",
+    "non_qualified": null,
+    "category": "Smileys & Emotion",
+    "sort_order": 83
   },
   {
     "name": "FROWNING FACE WITH OPEN MOUTH",
@@ -852,7 +929,7 @@ var ALL = [
     "unified": "1F626",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 77
+    "sort_order": 84
   },
   {
     "name": "ANGUISHED FACE",
@@ -863,7 +940,7 @@ var ALL = [
     "unified": "1F627",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 78
+    "sort_order": 85
   },
   {
     "name": "FEARFUL FACE",
@@ -874,7 +951,7 @@ var ALL = [
     "unified": "1F628",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 79
+    "sort_order": 86
   },
   {
     "name": "FACE WITH OPEN MOUTH AND COLD SWEAT",
@@ -885,7 +962,7 @@ var ALL = [
     "unified": "1F630",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 80
+    "sort_order": 87
   },
   {
     "name": "DISAPPOINTED BUT RELIEVED FACE",
@@ -896,7 +973,7 @@ var ALL = [
     "unified": "1F625",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 81
+    "sort_order": 88
   },
   {
     "name": "CRYING FACE",
@@ -907,7 +984,7 @@ var ALL = [
     "unified": "1F622",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 82
+    "sort_order": 89
   },
   {
     "name": "LOUDLY CRYING FACE",
@@ -918,7 +995,7 @@ var ALL = [
     "unified": "1F62D",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 83
+    "sort_order": 90
   },
   {
     "name": "FACE SCREAMING IN FEAR",
@@ -929,7 +1006,7 @@ var ALL = [
     "unified": "1F631",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 84
+    "sort_order": 91
   },
   {
     "name": "CONFOUNDED FACE",
@@ -940,7 +1017,7 @@ var ALL = [
     "unified": "1F616",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 85
+    "sort_order": 92
   },
   {
     "name": "PERSEVERING FACE",
@@ -951,7 +1028,7 @@ var ALL = [
     "unified": "1F623",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 86
+    "sort_order": 93
   },
   {
     "name": "DISAPPOINTED FACE",
@@ -962,7 +1039,7 @@ var ALL = [
     "unified": "1F61E",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 87
+    "sort_order": 94
   },
   {
     "name": "FACE WITH COLD SWEAT",
@@ -973,7 +1050,7 @@ var ALL = [
     "unified": "1F613",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 88
+    "sort_order": 95
   },
   {
     "name": "WEARY FACE",
@@ -984,7 +1061,7 @@ var ALL = [
     "unified": "1F629",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 89
+    "sort_order": 96
   },
   {
     "name": "TIRED FACE",
@@ -995,7 +1072,7 @@ var ALL = [
     "unified": "1F62B",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 90
+    "sort_order": 97
   },
   {
     "name": "YAWNING FACE",
@@ -1006,7 +1083,7 @@ var ALL = [
     "unified": "1F971",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 91
+    "sort_order": 98
   },
   {
     "name": "FACE WITH LOOK OF TRIUMPH",
@@ -1017,7 +1094,7 @@ var ALL = [
     "unified": "1F624",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 92
+    "sort_order": 99
   },
   {
     "name": "POUTING FACE",
@@ -1028,7 +1105,7 @@ var ALL = [
     "unified": "1F621",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 93
+    "sort_order": 100
   },
   {
     "name": "ANGRY FACE",
@@ -1039,7 +1116,7 @@ var ALL = [
     "unified": "1F620",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 94
+    "sort_order": 101
   },
   {
     "name": "SERIOUS FACE WITH SYMBOLS COVERING MOUTH",
@@ -1051,7 +1128,7 @@ var ALL = [
     "unified": "1F92C",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 95
+    "sort_order": 102
   },
   {
     "name": "SMILING FACE WITH HORNS",
@@ -1062,7 +1139,7 @@ var ALL = [
     "unified": "1F608",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 96
+    "sort_order": 103
   },
   {
     "name": "IMP",
@@ -1073,7 +1150,7 @@ var ALL = [
     "unified": "1F47F",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 97
+    "sort_order": 104
   },
   {
     "name": "SKULL",
@@ -1084,7 +1161,7 @@ var ALL = [
     "unified": "1F480",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 98
+    "sort_order": 105
   },
   {
     "name": "SKULL AND CROSSBONES",
@@ -1095,7 +1172,7 @@ var ALL = [
     "unified": "2620-FE0F",
     "non_qualified": "2620",
     "category": "Smileys & Emotion",
-    "sort_order": 99
+    "sort_order": 106
   },
   {
     "name": "PILE OF POO",
@@ -1108,7 +1185,7 @@ var ALL = [
     "unified": "1F4A9",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 100
+    "sort_order": 107
   },
   {
     "name": "CLOWN FACE",
@@ -1119,7 +1196,7 @@ var ALL = [
     "unified": "1F921",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 101
+    "sort_order": 108
   },
   {
     "name": "JAPANESE OGRE",
@@ -1130,7 +1207,7 @@ var ALL = [
     "unified": "1F479",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 102
+    "sort_order": 109
   },
   {
     "name": "JAPANESE GOBLIN",
@@ -1141,7 +1218,7 @@ var ALL = [
     "unified": "1F47A",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 103
+    "sort_order": 110
   },
   {
     "name": "GHOST",
@@ -1152,7 +1229,7 @@ var ALL = [
     "unified": "1F47B",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 104
+    "sort_order": 111
   },
   {
     "name": "EXTRATERRESTRIAL ALIEN",
@@ -1163,7 +1240,7 @@ var ALL = [
     "unified": "1F47D",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 105
+    "sort_order": 112
   },
   {
     "name": "ALIEN MONSTER",
@@ -1174,7 +1251,7 @@ var ALL = [
     "unified": "1F47E",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 106
+    "sort_order": 113
   },
   {
     "name": "ROBOT FACE",
@@ -1185,7 +1262,7 @@ var ALL = [
     "unified": "1F916",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 107
+    "sort_order": 114
   },
   {
     "name": "SMILING CAT FACE WITH OPEN MOUTH",
@@ -1196,7 +1273,7 @@ var ALL = [
     "unified": "1F63A",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 108
+    "sort_order": 115
   },
   {
     "name": "GRINNING CAT FACE WITH SMILING EYES",
@@ -1207,7 +1284,7 @@ var ALL = [
     "unified": "1F638",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 109
+    "sort_order": 116
   },
   {
     "name": "CAT FACE WITH TEARS OF JOY",
@@ -1218,7 +1295,7 @@ var ALL = [
     "unified": "1F639",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 110
+    "sort_order": 117
   },
   {
     "name": "SMILING CAT FACE WITH HEART-SHAPED EYES",
@@ -1229,7 +1306,7 @@ var ALL = [
     "unified": "1F63B",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 111
+    "sort_order": 118
   },
   {
     "name": "CAT FACE WITH WRY SMILE",
@@ -1240,7 +1317,7 @@ var ALL = [
     "unified": "1F63C",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 112
+    "sort_order": 119
   },
   {
     "name": "KISSING CAT FACE WITH CLOSED EYES",
@@ -1251,7 +1328,7 @@ var ALL = [
     "unified": "1F63D",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 113
+    "sort_order": 120
   },
   {
     "name": "WEARY CAT FACE",
@@ -1262,7 +1339,7 @@ var ALL = [
     "unified": "1F640",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 114
+    "sort_order": 121
   },
   {
     "name": "CRYING CAT FACE",
@@ -1273,7 +1350,7 @@ var ALL = [
     "unified": "1F63F",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 115
+    "sort_order": 122
   },
   {
     "name": "POUTING CAT FACE",
@@ -1284,7 +1361,7 @@ var ALL = [
     "unified": "1F63E",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 116
+    "sort_order": 123
   },
   {
     "name": "SEE-NO-EVIL MONKEY",
@@ -1295,7 +1372,7 @@ var ALL = [
     "unified": "1F648",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 117
+    "sort_order": 124
   },
   {
     "name": "HEAR-NO-EVIL MONKEY",
@@ -1306,7 +1383,7 @@ var ALL = [
     "unified": "1F649",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 118
+    "sort_order": 125
   },
   {
     "name": "SPEAK-NO-EVIL MONKEY",
@@ -1317,7 +1394,7 @@ var ALL = [
     "unified": "1F64A",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 119
+    "sort_order": 126
   },
   {
     "name": "KISS MARK",
@@ -1328,7 +1405,7 @@ var ALL = [
     "unified": "1F48B",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 120
+    "sort_order": 127
   },
   {
     "name": "LOVE LETTER",
@@ -1339,7 +1416,7 @@ var ALL = [
     "unified": "1F48C",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 121
+    "sort_order": 128
   },
   {
     "name": "HEART WITH ARROW",
@@ -1350,7 +1427,7 @@ var ALL = [
     "unified": "1F498",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 122
+    "sort_order": 129
   },
   {
     "name": "HEART WITH RIBBON",
@@ -1361,7 +1438,7 @@ var ALL = [
     "unified": "1F49D",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 123
+    "sort_order": 130
   },
   {
     "name": "SPARKLING HEART",
@@ -1372,7 +1449,7 @@ var ALL = [
     "unified": "1F496",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 124
+    "sort_order": 131
   },
   {
     "name": "GROWING HEART",
@@ -1383,7 +1460,7 @@ var ALL = [
     "unified": "1F497",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 125
+    "sort_order": 132
   },
   {
     "name": "BEATING HEART",
@@ -1394,7 +1471,7 @@ var ALL = [
     "unified": "1F493",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 126
+    "sort_order": 133
   },
   {
     "name": "REVOLVING HEARTS",
@@ -1405,7 +1482,7 @@ var ALL = [
     "unified": "1F49E",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 127
+    "sort_order": 134
   },
   {
     "name": "TWO HEARTS",
@@ -1416,7 +1493,7 @@ var ALL = [
     "unified": "1F495",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 128
+    "sort_order": 135
   },
   {
     "name": "HEART DECORATION",
@@ -1427,7 +1504,7 @@ var ALL = [
     "unified": "1F49F",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 129
+    "sort_order": 136
   },
   {
     "name": "HEART EXCLAMATION",
@@ -1438,7 +1515,7 @@ var ALL = [
     "unified": "2763-FE0F",
     "non_qualified": "2763",
     "category": "Smileys & Emotion",
-    "sort_order": 130
+    "sort_order": 137
   },
   {
     "name": "BROKEN HEART",
@@ -1449,7 +1526,7 @@ var ALL = [
     "unified": "1F494",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 131
+    "sort_order": 138
   },
   {
     "name": "HEART ON FIRE",
@@ -1460,7 +1537,7 @@ var ALL = [
     "unified": "2764-FE0F-200D-1F525",
     "non_qualified": "2764-200D-1F525",
     "category": "Smileys & Emotion",
-    "sort_order": 132
+    "sort_order": 139
   },
   {
     "name": "MENDING HEART",
@@ -1471,7 +1548,7 @@ var ALL = [
     "unified": "2764-FE0F-200D-1FA79",
     "non_qualified": "2764-200D-1FA79",
     "category": "Smileys & Emotion",
-    "sort_order": 133
+    "sort_order": 140
   },
   {
     "name": "HEAVY BLACK HEART",
@@ -1482,7 +1559,7 @@ var ALL = [
     "unified": "2764-FE0F",
     "non_qualified": "2764",
     "category": "Smileys & Emotion",
-    "sort_order": 134
+    "sort_order": 141
   },
   {
     "name": "ORANGE HEART",
@@ -1493,7 +1570,7 @@ var ALL = [
     "unified": "1F9E1",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 135
+    "sort_order": 142
   },
   {
     "name": "YELLOW HEART",
@@ -1504,7 +1581,7 @@ var ALL = [
     "unified": "1F49B",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 136
+    "sort_order": 143
   },
   {
     "name": "GREEN HEART",
@@ -1515,7 +1592,7 @@ var ALL = [
     "unified": "1F49A",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 137
+    "sort_order": 144
   },
   {
     "name": "BLUE HEART",
@@ -1526,7 +1603,7 @@ var ALL = [
     "unified": "1F499",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 138
+    "sort_order": 145
   },
   {
     "name": "PURPLE HEART",
@@ -1537,7 +1614,7 @@ var ALL = [
     "unified": "1F49C",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 139
+    "sort_order": 146
   },
   {
     "name": "BROWN HEART",
@@ -1548,7 +1625,7 @@ var ALL = [
     "unified": "1F90E",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 140
+    "sort_order": 147
   },
   {
     "name": "BLACK HEART",
@@ -1559,7 +1636,7 @@ var ALL = [
     "unified": "1F5A4",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 141
+    "sort_order": 148
   },
   {
     "name": "WHITE HEART",
@@ -1570,7 +1647,7 @@ var ALL = [
     "unified": "1F90D",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 142
+    "sort_order": 149
   },
   {
     "name": "HUNDRED POINTS SYMBOL",
@@ -1581,7 +1658,7 @@ var ALL = [
     "unified": "1F4AF",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 143
+    "sort_order": 150
   },
   {
     "name": "ANGER SYMBOL",
@@ -1592,7 +1669,7 @@ var ALL = [
     "unified": "1F4A2",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 144
+    "sort_order": 151
   },
   {
     "name": "COLLISION SYMBOL",
@@ -1604,7 +1681,7 @@ var ALL = [
     "unified": "1F4A5",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 145
+    "sort_order": 152
   },
   {
     "name": "DIZZY SYMBOL",
@@ -1615,7 +1692,7 @@ var ALL = [
     "unified": "1F4AB",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 146
+    "sort_order": 153
   },
   {
     "name": "SPLASHING SWEAT SYMBOL",
@@ -1626,7 +1703,7 @@ var ALL = [
     "unified": "1F4A6",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 147
+    "sort_order": 154
   },
   {
     "name": "DASH SYMBOL",
@@ -1637,7 +1714,7 @@ var ALL = [
     "unified": "1F4A8",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 148
+    "sort_order": 155
   },
   {
     "name": "HOLE",
@@ -1648,7 +1725,7 @@ var ALL = [
     "unified": "1F573-FE0F",
     "non_qualified": "1F573",
     "category": "Smileys & Emotion",
-    "sort_order": 149
+    "sort_order": 156
   },
   {
     "name": "BOMB",
@@ -1659,7 +1736,7 @@ var ALL = [
     "unified": "1F4A3",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 150
+    "sort_order": 157
   },
   {
     "name": "SPEECH BALLOON",
@@ -1670,7 +1747,7 @@ var ALL = [
     "unified": "1F4AC",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 151
+    "sort_order": 158
   },
   {
     "name": "EYE IN SPEECH BUBBLE",
@@ -1681,7 +1758,7 @@ var ALL = [
     "unified": "1F441-FE0F-200D-1F5E8-FE0F",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 152
+    "sort_order": 159
   },
   {
     "name": "LEFT SPEECH BUBBLE",
@@ -1692,7 +1769,7 @@ var ALL = [
     "unified": "1F5E8-FE0F",
     "non_qualified": "1F5E8",
     "category": "Smileys & Emotion",
-    "sort_order": 153
+    "sort_order": 160
   },
   {
     "name": "RIGHT ANGER BUBBLE",
@@ -1703,7 +1780,7 @@ var ALL = [
     "unified": "1F5EF-FE0F",
     "non_qualified": "1F5EF",
     "category": "Smileys & Emotion",
-    "sort_order": 154
+    "sort_order": 161
   },
   {
     "name": "THOUGHT BALLOON",
@@ -1714,7 +1791,7 @@ var ALL = [
     "unified": "1F4AD",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 155
+    "sort_order": 162
   },
   {
     "name": "SLEEPING SYMBOL",
@@ -1725,7 +1802,7 @@ var ALL = [
     "unified": "1F4A4",
     "non_qualified": null,
     "category": "Smileys & Emotion",
-    "sort_order": 156
+    "sort_order": 163
   },
   {
     "name": "WAVING HAND SIGN",
@@ -1736,7 +1813,7 @@ var ALL = [
     "unified": "1F44B",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 157,
+    "sort_order": 164,
     "skin_variations": {
       "1F3FB": "1F44B-1F3FB",
       "1F3FC": "1F44B-1F3FC",
@@ -1754,7 +1831,7 @@ var ALL = [
     "unified": "1F91A",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 158,
+    "sort_order": 165,
     "skin_variations": {
       "1F3FB": "1F91A-1F3FB",
       "1F3FC": "1F91A-1F3FC",
@@ -1772,7 +1849,7 @@ var ALL = [
     "unified": "1F590-FE0F",
     "non_qualified": "1F590",
     "category": "People & Body",
-    "sort_order": 159,
+    "sort_order": 166,
     "skin_variations": {
       "1F3FB": "1F590-1F3FB",
       "1F3FC": "1F590-1F3FC",
@@ -1791,7 +1868,7 @@ var ALL = [
     "unified": "270B",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 160,
+    "sort_order": 167,
     "skin_variations": {
       "1F3FB": "270B-1F3FB",
       "1F3FC": "270B-1F3FC",
@@ -1809,13 +1886,85 @@ var ALL = [
     "unified": "1F596",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 161,
+    "sort_order": 168,
     "skin_variations": {
       "1F3FB": "1F596-1F3FB",
       "1F3FC": "1F596-1F3FC",
       "1F3FD": "1F596-1F3FD",
       "1F3FE": "1F596-1F3FE",
       "1F3FF": "1F596-1F3FF"
+    }
+  },
+  {
+    "name": "RIGHTWARDS HAND",
+    "short_name": "rightwards_hand",
+    "short_names": [
+      "rightwards_hand"
+    ],
+    "unified": "1FAF1",
+    "non_qualified": null,
+    "category": "People & Body",
+    "sort_order": 169,
+    "skin_variations": {
+      "1F3FB": "1FAF1-1F3FB",
+      "1F3FC": "1FAF1-1F3FC",
+      "1F3FD": "1FAF1-1F3FD",
+      "1F3FE": "1FAF1-1F3FE",
+      "1F3FF": "1FAF1-1F3FF"
+    }
+  },
+  {
+    "name": "LEFTWARDS HAND",
+    "short_name": "leftwards_hand",
+    "short_names": [
+      "leftwards_hand"
+    ],
+    "unified": "1FAF2",
+    "non_qualified": null,
+    "category": "People & Body",
+    "sort_order": 170,
+    "skin_variations": {
+      "1F3FB": "1FAF2-1F3FB",
+      "1F3FC": "1FAF2-1F3FC",
+      "1F3FD": "1FAF2-1F3FD",
+      "1F3FE": "1FAF2-1F3FE",
+      "1F3FF": "1FAF2-1F3FF"
+    }
+  },
+  {
+    "name": "PALM DOWN HAND",
+    "short_name": "palm_down_hand",
+    "short_names": [
+      "palm_down_hand"
+    ],
+    "unified": "1FAF3",
+    "non_qualified": null,
+    "category": "People & Body",
+    "sort_order": 171,
+    "skin_variations": {
+      "1F3FB": "1FAF3-1F3FB",
+      "1F3FC": "1FAF3-1F3FC",
+      "1F3FD": "1FAF3-1F3FD",
+      "1F3FE": "1FAF3-1F3FE",
+      "1F3FF": "1FAF3-1F3FF"
+    }
+  },
+  {
+    "name": "PALM UP HAND",
+    "short_name": "palm_up_hand",
+    "short_names": [
+      "palm_up_hand"
+    ],
+    "unified": "1FAF4",
+    "non_qualified": null,
+    "category": "People & Body",
+    "sort_order": 172,
+    "skin_variations": {
+      "1F3FB": "1FAF4-1F3FB",
+      "1F3FC": "1FAF4-1F3FC",
+      "1F3FD": "1FAF4-1F3FD",
+      "1F3FE": "1FAF4-1F3FE",
+      "1F3FF": "1FAF4-1F3FF"
     }
   },
   {
@@ -1827,7 +1976,7 @@ var ALL = [
     "unified": "1F44C",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 162,
+    "sort_order": 173,
     "skin_variations": {
       "1F3FB": "1F44C-1F3FB",
       "1F3FC": "1F44C-1F3FC",
@@ -1845,7 +1994,7 @@ var ALL = [
     "unified": "1F90C",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 163,
+    "sort_order": 174,
     "skin_variations": {
       "1F3FB": "1F90C-1F3FB",
       "1F3FC": "1F90C-1F3FC",
@@ -1863,7 +2012,7 @@ var ALL = [
     "unified": "1F90F",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 164,
+    "sort_order": 175,
     "skin_variations": {
       "1F3FB": "1F90F-1F3FB",
       "1F3FC": "1F90F-1F3FC",
@@ -1881,7 +2030,7 @@ var ALL = [
     "unified": "270C-FE0F",
     "non_qualified": "270C",
     "category": "People & Body",
-    "sort_order": 165,
+    "sort_order": 176,
     "skin_variations": {
       "1F3FB": "270C-1F3FB",
       "1F3FC": "270C-1F3FC",
@@ -1900,13 +2049,31 @@ var ALL = [
     "unified": "1F91E",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 166,
+    "sort_order": 177,
     "skin_variations": {
       "1F3FB": "1F91E-1F3FB",
       "1F3FC": "1F91E-1F3FC",
       "1F3FD": "1F91E-1F3FD",
       "1F3FE": "1F91E-1F3FE",
       "1F3FF": "1F91E-1F3FF"
+    }
+  },
+  {
+    "name": "HAND WITH INDEX FINGER AND THUMB CROSSED",
+    "short_name": "hand_with_index_finger_and_thumb_crossed",
+    "short_names": [
+      "hand_with_index_finger_and_thumb_crossed"
+    ],
+    "unified": "1FAF0",
+    "non_qualified": null,
+    "category": "People & Body",
+    "sort_order": 178,
+    "skin_variations": {
+      "1F3FB": "1FAF0-1F3FB",
+      "1F3FC": "1FAF0-1F3FC",
+      "1F3FD": "1FAF0-1F3FD",
+      "1F3FE": "1FAF0-1F3FE",
+      "1F3FF": "1FAF0-1F3FF"
     }
   },
   {
@@ -1918,7 +2085,7 @@ var ALL = [
     "unified": "1F91F",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 167,
+    "sort_order": 179,
     "skin_variations": {
       "1F3FB": "1F91F-1F3FB",
       "1F3FC": "1F91F-1F3FC",
@@ -1937,7 +2104,7 @@ var ALL = [
     "unified": "1F918",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 168,
+    "sort_order": 180,
     "skin_variations": {
       "1F3FB": "1F918-1F3FB",
       "1F3FC": "1F918-1F3FC",
@@ -1955,7 +2122,7 @@ var ALL = [
     "unified": "1F919",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 169,
+    "sort_order": 181,
     "skin_variations": {
       "1F3FB": "1F919-1F3FB",
       "1F3FC": "1F919-1F3FC",
@@ -1973,7 +2140,7 @@ var ALL = [
     "unified": "1F448",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 170,
+    "sort_order": 182,
     "skin_variations": {
       "1F3FB": "1F448-1F3FB",
       "1F3FC": "1F448-1F3FC",
@@ -1991,7 +2158,7 @@ var ALL = [
     "unified": "1F449",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 171,
+    "sort_order": 183,
     "skin_variations": {
       "1F3FB": "1F449-1F3FB",
       "1F3FC": "1F449-1F3FC",
@@ -2009,7 +2176,7 @@ var ALL = [
     "unified": "1F446",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 172,
+    "sort_order": 184,
     "skin_variations": {
       "1F3FB": "1F446-1F3FB",
       "1F3FC": "1F446-1F3FC",
@@ -2028,7 +2195,7 @@ var ALL = [
     "unified": "1F595",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 173,
+    "sort_order": 185,
     "skin_variations": {
       "1F3FB": "1F595-1F3FB",
       "1F3FC": "1F595-1F3FC",
@@ -2046,7 +2213,7 @@ var ALL = [
     "unified": "1F447",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 174,
+    "sort_order": 186,
     "skin_variations": {
       "1F3FB": "1F447-1F3FB",
       "1F3FC": "1F447-1F3FC",
@@ -2064,13 +2231,31 @@ var ALL = [
     "unified": "261D-FE0F",
     "non_qualified": "261D",
     "category": "People & Body",
-    "sort_order": 175,
+    "sort_order": 187,
     "skin_variations": {
       "1F3FB": "261D-1F3FB",
       "1F3FC": "261D-1F3FC",
       "1F3FD": "261D-1F3FD",
       "1F3FE": "261D-1F3FE",
       "1F3FF": "261D-1F3FF"
+    }
+  },
+  {
+    "name": "INDEX POINTING AT THE VIEWER",
+    "short_name": "index_pointing_at_the_viewer",
+    "short_names": [
+      "index_pointing_at_the_viewer"
+    ],
+    "unified": "1FAF5",
+    "non_qualified": null,
+    "category": "People & Body",
+    "sort_order": 188,
+    "skin_variations": {
+      "1F3FB": "1FAF5-1F3FB",
+      "1F3FC": "1FAF5-1F3FC",
+      "1F3FD": "1FAF5-1F3FD",
+      "1F3FE": "1FAF5-1F3FE",
+      "1F3FF": "1FAF5-1F3FF"
     }
   },
   {
@@ -2083,7 +2268,7 @@ var ALL = [
     "unified": "1F44D",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 176,
+    "sort_order": 189,
     "skin_variations": {
       "1F3FB": "1F44D-1F3FB",
       "1F3FC": "1F44D-1F3FC",
@@ -2102,7 +2287,7 @@ var ALL = [
     "unified": "1F44E",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 177,
+    "sort_order": 190,
     "skin_variations": {
       "1F3FB": "1F44E-1F3FB",
       "1F3FC": "1F44E-1F3FC",
@@ -2120,7 +2305,7 @@ var ALL = [
     "unified": "270A",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 178,
+    "sort_order": 191,
     "skin_variations": {
       "1F3FB": "270A-1F3FB",
       "1F3FC": "270A-1F3FC",
@@ -2139,7 +2324,7 @@ var ALL = [
     "unified": "1F44A",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 179,
+    "sort_order": 192,
     "skin_variations": {
       "1F3FB": "1F44A-1F3FB",
       "1F3FC": "1F44A-1F3FC",
@@ -2157,7 +2342,7 @@ var ALL = [
     "unified": "1F91B",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 180,
+    "sort_order": 193,
     "skin_variations": {
       "1F3FB": "1F91B-1F3FB",
       "1F3FC": "1F91B-1F3FC",
@@ -2175,7 +2360,7 @@ var ALL = [
     "unified": "1F91C",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 181,
+    "sort_order": 194,
     "skin_variations": {
       "1F3FB": "1F91C-1F3FB",
       "1F3FC": "1F91C-1F3FC",
@@ -2193,7 +2378,7 @@ var ALL = [
     "unified": "1F44F",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 182,
+    "sort_order": 195,
     "skin_variations": {
       "1F3FB": "1F44F-1F3FB",
       "1F3FC": "1F44F-1F3FC",
@@ -2211,13 +2396,31 @@ var ALL = [
     "unified": "1F64C",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 183,
+    "sort_order": 196,
     "skin_variations": {
       "1F3FB": "1F64C-1F3FB",
       "1F3FC": "1F64C-1F3FC",
       "1F3FD": "1F64C-1F3FD",
       "1F3FE": "1F64C-1F3FE",
       "1F3FF": "1F64C-1F3FF"
+    }
+  },
+  {
+    "name": "HEART HANDS",
+    "short_name": "heart_hands",
+    "short_names": [
+      "heart_hands"
+    ],
+    "unified": "1FAF6",
+    "non_qualified": null,
+    "category": "People & Body",
+    "sort_order": 197,
+    "skin_variations": {
+      "1F3FB": "1FAF6-1F3FB",
+      "1F3FC": "1FAF6-1F3FC",
+      "1F3FD": "1FAF6-1F3FD",
+      "1F3FE": "1FAF6-1F3FE",
+      "1F3FF": "1FAF6-1F3FF"
     }
   },
   {
@@ -2229,7 +2432,7 @@ var ALL = [
     "unified": "1F450",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 184,
+    "sort_order": 198,
     "skin_variations": {
       "1F3FB": "1F450-1F3FB",
       "1F3FC": "1F450-1F3FC",
@@ -2247,7 +2450,7 @@ var ALL = [
     "unified": "1F932",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 185,
+    "sort_order": 199,
     "skin_variations": {
       "1F3FB": "1F932-1F3FB",
       "1F3FC": "1F932-1F3FC",
@@ -2265,7 +2468,34 @@ var ALL = [
     "unified": "1F91D",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 186
+    "sort_order": 200,
+    "skin_variations": {
+      "1F3FB": "1F91D-1F3FB",
+      "1F3FC": "1F91D-1F3FC",
+      "1F3FD": "1F91D-1F3FD",
+      "1F3FE": "1F91D-1F3FE",
+      "1F3FF": "1F91D-1F3FF",
+      "1F3FB-1F3FC": "1FAF1-1F3FB-200D-1FAF2-1F3FC",
+      "1F3FB-1F3FD": "1FAF1-1F3FB-200D-1FAF2-1F3FD",
+      "1F3FB-1F3FE": "1FAF1-1F3FB-200D-1FAF2-1F3FE",
+      "1F3FB-1F3FF": "1FAF1-1F3FB-200D-1FAF2-1F3FF",
+      "1F3FC-1F3FB": "1FAF1-1F3FC-200D-1FAF2-1F3FB",
+      "1F3FC-1F3FD": "1FAF1-1F3FC-200D-1FAF2-1F3FD",
+      "1F3FC-1F3FE": "1FAF1-1F3FC-200D-1FAF2-1F3FE",
+      "1F3FC-1F3FF": "1FAF1-1F3FC-200D-1FAF2-1F3FF",
+      "1F3FD-1F3FB": "1FAF1-1F3FD-200D-1FAF2-1F3FB",
+      "1F3FD-1F3FC": "1FAF1-1F3FD-200D-1FAF2-1F3FC",
+      "1F3FD-1F3FE": "1FAF1-1F3FD-200D-1FAF2-1F3FE",
+      "1F3FD-1F3FF": "1FAF1-1F3FD-200D-1FAF2-1F3FF",
+      "1F3FE-1F3FB": "1FAF1-1F3FE-200D-1FAF2-1F3FB",
+      "1F3FE-1F3FC": "1FAF1-1F3FE-200D-1FAF2-1F3FC",
+      "1F3FE-1F3FD": "1FAF1-1F3FE-200D-1FAF2-1F3FD",
+      "1F3FE-1F3FF": "1FAF1-1F3FE-200D-1FAF2-1F3FF",
+      "1F3FF-1F3FB": "1FAF1-1F3FF-200D-1FAF2-1F3FB",
+      "1F3FF-1F3FC": "1FAF1-1F3FF-200D-1FAF2-1F3FC",
+      "1F3FF-1F3FD": "1FAF1-1F3FF-200D-1FAF2-1F3FD",
+      "1F3FF-1F3FE": "1FAF1-1F3FF-200D-1FAF2-1F3FE"
+    }
   },
   {
     "name": "PERSON WITH FOLDED HANDS",
@@ -2276,7 +2506,7 @@ var ALL = [
     "unified": "1F64F",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 187,
+    "sort_order": 201,
     "skin_variations": {
       "1F3FB": "1F64F-1F3FB",
       "1F3FC": "1F64F-1F3FC",
@@ -2294,7 +2524,7 @@ var ALL = [
     "unified": "270D-FE0F",
     "non_qualified": "270D",
     "category": "People & Body",
-    "sort_order": 188,
+    "sort_order": 202,
     "skin_variations": {
       "1F3FB": "270D-1F3FB",
       "1F3FC": "270D-1F3FC",
@@ -2312,7 +2542,7 @@ var ALL = [
     "unified": "1F485",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 189,
+    "sort_order": 203,
     "skin_variations": {
       "1F3FB": "1F485-1F3FB",
       "1F3FC": "1F485-1F3FC",
@@ -2330,7 +2560,7 @@ var ALL = [
     "unified": "1F933",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 190,
+    "sort_order": 204,
     "skin_variations": {
       "1F3FB": "1F933-1F3FB",
       "1F3FC": "1F933-1F3FC",
@@ -2348,7 +2578,7 @@ var ALL = [
     "unified": "1F4AA",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 191,
+    "sort_order": 205,
     "skin_variations": {
       "1F3FB": "1F4AA-1F3FB",
       "1F3FC": "1F4AA-1F3FC",
@@ -2366,7 +2596,7 @@ var ALL = [
     "unified": "1F9BE",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 192
+    "sort_order": 206
   },
   {
     "name": "MECHANICAL LEG",
@@ -2377,7 +2607,7 @@ var ALL = [
     "unified": "1F9BF",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 193
+    "sort_order": 207
   },
   {
     "name": "LEG",
@@ -2388,7 +2618,7 @@ var ALL = [
     "unified": "1F9B5",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 194,
+    "sort_order": 208,
     "skin_variations": {
       "1F3FB": "1F9B5-1F3FB",
       "1F3FC": "1F9B5-1F3FC",
@@ -2406,7 +2636,7 @@ var ALL = [
     "unified": "1F9B6",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 195,
+    "sort_order": 209,
     "skin_variations": {
       "1F3FB": "1F9B6-1F3FB",
       "1F3FC": "1F9B6-1F3FC",
@@ -2424,7 +2654,7 @@ var ALL = [
     "unified": "1F442",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 196,
+    "sort_order": 210,
     "skin_variations": {
       "1F3FB": "1F442-1F3FB",
       "1F3FC": "1F442-1F3FC",
@@ -2442,7 +2672,7 @@ var ALL = [
     "unified": "1F9BB",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 197,
+    "sort_order": 211,
     "skin_variations": {
       "1F3FB": "1F9BB-1F3FB",
       "1F3FC": "1F9BB-1F3FC",
@@ -2460,7 +2690,7 @@ var ALL = [
     "unified": "1F443",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 198,
+    "sort_order": 212,
     "skin_variations": {
       "1F3FB": "1F443-1F3FB",
       "1F3FC": "1F443-1F3FC",
@@ -2478,7 +2708,7 @@ var ALL = [
     "unified": "1F9E0",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 199
+    "sort_order": 213
   },
   {
     "name": "ANATOMICAL HEART",
@@ -2489,7 +2719,7 @@ var ALL = [
     "unified": "1FAC0",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 200
+    "sort_order": 214
   },
   {
     "name": "LUNGS",
@@ -2500,7 +2730,7 @@ var ALL = [
     "unified": "1FAC1",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 201
+    "sort_order": 215
   },
   {
     "name": "TOOTH",
@@ -2511,7 +2741,7 @@ var ALL = [
     "unified": "1F9B7",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 202
+    "sort_order": 216
   },
   {
     "name": "BONE",
@@ -2522,7 +2752,7 @@ var ALL = [
     "unified": "1F9B4",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 203
+    "sort_order": 217
   },
   {
     "name": "EYES",
@@ -2533,7 +2763,7 @@ var ALL = [
     "unified": "1F440",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 204
+    "sort_order": 218
   },
   {
     "name": "EYE",
@@ -2544,7 +2774,7 @@ var ALL = [
     "unified": "1F441-FE0F",
     "non_qualified": "1F441",
     "category": "People & Body",
-    "sort_order": 205
+    "sort_order": 219
   },
   {
     "name": "TONGUE",
@@ -2555,7 +2785,7 @@ var ALL = [
     "unified": "1F445",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 206
+    "sort_order": 220
   },
   {
     "name": "MOUTH",
@@ -2566,7 +2796,18 @@ var ALL = [
     "unified": "1F444",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 207
+    "sort_order": 221
+  },
+  {
+    "name": "BITING LIP",
+    "short_name": "biting_lip",
+    "short_names": [
+      "biting_lip"
+    ],
+    "unified": "1FAE6",
+    "non_qualified": null,
+    "category": "People & Body",
+    "sort_order": 222
   },
   {
     "name": "BABY",
@@ -2577,7 +2818,7 @@ var ALL = [
     "unified": "1F476",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 208,
+    "sort_order": 223,
     "skin_variations": {
       "1F3FB": "1F476-1F3FB",
       "1F3FC": "1F476-1F3FC",
@@ -2595,7 +2836,7 @@ var ALL = [
     "unified": "1F9D2",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 209,
+    "sort_order": 224,
     "skin_variations": {
       "1F3FB": "1F9D2-1F3FB",
       "1F3FC": "1F9D2-1F3FC",
@@ -2613,7 +2854,7 @@ var ALL = [
     "unified": "1F466",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 210,
+    "sort_order": 225,
     "skin_variations": {
       "1F3FB": "1F466-1F3FB",
       "1F3FC": "1F466-1F3FC",
@@ -2631,7 +2872,7 @@ var ALL = [
     "unified": "1F467",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 211,
+    "sort_order": 226,
     "skin_variations": {
       "1F3FB": "1F467-1F3FB",
       "1F3FC": "1F467-1F3FC",
@@ -2649,7 +2890,7 @@ var ALL = [
     "unified": "1F9D1",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 212,
+    "sort_order": 227,
     "skin_variations": {
       "1F3FB": "1F9D1-1F3FB",
       "1F3FC": "1F9D1-1F3FC",
@@ -2667,7 +2908,7 @@ var ALL = [
     "unified": "1F471",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 213,
+    "sort_order": 228,
     "skin_variations": {
       "1F3FB": "1F471-1F3FB",
       "1F3FC": "1F471-1F3FC",
@@ -2685,7 +2926,7 @@ var ALL = [
     "unified": "1F468",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 214,
+    "sort_order": 229,
     "skin_variations": {
       "1F3FB": "1F468-1F3FB",
       "1F3FC": "1F468-1F3FC",
@@ -2703,7 +2944,7 @@ var ALL = [
     "unified": "1F9D4",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 215,
+    "sort_order": 230,
     "skin_variations": {
       "1F3FB": "1F9D4-1F3FB",
       "1F3FC": "1F9D4-1F3FC",
@@ -2721,7 +2962,7 @@ var ALL = [
     "unified": "1F9D4-200D-2642-FE0F",
     "non_qualified": "1F9D4-200D-2642",
     "category": "People & Body",
-    "sort_order": 216,
+    "sort_order": 231,
     "skin_variations": {
       "1F3FB": "1F9D4-1F3FB-200D-2642-FE0F",
       "1F3FC": "1F9D4-1F3FC-200D-2642-FE0F",
@@ -2739,7 +2980,7 @@ var ALL = [
     "unified": "1F9D4-200D-2640-FE0F",
     "non_qualified": "1F9D4-200D-2640",
     "category": "People & Body",
-    "sort_order": 217,
+    "sort_order": 232,
     "skin_variations": {
       "1F3FB": "1F9D4-1F3FB-200D-2640-FE0F",
       "1F3FC": "1F9D4-1F3FC-200D-2640-FE0F",
@@ -2757,7 +2998,7 @@ var ALL = [
     "unified": "1F468-200D-1F9B0",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 218,
+    "sort_order": 233,
     "skin_variations": {
       "1F3FB": "1F468-1F3FB-200D-1F9B0",
       "1F3FC": "1F468-1F3FC-200D-1F9B0",
@@ -2775,7 +3016,7 @@ var ALL = [
     "unified": "1F468-200D-1F9B1",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 219,
+    "sort_order": 234,
     "skin_variations": {
       "1F3FB": "1F468-1F3FB-200D-1F9B1",
       "1F3FC": "1F468-1F3FC-200D-1F9B1",
@@ -2793,7 +3034,7 @@ var ALL = [
     "unified": "1F468-200D-1F9B3",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 220,
+    "sort_order": 235,
     "skin_variations": {
       "1F3FB": "1F468-1F3FB-200D-1F9B3",
       "1F3FC": "1F468-1F3FC-200D-1F9B3",
@@ -2811,7 +3052,7 @@ var ALL = [
     "unified": "1F468-200D-1F9B2",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 221,
+    "sort_order": 236,
     "skin_variations": {
       "1F3FB": "1F468-1F3FB-200D-1F9B2",
       "1F3FC": "1F468-1F3FC-200D-1F9B2",
@@ -2829,7 +3070,7 @@ var ALL = [
     "unified": "1F469",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 222,
+    "sort_order": 237,
     "skin_variations": {
       "1F3FB": "1F469-1F3FB",
       "1F3FC": "1F469-1F3FC",
@@ -2847,7 +3088,7 @@ var ALL = [
     "unified": "1F469-200D-1F9B0",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 223,
+    "sort_order": 238,
     "skin_variations": {
       "1F3FB": "1F469-1F3FB-200D-1F9B0",
       "1F3FC": "1F469-1F3FC-200D-1F9B0",
@@ -2865,7 +3106,7 @@ var ALL = [
     "unified": "1F9D1-200D-1F9B0",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 224,
+    "sort_order": 239,
     "skin_variations": {
       "1F3FB": "1F9D1-1F3FB-200D-1F9B0",
       "1F3FC": "1F9D1-1F3FC-200D-1F9B0",
@@ -2883,7 +3124,7 @@ var ALL = [
     "unified": "1F469-200D-1F9B1",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 225,
+    "sort_order": 240,
     "skin_variations": {
       "1F3FB": "1F469-1F3FB-200D-1F9B1",
       "1F3FC": "1F469-1F3FC-200D-1F9B1",
@@ -2901,7 +3142,7 @@ var ALL = [
     "unified": "1F9D1-200D-1F9B1",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 226,
+    "sort_order": 241,
     "skin_variations": {
       "1F3FB": "1F9D1-1F3FB-200D-1F9B1",
       "1F3FC": "1F9D1-1F3FC-200D-1F9B1",
@@ -2919,7 +3160,7 @@ var ALL = [
     "unified": "1F469-200D-1F9B3",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 227,
+    "sort_order": 242,
     "skin_variations": {
       "1F3FB": "1F469-1F3FB-200D-1F9B3",
       "1F3FC": "1F469-1F3FC-200D-1F9B3",
@@ -2937,7 +3178,7 @@ var ALL = [
     "unified": "1F9D1-200D-1F9B3",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 228,
+    "sort_order": 243,
     "skin_variations": {
       "1F3FB": "1F9D1-1F3FB-200D-1F9B3",
       "1F3FC": "1F9D1-1F3FC-200D-1F9B3",
@@ -2955,7 +3196,7 @@ var ALL = [
     "unified": "1F469-200D-1F9B2",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 229,
+    "sort_order": 244,
     "skin_variations": {
       "1F3FB": "1F469-1F3FB-200D-1F9B2",
       "1F3FC": "1F469-1F3FC-200D-1F9B2",
@@ -2973,7 +3214,7 @@ var ALL = [
     "unified": "1F9D1-200D-1F9B2",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 230,
+    "sort_order": 245,
     "skin_variations": {
       "1F3FB": "1F9D1-1F3FB-200D-1F9B2",
       "1F3FC": "1F9D1-1F3FC-200D-1F9B2",
@@ -2991,7 +3232,7 @@ var ALL = [
     "unified": "1F471-200D-2640-FE0F",
     "non_qualified": "1F471-200D-2640",
     "category": "People & Body",
-    "sort_order": 231,
+    "sort_order": 246,
     "skin_variations": {
       "1F3FB": "1F471-1F3FB-200D-2640-FE0F",
       "1F3FC": "1F471-1F3FC-200D-2640-FE0F",
@@ -3009,7 +3250,7 @@ var ALL = [
     "unified": "1F471-200D-2642-FE0F",
     "non_qualified": "1F471-200D-2642",
     "category": "People & Body",
-    "sort_order": 232,
+    "sort_order": 247,
     "skin_variations": {
       "1F3FB": "1F471-1F3FB-200D-2642-FE0F",
       "1F3FC": "1F471-1F3FC-200D-2642-FE0F",
@@ -3027,7 +3268,7 @@ var ALL = [
     "unified": "1F9D3",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 233,
+    "sort_order": 248,
     "skin_variations": {
       "1F3FB": "1F9D3-1F3FB",
       "1F3FC": "1F9D3-1F3FC",
@@ -3045,7 +3286,7 @@ var ALL = [
     "unified": "1F474",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 234,
+    "sort_order": 249,
     "skin_variations": {
       "1F3FB": "1F474-1F3FB",
       "1F3FC": "1F474-1F3FC",
@@ -3063,7 +3304,7 @@ var ALL = [
     "unified": "1F475",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 235,
+    "sort_order": 250,
     "skin_variations": {
       "1F3FB": "1F475-1F3FB",
       "1F3FC": "1F475-1F3FC",
@@ -3081,7 +3322,7 @@ var ALL = [
     "unified": "1F64D",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 236,
+    "sort_order": 251,
     "skin_variations": {
       "1F3FB": "1F64D-1F3FB",
       "1F3FC": "1F64D-1F3FC",
@@ -3099,7 +3340,7 @@ var ALL = [
     "unified": "1F64D-200D-2642-FE0F",
     "non_qualified": "1F64D-200D-2642",
     "category": "People & Body",
-    "sort_order": 237,
+    "sort_order": 252,
     "skin_variations": {
       "1F3FB": "1F64D-1F3FB-200D-2642-FE0F",
       "1F3FC": "1F64D-1F3FC-200D-2642-FE0F",
@@ -3117,7 +3358,7 @@ var ALL = [
     "unified": "1F64D-200D-2640-FE0F",
     "non_qualified": "1F64D-200D-2640",
     "category": "People & Body",
-    "sort_order": 238,
+    "sort_order": 253,
     "skin_variations": {
       "1F3FB": "1F64D-1F3FB-200D-2640-FE0F",
       "1F3FC": "1F64D-1F3FC-200D-2640-FE0F",
@@ -3135,7 +3376,7 @@ var ALL = [
     "unified": "1F64E",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 239,
+    "sort_order": 254,
     "skin_variations": {
       "1F3FB": "1F64E-1F3FB",
       "1F3FC": "1F64E-1F3FC",
@@ -3153,7 +3394,7 @@ var ALL = [
     "unified": "1F64E-200D-2642-FE0F",
     "non_qualified": "1F64E-200D-2642",
     "category": "People & Body",
-    "sort_order": 240,
+    "sort_order": 255,
     "skin_variations": {
       "1F3FB": "1F64E-1F3FB-200D-2642-FE0F",
       "1F3FC": "1F64E-1F3FC-200D-2642-FE0F",
@@ -3171,7 +3412,7 @@ var ALL = [
     "unified": "1F64E-200D-2640-FE0F",
     "non_qualified": "1F64E-200D-2640",
     "category": "People & Body",
-    "sort_order": 241,
+    "sort_order": 256,
     "skin_variations": {
       "1F3FB": "1F64E-1F3FB-200D-2640-FE0F",
       "1F3FC": "1F64E-1F3FC-200D-2640-FE0F",
@@ -3189,7 +3430,7 @@ var ALL = [
     "unified": "1F645",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 242,
+    "sort_order": 257,
     "skin_variations": {
       "1F3FB": "1F645-1F3FB",
       "1F3FC": "1F645-1F3FC",
@@ -3207,7 +3448,7 @@ var ALL = [
     "unified": "1F645-200D-2642-FE0F",
     "non_qualified": "1F645-200D-2642",
     "category": "People & Body",
-    "sort_order": 243,
+    "sort_order": 258,
     "skin_variations": {
       "1F3FB": "1F645-1F3FB-200D-2642-FE0F",
       "1F3FC": "1F645-1F3FC-200D-2642-FE0F",
@@ -3225,7 +3466,7 @@ var ALL = [
     "unified": "1F645-200D-2640-FE0F",
     "non_qualified": "1F645-200D-2640",
     "category": "People & Body",
-    "sort_order": 244,
+    "sort_order": 259,
     "skin_variations": {
       "1F3FB": "1F645-1F3FB-200D-2640-FE0F",
       "1F3FC": "1F645-1F3FC-200D-2640-FE0F",
@@ -3243,7 +3484,7 @@ var ALL = [
     "unified": "1F646",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 245,
+    "sort_order": 260,
     "skin_variations": {
       "1F3FB": "1F646-1F3FB",
       "1F3FC": "1F646-1F3FC",
@@ -3261,7 +3502,7 @@ var ALL = [
     "unified": "1F646-200D-2642-FE0F",
     "non_qualified": "1F646-200D-2642",
     "category": "People & Body",
-    "sort_order": 246,
+    "sort_order": 261,
     "skin_variations": {
       "1F3FB": "1F646-1F3FB-200D-2642-FE0F",
       "1F3FC": "1F646-1F3FC-200D-2642-FE0F",
@@ -3279,7 +3520,7 @@ var ALL = [
     "unified": "1F646-200D-2640-FE0F",
     "non_qualified": "1F646-200D-2640",
     "category": "People & Body",
-    "sort_order": 247,
+    "sort_order": 262,
     "skin_variations": {
       "1F3FB": "1F646-1F3FB-200D-2640-FE0F",
       "1F3FC": "1F646-1F3FC-200D-2640-FE0F",
@@ -3297,7 +3538,7 @@ var ALL = [
     "unified": "1F481",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 248,
+    "sort_order": 263,
     "skin_variations": {
       "1F3FB": "1F481-1F3FB",
       "1F3FC": "1F481-1F3FC",
@@ -3315,7 +3556,7 @@ var ALL = [
     "unified": "1F481-200D-2642-FE0F",
     "non_qualified": "1F481-200D-2642",
     "category": "People & Body",
-    "sort_order": 249,
+    "sort_order": 264,
     "skin_variations": {
       "1F3FB": "1F481-1F3FB-200D-2642-FE0F",
       "1F3FC": "1F481-1F3FC-200D-2642-FE0F",
@@ -3333,7 +3574,7 @@ var ALL = [
     "unified": "1F481-200D-2640-FE0F",
     "non_qualified": "1F481-200D-2640",
     "category": "People & Body",
-    "sort_order": 250,
+    "sort_order": 265,
     "skin_variations": {
       "1F3FB": "1F481-1F3FB-200D-2640-FE0F",
       "1F3FC": "1F481-1F3FC-200D-2640-FE0F",
@@ -3351,7 +3592,7 @@ var ALL = [
     "unified": "1F64B",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 251,
+    "sort_order": 266,
     "skin_variations": {
       "1F3FB": "1F64B-1F3FB",
       "1F3FC": "1F64B-1F3FC",
@@ -3369,7 +3610,7 @@ var ALL = [
     "unified": "1F64B-200D-2642-FE0F",
     "non_qualified": "1F64B-200D-2642",
     "category": "People & Body",
-    "sort_order": 252,
+    "sort_order": 267,
     "skin_variations": {
       "1F3FB": "1F64B-1F3FB-200D-2642-FE0F",
       "1F3FC": "1F64B-1F3FC-200D-2642-FE0F",
@@ -3387,7 +3628,7 @@ var ALL = [
     "unified": "1F64B-200D-2640-FE0F",
     "non_qualified": "1F64B-200D-2640",
     "category": "People & Body",
-    "sort_order": 253,
+    "sort_order": 268,
     "skin_variations": {
       "1F3FB": "1F64B-1F3FB-200D-2640-FE0F",
       "1F3FC": "1F64B-1F3FC-200D-2640-FE0F",
@@ -3405,7 +3646,7 @@ var ALL = [
     "unified": "1F9CF",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 254,
+    "sort_order": 269,
     "skin_variations": {
       "1F3FB": "1F9CF-1F3FB",
       "1F3FC": "1F9CF-1F3FC",
@@ -3423,7 +3664,7 @@ var ALL = [
     "unified": "1F9CF-200D-2642-FE0F",
     "non_qualified": "1F9CF-200D-2642",
     "category": "People & Body",
-    "sort_order": 255,
+    "sort_order": 270,
     "skin_variations": {
       "1F3FB": "1F9CF-1F3FB-200D-2642-FE0F",
       "1F3FC": "1F9CF-1F3FC-200D-2642-FE0F",
@@ -3441,7 +3682,7 @@ var ALL = [
     "unified": "1F9CF-200D-2640-FE0F",
     "non_qualified": "1F9CF-200D-2640",
     "category": "People & Body",
-    "sort_order": 256,
+    "sort_order": 271,
     "skin_variations": {
       "1F3FB": "1F9CF-1F3FB-200D-2640-FE0F",
       "1F3FC": "1F9CF-1F3FC-200D-2640-FE0F",
@@ -3459,7 +3700,7 @@ var ALL = [
     "unified": "1F647",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 257,
+    "sort_order": 272,
     "skin_variations": {
       "1F3FB": "1F647-1F3FB",
       "1F3FC": "1F647-1F3FC",
@@ -3477,7 +3718,7 @@ var ALL = [
     "unified": "1F647-200D-2642-FE0F",
     "non_qualified": "1F647-200D-2642",
     "category": "People & Body",
-    "sort_order": 258,
+    "sort_order": 273,
     "skin_variations": {
       "1F3FB": "1F647-1F3FB-200D-2642-FE0F",
       "1F3FC": "1F647-1F3FC-200D-2642-FE0F",
@@ -3495,7 +3736,7 @@ var ALL = [
     "unified": "1F647-200D-2640-FE0F",
     "non_qualified": "1F647-200D-2640",
     "category": "People & Body",
-    "sort_order": 259,
+    "sort_order": 274,
     "skin_variations": {
       "1F3FB": "1F647-1F3FB-200D-2640-FE0F",
       "1F3FC": "1F647-1F3FC-200D-2640-FE0F",
@@ -3513,7 +3754,7 @@ var ALL = [
     "unified": "1F926",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 260,
+    "sort_order": 275,
     "skin_variations": {
       "1F3FB": "1F926-1F3FB",
       "1F3FC": "1F926-1F3FC",
@@ -3531,7 +3772,7 @@ var ALL = [
     "unified": "1F926-200D-2642-FE0F",
     "non_qualified": "1F926-200D-2642",
     "category": "People & Body",
-    "sort_order": 261,
+    "sort_order": 276,
     "skin_variations": {
       "1F3FB": "1F926-1F3FB-200D-2642-FE0F",
       "1F3FC": "1F926-1F3FC-200D-2642-FE0F",
@@ -3549,7 +3790,7 @@ var ALL = [
     "unified": "1F926-200D-2640-FE0F",
     "non_qualified": "1F926-200D-2640",
     "category": "People & Body",
-    "sort_order": 262,
+    "sort_order": 277,
     "skin_variations": {
       "1F3FB": "1F926-1F3FB-200D-2640-FE0F",
       "1F3FC": "1F926-1F3FC-200D-2640-FE0F",
@@ -3567,7 +3808,7 @@ var ALL = [
     "unified": "1F937",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 263,
+    "sort_order": 278,
     "skin_variations": {
       "1F3FB": "1F937-1F3FB",
       "1F3FC": "1F937-1F3FC",
@@ -3585,7 +3826,7 @@ var ALL = [
     "unified": "1F937-200D-2642-FE0F",
     "non_qualified": "1F937-200D-2642",
     "category": "People & Body",
-    "sort_order": 264,
+    "sort_order": 279,
     "skin_variations": {
       "1F3FB": "1F937-1F3FB-200D-2642-FE0F",
       "1F3FC": "1F937-1F3FC-200D-2642-FE0F",
@@ -3603,7 +3844,7 @@ var ALL = [
     "unified": "1F937-200D-2640-FE0F",
     "non_qualified": "1F937-200D-2640",
     "category": "People & Body",
-    "sort_order": 265,
+    "sort_order": 280,
     "skin_variations": {
       "1F3FB": "1F937-1F3FB-200D-2640-FE0F",
       "1F3FC": "1F937-1F3FC-200D-2640-FE0F",
@@ -3621,7 +3862,7 @@ var ALL = [
     "unified": "1F9D1-200D-2695-FE0F",
     "non_qualified": "1F9D1-200D-2695",
     "category": "People & Body",
-    "sort_order": 266,
+    "sort_order": 281,
     "skin_variations": {
       "1F3FB": "1F9D1-1F3FB-200D-2695-FE0F",
       "1F3FC": "1F9D1-1F3FC-200D-2695-FE0F",
@@ -3639,7 +3880,7 @@ var ALL = [
     "unified": "1F468-200D-2695-FE0F",
     "non_qualified": "1F468-200D-2695",
     "category": "People & Body",
-    "sort_order": 267,
+    "sort_order": 282,
     "skin_variations": {
       "1F3FB": "1F468-1F3FB-200D-2695-FE0F",
       "1F3FC": "1F468-1F3FC-200D-2695-FE0F",
@@ -3657,7 +3898,7 @@ var ALL = [
     "unified": "1F469-200D-2695-FE0F",
     "non_qualified": "1F469-200D-2695",
     "category": "People & Body",
-    "sort_order": 268,
+    "sort_order": 283,
     "skin_variations": {
       "1F3FB": "1F469-1F3FB-200D-2695-FE0F",
       "1F3FC": "1F469-1F3FC-200D-2695-FE0F",
@@ -3675,7 +3916,7 @@ var ALL = [
     "unified": "1F9D1-200D-1F393",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 269,
+    "sort_order": 284,
     "skin_variations": {
       "1F3FB": "1F9D1-1F3FB-200D-1F393",
       "1F3FC": "1F9D1-1F3FC-200D-1F393",
@@ -3693,7 +3934,7 @@ var ALL = [
     "unified": "1F468-200D-1F393",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 270,
+    "sort_order": 285,
     "skin_variations": {
       "1F3FB": "1F468-1F3FB-200D-1F393",
       "1F3FC": "1F468-1F3FC-200D-1F393",
@@ -3711,7 +3952,7 @@ var ALL = [
     "unified": "1F469-200D-1F393",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 271,
+    "sort_order": 286,
     "skin_variations": {
       "1F3FB": "1F469-1F3FB-200D-1F393",
       "1F3FC": "1F469-1F3FC-200D-1F393",
@@ -3729,7 +3970,7 @@ var ALL = [
     "unified": "1F9D1-200D-1F3EB",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 272,
+    "sort_order": 287,
     "skin_variations": {
       "1F3FB": "1F9D1-1F3FB-200D-1F3EB",
       "1F3FC": "1F9D1-1F3FC-200D-1F3EB",
@@ -3747,7 +3988,7 @@ var ALL = [
     "unified": "1F468-200D-1F3EB",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 273,
+    "sort_order": 288,
     "skin_variations": {
       "1F3FB": "1F468-1F3FB-200D-1F3EB",
       "1F3FC": "1F468-1F3FC-200D-1F3EB",
@@ -3765,7 +4006,7 @@ var ALL = [
     "unified": "1F469-200D-1F3EB",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 274,
+    "sort_order": 289,
     "skin_variations": {
       "1F3FB": "1F469-1F3FB-200D-1F3EB",
       "1F3FC": "1F469-1F3FC-200D-1F3EB",
@@ -3783,7 +4024,7 @@ var ALL = [
     "unified": "1F9D1-200D-2696-FE0F",
     "non_qualified": "1F9D1-200D-2696",
     "category": "People & Body",
-    "sort_order": 275,
+    "sort_order": 290,
     "skin_variations": {
       "1F3FB": "1F9D1-1F3FB-200D-2696-FE0F",
       "1F3FC": "1F9D1-1F3FC-200D-2696-FE0F",
@@ -3801,7 +4042,7 @@ var ALL = [
     "unified": "1F468-200D-2696-FE0F",
     "non_qualified": "1F468-200D-2696",
     "category": "People & Body",
-    "sort_order": 276,
+    "sort_order": 291,
     "skin_variations": {
       "1F3FB": "1F468-1F3FB-200D-2696-FE0F",
       "1F3FC": "1F468-1F3FC-200D-2696-FE0F",
@@ -3819,7 +4060,7 @@ var ALL = [
     "unified": "1F469-200D-2696-FE0F",
     "non_qualified": "1F469-200D-2696",
     "category": "People & Body",
-    "sort_order": 277,
+    "sort_order": 292,
     "skin_variations": {
       "1F3FB": "1F469-1F3FB-200D-2696-FE0F",
       "1F3FC": "1F469-1F3FC-200D-2696-FE0F",
@@ -3837,7 +4078,7 @@ var ALL = [
     "unified": "1F9D1-200D-1F33E",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 278,
+    "sort_order": 293,
     "skin_variations": {
       "1F3FB": "1F9D1-1F3FB-200D-1F33E",
       "1F3FC": "1F9D1-1F3FC-200D-1F33E",
@@ -3855,7 +4096,7 @@ var ALL = [
     "unified": "1F468-200D-1F33E",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 279,
+    "sort_order": 294,
     "skin_variations": {
       "1F3FB": "1F468-1F3FB-200D-1F33E",
       "1F3FC": "1F468-1F3FC-200D-1F33E",
@@ -3873,7 +4114,7 @@ var ALL = [
     "unified": "1F469-200D-1F33E",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 280,
+    "sort_order": 295,
     "skin_variations": {
       "1F3FB": "1F469-1F3FB-200D-1F33E",
       "1F3FC": "1F469-1F3FC-200D-1F33E",
@@ -3891,7 +4132,7 @@ var ALL = [
     "unified": "1F9D1-200D-1F373",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 281,
+    "sort_order": 296,
     "skin_variations": {
       "1F3FB": "1F9D1-1F3FB-200D-1F373",
       "1F3FC": "1F9D1-1F3FC-200D-1F373",
@@ -3909,7 +4150,7 @@ var ALL = [
     "unified": "1F468-200D-1F373",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 282,
+    "sort_order": 297,
     "skin_variations": {
       "1F3FB": "1F468-1F3FB-200D-1F373",
       "1F3FC": "1F468-1F3FC-200D-1F373",
@@ -3927,7 +4168,7 @@ var ALL = [
     "unified": "1F469-200D-1F373",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 283,
+    "sort_order": 298,
     "skin_variations": {
       "1F3FB": "1F469-1F3FB-200D-1F373",
       "1F3FC": "1F469-1F3FC-200D-1F373",
@@ -3945,7 +4186,7 @@ var ALL = [
     "unified": "1F9D1-200D-1F527",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 284,
+    "sort_order": 299,
     "skin_variations": {
       "1F3FB": "1F9D1-1F3FB-200D-1F527",
       "1F3FC": "1F9D1-1F3FC-200D-1F527",
@@ -3963,7 +4204,7 @@ var ALL = [
     "unified": "1F468-200D-1F527",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 285,
+    "sort_order": 300,
     "skin_variations": {
       "1F3FB": "1F468-1F3FB-200D-1F527",
       "1F3FC": "1F468-1F3FC-200D-1F527",
@@ -3981,7 +4222,7 @@ var ALL = [
     "unified": "1F469-200D-1F527",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 286,
+    "sort_order": 301,
     "skin_variations": {
       "1F3FB": "1F469-1F3FB-200D-1F527",
       "1F3FC": "1F469-1F3FC-200D-1F527",
@@ -3999,7 +4240,7 @@ var ALL = [
     "unified": "1F9D1-200D-1F3ED",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 287,
+    "sort_order": 302,
     "skin_variations": {
       "1F3FB": "1F9D1-1F3FB-200D-1F3ED",
       "1F3FC": "1F9D1-1F3FC-200D-1F3ED",
@@ -4017,7 +4258,7 @@ var ALL = [
     "unified": "1F468-200D-1F3ED",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 288,
+    "sort_order": 303,
     "skin_variations": {
       "1F3FB": "1F468-1F3FB-200D-1F3ED",
       "1F3FC": "1F468-1F3FC-200D-1F3ED",
@@ -4035,7 +4276,7 @@ var ALL = [
     "unified": "1F469-200D-1F3ED",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 289,
+    "sort_order": 304,
     "skin_variations": {
       "1F3FB": "1F469-1F3FB-200D-1F3ED",
       "1F3FC": "1F469-1F3FC-200D-1F3ED",
@@ -4053,7 +4294,7 @@ var ALL = [
     "unified": "1F9D1-200D-1F4BC",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 290,
+    "sort_order": 305,
     "skin_variations": {
       "1F3FB": "1F9D1-1F3FB-200D-1F4BC",
       "1F3FC": "1F9D1-1F3FC-200D-1F4BC",
@@ -4071,7 +4312,7 @@ var ALL = [
     "unified": "1F468-200D-1F4BC",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 291,
+    "sort_order": 306,
     "skin_variations": {
       "1F3FB": "1F468-1F3FB-200D-1F4BC",
       "1F3FC": "1F468-1F3FC-200D-1F4BC",
@@ -4089,7 +4330,7 @@ var ALL = [
     "unified": "1F469-200D-1F4BC",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 292,
+    "sort_order": 307,
     "skin_variations": {
       "1F3FB": "1F469-1F3FB-200D-1F4BC",
       "1F3FC": "1F469-1F3FC-200D-1F4BC",
@@ -4107,7 +4348,7 @@ var ALL = [
     "unified": "1F9D1-200D-1F52C",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 293,
+    "sort_order": 308,
     "skin_variations": {
       "1F3FB": "1F9D1-1F3FB-200D-1F52C",
       "1F3FC": "1F9D1-1F3FC-200D-1F52C",
@@ -4125,7 +4366,7 @@ var ALL = [
     "unified": "1F468-200D-1F52C",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 294,
+    "sort_order": 309,
     "skin_variations": {
       "1F3FB": "1F468-1F3FB-200D-1F52C",
       "1F3FC": "1F468-1F3FC-200D-1F52C",
@@ -4143,7 +4384,7 @@ var ALL = [
     "unified": "1F469-200D-1F52C",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 295,
+    "sort_order": 310,
     "skin_variations": {
       "1F3FB": "1F469-1F3FB-200D-1F52C",
       "1F3FC": "1F469-1F3FC-200D-1F52C",
@@ -4161,7 +4402,7 @@ var ALL = [
     "unified": "1F9D1-200D-1F4BB",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 296,
+    "sort_order": 311,
     "skin_variations": {
       "1F3FB": "1F9D1-1F3FB-200D-1F4BB",
       "1F3FC": "1F9D1-1F3FC-200D-1F4BB",
@@ -4179,7 +4420,7 @@ var ALL = [
     "unified": "1F468-200D-1F4BB",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 297,
+    "sort_order": 312,
     "skin_variations": {
       "1F3FB": "1F468-1F3FB-200D-1F4BB",
       "1F3FC": "1F468-1F3FC-200D-1F4BB",
@@ -4197,7 +4438,7 @@ var ALL = [
     "unified": "1F469-200D-1F4BB",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 298,
+    "sort_order": 313,
     "skin_variations": {
       "1F3FB": "1F469-1F3FB-200D-1F4BB",
       "1F3FC": "1F469-1F3FC-200D-1F4BB",
@@ -4215,7 +4456,7 @@ var ALL = [
     "unified": "1F9D1-200D-1F3A4",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 299,
+    "sort_order": 314,
     "skin_variations": {
       "1F3FB": "1F9D1-1F3FB-200D-1F3A4",
       "1F3FC": "1F9D1-1F3FC-200D-1F3A4",
@@ -4233,7 +4474,7 @@ var ALL = [
     "unified": "1F468-200D-1F3A4",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 300,
+    "sort_order": 315,
     "skin_variations": {
       "1F3FB": "1F468-1F3FB-200D-1F3A4",
       "1F3FC": "1F468-1F3FC-200D-1F3A4",
@@ -4251,7 +4492,7 @@ var ALL = [
     "unified": "1F469-200D-1F3A4",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 301,
+    "sort_order": 316,
     "skin_variations": {
       "1F3FB": "1F469-1F3FB-200D-1F3A4",
       "1F3FC": "1F469-1F3FC-200D-1F3A4",
@@ -4269,7 +4510,7 @@ var ALL = [
     "unified": "1F9D1-200D-1F3A8",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 302,
+    "sort_order": 317,
     "skin_variations": {
       "1F3FB": "1F9D1-1F3FB-200D-1F3A8",
       "1F3FC": "1F9D1-1F3FC-200D-1F3A8",
@@ -4287,7 +4528,7 @@ var ALL = [
     "unified": "1F468-200D-1F3A8",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 303,
+    "sort_order": 318,
     "skin_variations": {
       "1F3FB": "1F468-1F3FB-200D-1F3A8",
       "1F3FC": "1F468-1F3FC-200D-1F3A8",
@@ -4305,7 +4546,7 @@ var ALL = [
     "unified": "1F469-200D-1F3A8",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 304,
+    "sort_order": 319,
     "skin_variations": {
       "1F3FB": "1F469-1F3FB-200D-1F3A8",
       "1F3FC": "1F469-1F3FC-200D-1F3A8",
@@ -4323,7 +4564,7 @@ var ALL = [
     "unified": "1F9D1-200D-2708-FE0F",
     "non_qualified": "1F9D1-200D-2708",
     "category": "People & Body",
-    "sort_order": 305,
+    "sort_order": 320,
     "skin_variations": {
       "1F3FB": "1F9D1-1F3FB-200D-2708-FE0F",
       "1F3FC": "1F9D1-1F3FC-200D-2708-FE0F",
@@ -4341,7 +4582,7 @@ var ALL = [
     "unified": "1F468-200D-2708-FE0F",
     "non_qualified": "1F468-200D-2708",
     "category": "People & Body",
-    "sort_order": 306,
+    "sort_order": 321,
     "skin_variations": {
       "1F3FB": "1F468-1F3FB-200D-2708-FE0F",
       "1F3FC": "1F468-1F3FC-200D-2708-FE0F",
@@ -4359,7 +4600,7 @@ var ALL = [
     "unified": "1F469-200D-2708-FE0F",
     "non_qualified": "1F469-200D-2708",
     "category": "People & Body",
-    "sort_order": 307,
+    "sort_order": 322,
     "skin_variations": {
       "1F3FB": "1F469-1F3FB-200D-2708-FE0F",
       "1F3FC": "1F469-1F3FC-200D-2708-FE0F",
@@ -4377,7 +4618,7 @@ var ALL = [
     "unified": "1F9D1-200D-1F680",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 308,
+    "sort_order": 323,
     "skin_variations": {
       "1F3FB": "1F9D1-1F3FB-200D-1F680",
       "1F3FC": "1F9D1-1F3FC-200D-1F680",
@@ -4395,7 +4636,7 @@ var ALL = [
     "unified": "1F468-200D-1F680",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 309,
+    "sort_order": 324,
     "skin_variations": {
       "1F3FB": "1F468-1F3FB-200D-1F680",
       "1F3FC": "1F468-1F3FC-200D-1F680",
@@ -4413,7 +4654,7 @@ var ALL = [
     "unified": "1F469-200D-1F680",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 310,
+    "sort_order": 325,
     "skin_variations": {
       "1F3FB": "1F469-1F3FB-200D-1F680",
       "1F3FC": "1F469-1F3FC-200D-1F680",
@@ -4431,7 +4672,7 @@ var ALL = [
     "unified": "1F9D1-200D-1F692",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 311,
+    "sort_order": 326,
     "skin_variations": {
       "1F3FB": "1F9D1-1F3FB-200D-1F692",
       "1F3FC": "1F9D1-1F3FC-200D-1F692",
@@ -4449,7 +4690,7 @@ var ALL = [
     "unified": "1F468-200D-1F692",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 312,
+    "sort_order": 327,
     "skin_variations": {
       "1F3FB": "1F468-1F3FB-200D-1F692",
       "1F3FC": "1F468-1F3FC-200D-1F692",
@@ -4467,7 +4708,7 @@ var ALL = [
     "unified": "1F469-200D-1F692",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 313,
+    "sort_order": 328,
     "skin_variations": {
       "1F3FB": "1F469-1F3FB-200D-1F692",
       "1F3FC": "1F469-1F3FC-200D-1F692",
@@ -4485,7 +4726,7 @@ var ALL = [
     "unified": "1F46E",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 314,
+    "sort_order": 329,
     "skin_variations": {
       "1F3FB": "1F46E-1F3FB",
       "1F3FC": "1F46E-1F3FC",
@@ -4503,7 +4744,7 @@ var ALL = [
     "unified": "1F46E-200D-2642-FE0F",
     "non_qualified": "1F46E-200D-2642",
     "category": "People & Body",
-    "sort_order": 315,
+    "sort_order": 330,
     "skin_variations": {
       "1F3FB": "1F46E-1F3FB-200D-2642-FE0F",
       "1F3FC": "1F46E-1F3FC-200D-2642-FE0F",
@@ -4521,7 +4762,7 @@ var ALL = [
     "unified": "1F46E-200D-2640-FE0F",
     "non_qualified": "1F46E-200D-2640",
     "category": "People & Body",
-    "sort_order": 316,
+    "sort_order": 331,
     "skin_variations": {
       "1F3FB": "1F46E-1F3FB-200D-2640-FE0F",
       "1F3FC": "1F46E-1F3FC-200D-2640-FE0F",
@@ -4539,7 +4780,7 @@ var ALL = [
     "unified": "1F575-FE0F",
     "non_qualified": "1F575",
     "category": "People & Body",
-    "sort_order": 317,
+    "sort_order": 332,
     "skin_variations": {
       "1F3FB": "1F575-1F3FB",
       "1F3FC": "1F575-1F3FC",
@@ -4557,7 +4798,7 @@ var ALL = [
     "unified": "1F575-FE0F-200D-2642-FE0F",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 318,
+    "sort_order": 333,
     "skin_variations": {
       "1F3FB": "1F575-1F3FB-200D-2642-FE0F",
       "1F3FC": "1F575-1F3FC-200D-2642-FE0F",
@@ -4575,7 +4816,7 @@ var ALL = [
     "unified": "1F575-FE0F-200D-2640-FE0F",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 319,
+    "sort_order": 334,
     "skin_variations": {
       "1F3FB": "1F575-1F3FB-200D-2640-FE0F",
       "1F3FC": "1F575-1F3FC-200D-2640-FE0F",
@@ -4593,7 +4834,7 @@ var ALL = [
     "unified": "1F482",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 320,
+    "sort_order": 335,
     "skin_variations": {
       "1F3FB": "1F482-1F3FB",
       "1F3FC": "1F482-1F3FC",
@@ -4611,7 +4852,7 @@ var ALL = [
     "unified": "1F482-200D-2642-FE0F",
     "non_qualified": "1F482-200D-2642",
     "category": "People & Body",
-    "sort_order": 321,
+    "sort_order": 336,
     "skin_variations": {
       "1F3FB": "1F482-1F3FB-200D-2642-FE0F",
       "1F3FC": "1F482-1F3FC-200D-2642-FE0F",
@@ -4629,7 +4870,7 @@ var ALL = [
     "unified": "1F482-200D-2640-FE0F",
     "non_qualified": "1F482-200D-2640",
     "category": "People & Body",
-    "sort_order": 322,
+    "sort_order": 337,
     "skin_variations": {
       "1F3FB": "1F482-1F3FB-200D-2640-FE0F",
       "1F3FC": "1F482-1F3FC-200D-2640-FE0F",
@@ -4647,7 +4888,7 @@ var ALL = [
     "unified": "1F977",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 323,
+    "sort_order": 338,
     "skin_variations": {
       "1F3FB": "1F977-1F3FB",
       "1F3FC": "1F977-1F3FC",
@@ -4665,7 +4906,7 @@ var ALL = [
     "unified": "1F477",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 324,
+    "sort_order": 339,
     "skin_variations": {
       "1F3FB": "1F477-1F3FB",
       "1F3FC": "1F477-1F3FC",
@@ -4683,7 +4924,7 @@ var ALL = [
     "unified": "1F477-200D-2642-FE0F",
     "non_qualified": "1F477-200D-2642",
     "category": "People & Body",
-    "sort_order": 325,
+    "sort_order": 340,
     "skin_variations": {
       "1F3FB": "1F477-1F3FB-200D-2642-FE0F",
       "1F3FC": "1F477-1F3FC-200D-2642-FE0F",
@@ -4701,13 +4942,31 @@ var ALL = [
     "unified": "1F477-200D-2640-FE0F",
     "non_qualified": "1F477-200D-2640",
     "category": "People & Body",
-    "sort_order": 326,
+    "sort_order": 341,
     "skin_variations": {
       "1F3FB": "1F477-1F3FB-200D-2640-FE0F",
       "1F3FC": "1F477-1F3FC-200D-2640-FE0F",
       "1F3FD": "1F477-1F3FD-200D-2640-FE0F",
       "1F3FE": "1F477-1F3FE-200D-2640-FE0F",
       "1F3FF": "1F477-1F3FF-200D-2640-FE0F"
+    }
+  },
+  {
+    "name": "PERSON WITH CROWN",
+    "short_name": "person_with_crown",
+    "short_names": [
+      "person_with_crown"
+    ],
+    "unified": "1FAC5",
+    "non_qualified": null,
+    "category": "People & Body",
+    "sort_order": 342,
+    "skin_variations": {
+      "1F3FB": "1FAC5-1F3FB",
+      "1F3FC": "1FAC5-1F3FC",
+      "1F3FD": "1FAC5-1F3FD",
+      "1F3FE": "1FAC5-1F3FE",
+      "1F3FF": "1FAC5-1F3FF"
     }
   },
   {
@@ -4719,7 +4978,7 @@ var ALL = [
     "unified": "1F934",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 327,
+    "sort_order": 343,
     "skin_variations": {
       "1F3FB": "1F934-1F3FB",
       "1F3FC": "1F934-1F3FC",
@@ -4737,7 +4996,7 @@ var ALL = [
     "unified": "1F478",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 328,
+    "sort_order": 344,
     "skin_variations": {
       "1F3FB": "1F478-1F3FB",
       "1F3FC": "1F478-1F3FC",
@@ -4755,7 +5014,7 @@ var ALL = [
     "unified": "1F473",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 329,
+    "sort_order": 345,
     "skin_variations": {
       "1F3FB": "1F473-1F3FB",
       "1F3FC": "1F473-1F3FC",
@@ -4773,7 +5032,7 @@ var ALL = [
     "unified": "1F473-200D-2642-FE0F",
     "non_qualified": "1F473-200D-2642",
     "category": "People & Body",
-    "sort_order": 330,
+    "sort_order": 346,
     "skin_variations": {
       "1F3FB": "1F473-1F3FB-200D-2642-FE0F",
       "1F3FC": "1F473-1F3FC-200D-2642-FE0F",
@@ -4791,7 +5050,7 @@ var ALL = [
     "unified": "1F473-200D-2640-FE0F",
     "non_qualified": "1F473-200D-2640",
     "category": "People & Body",
-    "sort_order": 331,
+    "sort_order": 347,
     "skin_variations": {
       "1F3FB": "1F473-1F3FB-200D-2640-FE0F",
       "1F3FC": "1F473-1F3FC-200D-2640-FE0F",
@@ -4809,7 +5068,7 @@ var ALL = [
     "unified": "1F472",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 332,
+    "sort_order": 348,
     "skin_variations": {
       "1F3FB": "1F472-1F3FB",
       "1F3FC": "1F472-1F3FC",
@@ -4827,7 +5086,7 @@ var ALL = [
     "unified": "1F9D5",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 333,
+    "sort_order": 349,
     "skin_variations": {
       "1F3FB": "1F9D5-1F3FB",
       "1F3FC": "1F9D5-1F3FC",
@@ -4845,7 +5104,7 @@ var ALL = [
     "unified": "1F935",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 334,
+    "sort_order": 350,
     "skin_variations": {
       "1F3FB": "1F935-1F3FB",
       "1F3FC": "1F935-1F3FC",
@@ -4863,7 +5122,7 @@ var ALL = [
     "unified": "1F935-200D-2642-FE0F",
     "non_qualified": "1F935-200D-2642",
     "category": "People & Body",
-    "sort_order": 335,
+    "sort_order": 351,
     "skin_variations": {
       "1F3FB": "1F935-1F3FB-200D-2642-FE0F",
       "1F3FC": "1F935-1F3FC-200D-2642-FE0F",
@@ -4881,7 +5140,7 @@ var ALL = [
     "unified": "1F935-200D-2640-FE0F",
     "non_qualified": "1F935-200D-2640",
     "category": "People & Body",
-    "sort_order": 336,
+    "sort_order": 352,
     "skin_variations": {
       "1F3FB": "1F935-1F3FB-200D-2640-FE0F",
       "1F3FC": "1F935-1F3FC-200D-2640-FE0F",
@@ -4899,7 +5158,7 @@ var ALL = [
     "unified": "1F470",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 337,
+    "sort_order": 353,
     "skin_variations": {
       "1F3FB": "1F470-1F3FB",
       "1F3FC": "1F470-1F3FC",
@@ -4917,7 +5176,7 @@ var ALL = [
     "unified": "1F470-200D-2642-FE0F",
     "non_qualified": "1F470-200D-2642",
     "category": "People & Body",
-    "sort_order": 338,
+    "sort_order": 354,
     "skin_variations": {
       "1F3FB": "1F470-1F3FB-200D-2642-FE0F",
       "1F3FC": "1F470-1F3FC-200D-2642-FE0F",
@@ -4935,7 +5194,7 @@ var ALL = [
     "unified": "1F470-200D-2640-FE0F",
     "non_qualified": "1F470-200D-2640",
     "category": "People & Body",
-    "sort_order": 339,
+    "sort_order": 355,
     "skin_variations": {
       "1F3FB": "1F470-1F3FB-200D-2640-FE0F",
       "1F3FC": "1F470-1F3FC-200D-2640-FE0F",
@@ -4953,13 +5212,49 @@ var ALL = [
     "unified": "1F930",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 340,
+    "sort_order": 356,
     "skin_variations": {
       "1F3FB": "1F930-1F3FB",
       "1F3FC": "1F930-1F3FC",
       "1F3FD": "1F930-1F3FD",
       "1F3FE": "1F930-1F3FE",
       "1F3FF": "1F930-1F3FF"
+    }
+  },
+  {
+    "name": "PREGNANT MAN",
+    "short_name": "pregnant_man",
+    "short_names": [
+      "pregnant_man"
+    ],
+    "unified": "1FAC3",
+    "non_qualified": null,
+    "category": "People & Body",
+    "sort_order": 357,
+    "skin_variations": {
+      "1F3FB": "1FAC3-1F3FB",
+      "1F3FC": "1FAC3-1F3FC",
+      "1F3FD": "1FAC3-1F3FD",
+      "1F3FE": "1FAC3-1F3FE",
+      "1F3FF": "1FAC3-1F3FF"
+    }
+  },
+  {
+    "name": "PREGNANT PERSON",
+    "short_name": "pregnant_person",
+    "short_names": [
+      "pregnant_person"
+    ],
+    "unified": "1FAC4",
+    "non_qualified": null,
+    "category": "People & Body",
+    "sort_order": 358,
+    "skin_variations": {
+      "1F3FB": "1FAC4-1F3FB",
+      "1F3FC": "1FAC4-1F3FC",
+      "1F3FD": "1FAC4-1F3FD",
+      "1F3FE": "1FAC4-1F3FE",
+      "1F3FF": "1FAC4-1F3FF"
     }
   },
   {
@@ -4971,7 +5266,7 @@ var ALL = [
     "unified": "1F931",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 341,
+    "sort_order": 359,
     "skin_variations": {
       "1F3FB": "1F931-1F3FB",
       "1F3FC": "1F931-1F3FC",
@@ -4989,7 +5284,7 @@ var ALL = [
     "unified": "1F469-200D-1F37C",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 342,
+    "sort_order": 360,
     "skin_variations": {
       "1F3FB": "1F469-1F3FB-200D-1F37C",
       "1F3FC": "1F469-1F3FC-200D-1F37C",
@@ -5007,7 +5302,7 @@ var ALL = [
     "unified": "1F468-200D-1F37C",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 343,
+    "sort_order": 361,
     "skin_variations": {
       "1F3FB": "1F468-1F3FB-200D-1F37C",
       "1F3FC": "1F468-1F3FC-200D-1F37C",
@@ -5025,7 +5320,7 @@ var ALL = [
     "unified": "1F9D1-200D-1F37C",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 344,
+    "sort_order": 362,
     "skin_variations": {
       "1F3FB": "1F9D1-1F3FB-200D-1F37C",
       "1F3FC": "1F9D1-1F3FC-200D-1F37C",
@@ -5043,7 +5338,7 @@ var ALL = [
     "unified": "1F47C",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 345,
+    "sort_order": 363,
     "skin_variations": {
       "1F3FB": "1F47C-1F3FB",
       "1F3FC": "1F47C-1F3FC",
@@ -5061,7 +5356,7 @@ var ALL = [
     "unified": "1F385",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 346,
+    "sort_order": 364,
     "skin_variations": {
       "1F3FB": "1F385-1F3FB",
       "1F3FC": "1F385-1F3FC",
@@ -5080,7 +5375,7 @@ var ALL = [
     "unified": "1F936",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 347,
+    "sort_order": 365,
     "skin_variations": {
       "1F3FB": "1F936-1F3FB",
       "1F3FC": "1F936-1F3FC",
@@ -5098,7 +5393,7 @@ var ALL = [
     "unified": "1F9D1-200D-1F384",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 348,
+    "sort_order": 366,
     "skin_variations": {
       "1F3FB": "1F9D1-1F3FB-200D-1F384",
       "1F3FC": "1F9D1-1F3FC-200D-1F384",
@@ -5116,7 +5411,7 @@ var ALL = [
     "unified": "1F9B8",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 349,
+    "sort_order": 367,
     "skin_variations": {
       "1F3FB": "1F9B8-1F3FB",
       "1F3FC": "1F9B8-1F3FC",
@@ -5134,7 +5429,7 @@ var ALL = [
     "unified": "1F9B8-200D-2642-FE0F",
     "non_qualified": "1F9B8-200D-2642",
     "category": "People & Body",
-    "sort_order": 350,
+    "sort_order": 368,
     "skin_variations": {
       "1F3FB": "1F9B8-1F3FB-200D-2642-FE0F",
       "1F3FC": "1F9B8-1F3FC-200D-2642-FE0F",
@@ -5152,7 +5447,7 @@ var ALL = [
     "unified": "1F9B8-200D-2640-FE0F",
     "non_qualified": "1F9B8-200D-2640",
     "category": "People & Body",
-    "sort_order": 351,
+    "sort_order": 369,
     "skin_variations": {
       "1F3FB": "1F9B8-1F3FB-200D-2640-FE0F",
       "1F3FC": "1F9B8-1F3FC-200D-2640-FE0F",
@@ -5170,7 +5465,7 @@ var ALL = [
     "unified": "1F9B9",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 352,
+    "sort_order": 370,
     "skin_variations": {
       "1F3FB": "1F9B9-1F3FB",
       "1F3FC": "1F9B9-1F3FC",
@@ -5188,7 +5483,7 @@ var ALL = [
     "unified": "1F9B9-200D-2642-FE0F",
     "non_qualified": "1F9B9-200D-2642",
     "category": "People & Body",
-    "sort_order": 353,
+    "sort_order": 371,
     "skin_variations": {
       "1F3FB": "1F9B9-1F3FB-200D-2642-FE0F",
       "1F3FC": "1F9B9-1F3FC-200D-2642-FE0F",
@@ -5206,7 +5501,7 @@ var ALL = [
     "unified": "1F9B9-200D-2640-FE0F",
     "non_qualified": "1F9B9-200D-2640",
     "category": "People & Body",
-    "sort_order": 354,
+    "sort_order": 372,
     "skin_variations": {
       "1F3FB": "1F9B9-1F3FB-200D-2640-FE0F",
       "1F3FC": "1F9B9-1F3FC-200D-2640-FE0F",
@@ -5224,7 +5519,7 @@ var ALL = [
     "unified": "1F9D9",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 355,
+    "sort_order": 373,
     "skin_variations": {
       "1F3FB": "1F9D9-1F3FB",
       "1F3FC": "1F9D9-1F3FC",
@@ -5242,7 +5537,7 @@ var ALL = [
     "unified": "1F9D9-200D-2642-FE0F",
     "non_qualified": "1F9D9-200D-2642",
     "category": "People & Body",
-    "sort_order": 356,
+    "sort_order": 374,
     "skin_variations": {
       "1F3FB": "1F9D9-1F3FB-200D-2642-FE0F",
       "1F3FC": "1F9D9-1F3FC-200D-2642-FE0F",
@@ -5260,7 +5555,7 @@ var ALL = [
     "unified": "1F9D9-200D-2640-FE0F",
     "non_qualified": "1F9D9-200D-2640",
     "category": "People & Body",
-    "sort_order": 357,
+    "sort_order": 375,
     "skin_variations": {
       "1F3FB": "1F9D9-1F3FB-200D-2640-FE0F",
       "1F3FC": "1F9D9-1F3FC-200D-2640-FE0F",
@@ -5278,7 +5573,7 @@ var ALL = [
     "unified": "1F9DA",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 358,
+    "sort_order": 376,
     "skin_variations": {
       "1F3FB": "1F9DA-1F3FB",
       "1F3FC": "1F9DA-1F3FC",
@@ -5296,7 +5591,7 @@ var ALL = [
     "unified": "1F9DA-200D-2642-FE0F",
     "non_qualified": "1F9DA-200D-2642",
     "category": "People & Body",
-    "sort_order": 359,
+    "sort_order": 377,
     "skin_variations": {
       "1F3FB": "1F9DA-1F3FB-200D-2642-FE0F",
       "1F3FC": "1F9DA-1F3FC-200D-2642-FE0F",
@@ -5314,7 +5609,7 @@ var ALL = [
     "unified": "1F9DA-200D-2640-FE0F",
     "non_qualified": "1F9DA-200D-2640",
     "category": "People & Body",
-    "sort_order": 360,
+    "sort_order": 378,
     "skin_variations": {
       "1F3FB": "1F9DA-1F3FB-200D-2640-FE0F",
       "1F3FC": "1F9DA-1F3FC-200D-2640-FE0F",
@@ -5332,7 +5627,7 @@ var ALL = [
     "unified": "1F9DB",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 361,
+    "sort_order": 379,
     "skin_variations": {
       "1F3FB": "1F9DB-1F3FB",
       "1F3FC": "1F9DB-1F3FC",
@@ -5350,7 +5645,7 @@ var ALL = [
     "unified": "1F9DB-200D-2642-FE0F",
     "non_qualified": "1F9DB-200D-2642",
     "category": "People & Body",
-    "sort_order": 362,
+    "sort_order": 380,
     "skin_variations": {
       "1F3FB": "1F9DB-1F3FB-200D-2642-FE0F",
       "1F3FC": "1F9DB-1F3FC-200D-2642-FE0F",
@@ -5368,7 +5663,7 @@ var ALL = [
     "unified": "1F9DB-200D-2640-FE0F",
     "non_qualified": "1F9DB-200D-2640",
     "category": "People & Body",
-    "sort_order": 363,
+    "sort_order": 381,
     "skin_variations": {
       "1F3FB": "1F9DB-1F3FB-200D-2640-FE0F",
       "1F3FC": "1F9DB-1F3FC-200D-2640-FE0F",
@@ -5386,7 +5681,7 @@ var ALL = [
     "unified": "1F9DC",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 364,
+    "sort_order": 382,
     "skin_variations": {
       "1F3FB": "1F9DC-1F3FB",
       "1F3FC": "1F9DC-1F3FC",
@@ -5404,7 +5699,7 @@ var ALL = [
     "unified": "1F9DC-200D-2642-FE0F",
     "non_qualified": "1F9DC-200D-2642",
     "category": "People & Body",
-    "sort_order": 365,
+    "sort_order": 383,
     "skin_variations": {
       "1F3FB": "1F9DC-1F3FB-200D-2642-FE0F",
       "1F3FC": "1F9DC-1F3FC-200D-2642-FE0F",
@@ -5422,7 +5717,7 @@ var ALL = [
     "unified": "1F9DC-200D-2640-FE0F",
     "non_qualified": "1F9DC-200D-2640",
     "category": "People & Body",
-    "sort_order": 366,
+    "sort_order": 384,
     "skin_variations": {
       "1F3FB": "1F9DC-1F3FB-200D-2640-FE0F",
       "1F3FC": "1F9DC-1F3FC-200D-2640-FE0F",
@@ -5440,7 +5735,7 @@ var ALL = [
     "unified": "1F9DD",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 367,
+    "sort_order": 385,
     "skin_variations": {
       "1F3FB": "1F9DD-1F3FB",
       "1F3FC": "1F9DD-1F3FC",
@@ -5458,7 +5753,7 @@ var ALL = [
     "unified": "1F9DD-200D-2642-FE0F",
     "non_qualified": "1F9DD-200D-2642",
     "category": "People & Body",
-    "sort_order": 368,
+    "sort_order": 386,
     "skin_variations": {
       "1F3FB": "1F9DD-1F3FB-200D-2642-FE0F",
       "1F3FC": "1F9DD-1F3FC-200D-2642-FE0F",
@@ -5476,7 +5771,7 @@ var ALL = [
     "unified": "1F9DD-200D-2640-FE0F",
     "non_qualified": "1F9DD-200D-2640",
     "category": "People & Body",
-    "sort_order": 369,
+    "sort_order": 387,
     "skin_variations": {
       "1F3FB": "1F9DD-1F3FB-200D-2640-FE0F",
       "1F3FC": "1F9DD-1F3FC-200D-2640-FE0F",
@@ -5494,7 +5789,7 @@ var ALL = [
     "unified": "1F9DE",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 370
+    "sort_order": 388
   },
   {
     "name": "MAN GENIE",
@@ -5505,7 +5800,7 @@ var ALL = [
     "unified": "1F9DE-200D-2642-FE0F",
     "non_qualified": "1F9DE-200D-2642",
     "category": "People & Body",
-    "sort_order": 371
+    "sort_order": 389
   },
   {
     "name": "WOMAN GENIE",
@@ -5516,7 +5811,7 @@ var ALL = [
     "unified": "1F9DE-200D-2640-FE0F",
     "non_qualified": "1F9DE-200D-2640",
     "category": "People & Body",
-    "sort_order": 372
+    "sort_order": 390
   },
   {
     "name": "ZOMBIE",
@@ -5527,7 +5822,7 @@ var ALL = [
     "unified": "1F9DF",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 373
+    "sort_order": 391
   },
   {
     "name": "MAN ZOMBIE",
@@ -5538,7 +5833,7 @@ var ALL = [
     "unified": "1F9DF-200D-2642-FE0F",
     "non_qualified": "1F9DF-200D-2642",
     "category": "People & Body",
-    "sort_order": 374
+    "sort_order": 392
   },
   {
     "name": "WOMAN ZOMBIE",
@@ -5549,7 +5844,18 @@ var ALL = [
     "unified": "1F9DF-200D-2640-FE0F",
     "non_qualified": "1F9DF-200D-2640",
     "category": "People & Body",
-    "sort_order": 375
+    "sort_order": 393
+  },
+  {
+    "name": "TROLL",
+    "short_name": "troll",
+    "short_names": [
+      "troll"
+    ],
+    "unified": "1F9CC",
+    "non_qualified": null,
+    "category": "People & Body",
+    "sort_order": 394
   },
   {
     "name": "FACE MASSAGE",
@@ -5560,7 +5866,7 @@ var ALL = [
     "unified": "1F486",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 376,
+    "sort_order": 395,
     "skin_variations": {
       "1F3FB": "1F486-1F3FB",
       "1F3FC": "1F486-1F3FC",
@@ -5578,7 +5884,7 @@ var ALL = [
     "unified": "1F486-200D-2642-FE0F",
     "non_qualified": "1F486-200D-2642",
     "category": "People & Body",
-    "sort_order": 377,
+    "sort_order": 396,
     "skin_variations": {
       "1F3FB": "1F486-1F3FB-200D-2642-FE0F",
       "1F3FC": "1F486-1F3FC-200D-2642-FE0F",
@@ -5596,7 +5902,7 @@ var ALL = [
     "unified": "1F486-200D-2640-FE0F",
     "non_qualified": "1F486-200D-2640",
     "category": "People & Body",
-    "sort_order": 378,
+    "sort_order": 397,
     "skin_variations": {
       "1F3FB": "1F486-1F3FB-200D-2640-FE0F",
       "1F3FC": "1F486-1F3FC-200D-2640-FE0F",
@@ -5614,7 +5920,7 @@ var ALL = [
     "unified": "1F487",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 379,
+    "sort_order": 398,
     "skin_variations": {
       "1F3FB": "1F487-1F3FB",
       "1F3FC": "1F487-1F3FC",
@@ -5632,7 +5938,7 @@ var ALL = [
     "unified": "1F487-200D-2642-FE0F",
     "non_qualified": "1F487-200D-2642",
     "category": "People & Body",
-    "sort_order": 380,
+    "sort_order": 399,
     "skin_variations": {
       "1F3FB": "1F487-1F3FB-200D-2642-FE0F",
       "1F3FC": "1F487-1F3FC-200D-2642-FE0F",
@@ -5650,7 +5956,7 @@ var ALL = [
     "unified": "1F487-200D-2640-FE0F",
     "non_qualified": "1F487-200D-2640",
     "category": "People & Body",
-    "sort_order": 381,
+    "sort_order": 400,
     "skin_variations": {
       "1F3FB": "1F487-1F3FB-200D-2640-FE0F",
       "1F3FC": "1F487-1F3FC-200D-2640-FE0F",
@@ -5668,7 +5974,7 @@ var ALL = [
     "unified": "1F6B6",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 382,
+    "sort_order": 401,
     "skin_variations": {
       "1F3FB": "1F6B6-1F3FB",
       "1F3FC": "1F6B6-1F3FC",
@@ -5686,7 +5992,7 @@ var ALL = [
     "unified": "1F6B6-200D-2642-FE0F",
     "non_qualified": "1F6B6-200D-2642",
     "category": "People & Body",
-    "sort_order": 383,
+    "sort_order": 402,
     "skin_variations": {
       "1F3FB": "1F6B6-1F3FB-200D-2642-FE0F",
       "1F3FC": "1F6B6-1F3FC-200D-2642-FE0F",
@@ -5704,7 +6010,7 @@ var ALL = [
     "unified": "1F6B6-200D-2640-FE0F",
     "non_qualified": "1F6B6-200D-2640",
     "category": "People & Body",
-    "sort_order": 384,
+    "sort_order": 403,
     "skin_variations": {
       "1F3FB": "1F6B6-1F3FB-200D-2640-FE0F",
       "1F3FC": "1F6B6-1F3FC-200D-2640-FE0F",
@@ -5722,7 +6028,7 @@ var ALL = [
     "unified": "1F9CD",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 385,
+    "sort_order": 404,
     "skin_variations": {
       "1F3FB": "1F9CD-1F3FB",
       "1F3FC": "1F9CD-1F3FC",
@@ -5740,7 +6046,7 @@ var ALL = [
     "unified": "1F9CD-200D-2642-FE0F",
     "non_qualified": "1F9CD-200D-2642",
     "category": "People & Body",
-    "sort_order": 386,
+    "sort_order": 405,
     "skin_variations": {
       "1F3FB": "1F9CD-1F3FB-200D-2642-FE0F",
       "1F3FC": "1F9CD-1F3FC-200D-2642-FE0F",
@@ -5758,7 +6064,7 @@ var ALL = [
     "unified": "1F9CD-200D-2640-FE0F",
     "non_qualified": "1F9CD-200D-2640",
     "category": "People & Body",
-    "sort_order": 387,
+    "sort_order": 406,
     "skin_variations": {
       "1F3FB": "1F9CD-1F3FB-200D-2640-FE0F",
       "1F3FC": "1F9CD-1F3FC-200D-2640-FE0F",
@@ -5776,7 +6082,7 @@ var ALL = [
     "unified": "1F9CE",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 388,
+    "sort_order": 407,
     "skin_variations": {
       "1F3FB": "1F9CE-1F3FB",
       "1F3FC": "1F9CE-1F3FC",
@@ -5794,7 +6100,7 @@ var ALL = [
     "unified": "1F9CE-200D-2642-FE0F",
     "non_qualified": "1F9CE-200D-2642",
     "category": "People & Body",
-    "sort_order": 389,
+    "sort_order": 408,
     "skin_variations": {
       "1F3FB": "1F9CE-1F3FB-200D-2642-FE0F",
       "1F3FC": "1F9CE-1F3FC-200D-2642-FE0F",
@@ -5812,7 +6118,7 @@ var ALL = [
     "unified": "1F9CE-200D-2640-FE0F",
     "non_qualified": "1F9CE-200D-2640",
     "category": "People & Body",
-    "sort_order": 390,
+    "sort_order": 409,
     "skin_variations": {
       "1F3FB": "1F9CE-1F3FB-200D-2640-FE0F",
       "1F3FC": "1F9CE-1F3FC-200D-2640-FE0F",
@@ -5830,7 +6136,7 @@ var ALL = [
     "unified": "1F9D1-200D-1F9AF",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 391,
+    "sort_order": 410,
     "skin_variations": {
       "1F3FB": "1F9D1-1F3FB-200D-1F9AF",
       "1F3FC": "1F9D1-1F3FC-200D-1F9AF",
@@ -5848,7 +6154,7 @@ var ALL = [
     "unified": "1F468-200D-1F9AF",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 392,
+    "sort_order": 411,
     "skin_variations": {
       "1F3FB": "1F468-1F3FB-200D-1F9AF",
       "1F3FC": "1F468-1F3FC-200D-1F9AF",
@@ -5866,7 +6172,7 @@ var ALL = [
     "unified": "1F469-200D-1F9AF",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 393,
+    "sort_order": 412,
     "skin_variations": {
       "1F3FB": "1F469-1F3FB-200D-1F9AF",
       "1F3FC": "1F469-1F3FC-200D-1F9AF",
@@ -5884,7 +6190,7 @@ var ALL = [
     "unified": "1F9D1-200D-1F9BC",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 394,
+    "sort_order": 413,
     "skin_variations": {
       "1F3FB": "1F9D1-1F3FB-200D-1F9BC",
       "1F3FC": "1F9D1-1F3FC-200D-1F9BC",
@@ -5902,7 +6208,7 @@ var ALL = [
     "unified": "1F468-200D-1F9BC",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 395,
+    "sort_order": 414,
     "skin_variations": {
       "1F3FB": "1F468-1F3FB-200D-1F9BC",
       "1F3FC": "1F468-1F3FC-200D-1F9BC",
@@ -5920,7 +6226,7 @@ var ALL = [
     "unified": "1F469-200D-1F9BC",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 396,
+    "sort_order": 415,
     "skin_variations": {
       "1F3FB": "1F469-1F3FB-200D-1F9BC",
       "1F3FC": "1F469-1F3FC-200D-1F9BC",
@@ -5938,7 +6244,7 @@ var ALL = [
     "unified": "1F9D1-200D-1F9BD",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 397,
+    "sort_order": 416,
     "skin_variations": {
       "1F3FB": "1F9D1-1F3FB-200D-1F9BD",
       "1F3FC": "1F9D1-1F3FC-200D-1F9BD",
@@ -5956,7 +6262,7 @@ var ALL = [
     "unified": "1F468-200D-1F9BD",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 398,
+    "sort_order": 417,
     "skin_variations": {
       "1F3FB": "1F468-1F3FB-200D-1F9BD",
       "1F3FC": "1F468-1F3FC-200D-1F9BD",
@@ -5974,7 +6280,7 @@ var ALL = [
     "unified": "1F469-200D-1F9BD",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 399,
+    "sort_order": 418,
     "skin_variations": {
       "1F3FB": "1F469-1F3FB-200D-1F9BD",
       "1F3FC": "1F469-1F3FC-200D-1F9BD",
@@ -5993,7 +6299,7 @@ var ALL = [
     "unified": "1F3C3",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 400,
+    "sort_order": 419,
     "skin_variations": {
       "1F3FB": "1F3C3-1F3FB",
       "1F3FC": "1F3C3-1F3FC",
@@ -6011,7 +6317,7 @@ var ALL = [
     "unified": "1F3C3-200D-2642-FE0F",
     "non_qualified": "1F3C3-200D-2642",
     "category": "People & Body",
-    "sort_order": 401,
+    "sort_order": 420,
     "skin_variations": {
       "1F3FB": "1F3C3-1F3FB-200D-2642-FE0F",
       "1F3FC": "1F3C3-1F3FC-200D-2642-FE0F",
@@ -6029,7 +6335,7 @@ var ALL = [
     "unified": "1F3C3-200D-2640-FE0F",
     "non_qualified": "1F3C3-200D-2640",
     "category": "People & Body",
-    "sort_order": 402,
+    "sort_order": 421,
     "skin_variations": {
       "1F3FB": "1F3C3-1F3FB-200D-2640-FE0F",
       "1F3FC": "1F3C3-1F3FC-200D-2640-FE0F",
@@ -6047,7 +6353,7 @@ var ALL = [
     "unified": "1F483",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 403,
+    "sort_order": 422,
     "skin_variations": {
       "1F3FB": "1F483-1F3FB",
       "1F3FC": "1F483-1F3FC",
@@ -6065,7 +6371,7 @@ var ALL = [
     "unified": "1F57A",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 404,
+    "sort_order": 423,
     "skin_variations": {
       "1F3FB": "1F57A-1F3FB",
       "1F3FC": "1F57A-1F3FC",
@@ -6083,7 +6389,7 @@ var ALL = [
     "unified": "1F574-FE0F",
     "non_qualified": "1F574",
     "category": "People & Body",
-    "sort_order": 405,
+    "sort_order": 424,
     "skin_variations": {
       "1F3FB": "1F574-1F3FB",
       "1F3FC": "1F574-1F3FC",
@@ -6101,7 +6407,7 @@ var ALL = [
     "unified": "1F46F",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 406
+    "sort_order": 425
   },
   {
     "name": "MEN WITH BUNNY EARS",
@@ -6113,7 +6419,7 @@ var ALL = [
     "unified": "1F46F-200D-2642-FE0F",
     "non_qualified": "1F46F-200D-2642",
     "category": "People & Body",
-    "sort_order": 407
+    "sort_order": 426
   },
   {
     "name": "WOMEN WITH BUNNY EARS",
@@ -6125,7 +6431,7 @@ var ALL = [
     "unified": "1F46F-200D-2640-FE0F",
     "non_qualified": "1F46F-200D-2640",
     "category": "People & Body",
-    "sort_order": 408
+    "sort_order": 427
   },
   {
     "name": "PERSON IN STEAMY ROOM",
@@ -6136,7 +6442,7 @@ var ALL = [
     "unified": "1F9D6",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 409,
+    "sort_order": 428,
     "skin_variations": {
       "1F3FB": "1F9D6-1F3FB",
       "1F3FC": "1F9D6-1F3FC",
@@ -6154,7 +6460,7 @@ var ALL = [
     "unified": "1F9D6-200D-2642-FE0F",
     "non_qualified": "1F9D6-200D-2642",
     "category": "People & Body",
-    "sort_order": 410,
+    "sort_order": 429,
     "skin_variations": {
       "1F3FB": "1F9D6-1F3FB-200D-2642-FE0F",
       "1F3FC": "1F9D6-1F3FC-200D-2642-FE0F",
@@ -6172,7 +6478,7 @@ var ALL = [
     "unified": "1F9D6-200D-2640-FE0F",
     "non_qualified": "1F9D6-200D-2640",
     "category": "People & Body",
-    "sort_order": 411,
+    "sort_order": 430,
     "skin_variations": {
       "1F3FB": "1F9D6-1F3FB-200D-2640-FE0F",
       "1F3FC": "1F9D6-1F3FC-200D-2640-FE0F",
@@ -6190,7 +6496,7 @@ var ALL = [
     "unified": "1F9D7",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 412,
+    "sort_order": 431,
     "skin_variations": {
       "1F3FB": "1F9D7-1F3FB",
       "1F3FC": "1F9D7-1F3FC",
@@ -6208,7 +6514,7 @@ var ALL = [
     "unified": "1F9D7-200D-2642-FE0F",
     "non_qualified": "1F9D7-200D-2642",
     "category": "People & Body",
-    "sort_order": 413,
+    "sort_order": 432,
     "skin_variations": {
       "1F3FB": "1F9D7-1F3FB-200D-2642-FE0F",
       "1F3FC": "1F9D7-1F3FC-200D-2642-FE0F",
@@ -6226,7 +6532,7 @@ var ALL = [
     "unified": "1F9D7-200D-2640-FE0F",
     "non_qualified": "1F9D7-200D-2640",
     "category": "People & Body",
-    "sort_order": 414,
+    "sort_order": 433,
     "skin_variations": {
       "1F3FB": "1F9D7-1F3FB-200D-2640-FE0F",
       "1F3FC": "1F9D7-1F3FC-200D-2640-FE0F",
@@ -6244,7 +6550,7 @@ var ALL = [
     "unified": "1F93A",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 415
+    "sort_order": 434
   },
   {
     "name": "HORSE RACING",
@@ -6255,7 +6561,7 @@ var ALL = [
     "unified": "1F3C7",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 416,
+    "sort_order": 435,
     "skin_variations": {
       "1F3FB": "1F3C7-1F3FB",
       "1F3FC": "1F3C7-1F3FC",
@@ -6273,7 +6579,7 @@ var ALL = [
     "unified": "26F7-FE0F",
     "non_qualified": "26F7",
     "category": "People & Body",
-    "sort_order": 417
+    "sort_order": 436
   },
   {
     "name": "SNOWBOARDER",
@@ -6284,7 +6590,7 @@ var ALL = [
     "unified": "1F3C2",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 418,
+    "sort_order": 437,
     "skin_variations": {
       "1F3FB": "1F3C2-1F3FB",
       "1F3FC": "1F3C2-1F3FC",
@@ -6302,7 +6608,7 @@ var ALL = [
     "unified": "1F3CC-FE0F",
     "non_qualified": "1F3CC",
     "category": "People & Body",
-    "sort_order": 419,
+    "sort_order": 438,
     "skin_variations": {
       "1F3FB": "1F3CC-1F3FB",
       "1F3FC": "1F3CC-1F3FC",
@@ -6320,7 +6626,7 @@ var ALL = [
     "unified": "1F3CC-FE0F-200D-2642-FE0F",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 420,
+    "sort_order": 439,
     "skin_variations": {
       "1F3FB": "1F3CC-1F3FB-200D-2642-FE0F",
       "1F3FC": "1F3CC-1F3FC-200D-2642-FE0F",
@@ -6338,7 +6644,7 @@ var ALL = [
     "unified": "1F3CC-FE0F-200D-2640-FE0F",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 421,
+    "sort_order": 440,
     "skin_variations": {
       "1F3FB": "1F3CC-1F3FB-200D-2640-FE0F",
       "1F3FC": "1F3CC-1F3FC-200D-2640-FE0F",
@@ -6356,7 +6662,7 @@ var ALL = [
     "unified": "1F3C4",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 422,
+    "sort_order": 441,
     "skin_variations": {
       "1F3FB": "1F3C4-1F3FB",
       "1F3FC": "1F3C4-1F3FC",
@@ -6374,7 +6680,7 @@ var ALL = [
     "unified": "1F3C4-200D-2642-FE0F",
     "non_qualified": "1F3C4-200D-2642",
     "category": "People & Body",
-    "sort_order": 423,
+    "sort_order": 442,
     "skin_variations": {
       "1F3FB": "1F3C4-1F3FB-200D-2642-FE0F",
       "1F3FC": "1F3C4-1F3FC-200D-2642-FE0F",
@@ -6392,7 +6698,7 @@ var ALL = [
     "unified": "1F3C4-200D-2640-FE0F",
     "non_qualified": "1F3C4-200D-2640",
     "category": "People & Body",
-    "sort_order": 424,
+    "sort_order": 443,
     "skin_variations": {
       "1F3FB": "1F3C4-1F3FB-200D-2640-FE0F",
       "1F3FC": "1F3C4-1F3FC-200D-2640-FE0F",
@@ -6410,7 +6716,7 @@ var ALL = [
     "unified": "1F6A3",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 425,
+    "sort_order": 444,
     "skin_variations": {
       "1F3FB": "1F6A3-1F3FB",
       "1F3FC": "1F6A3-1F3FC",
@@ -6428,7 +6734,7 @@ var ALL = [
     "unified": "1F6A3-200D-2642-FE0F",
     "non_qualified": "1F6A3-200D-2642",
     "category": "People & Body",
-    "sort_order": 426,
+    "sort_order": 445,
     "skin_variations": {
       "1F3FB": "1F6A3-1F3FB-200D-2642-FE0F",
       "1F3FC": "1F6A3-1F3FC-200D-2642-FE0F",
@@ -6446,7 +6752,7 @@ var ALL = [
     "unified": "1F6A3-200D-2640-FE0F",
     "non_qualified": "1F6A3-200D-2640",
     "category": "People & Body",
-    "sort_order": 427,
+    "sort_order": 446,
     "skin_variations": {
       "1F3FB": "1F6A3-1F3FB-200D-2640-FE0F",
       "1F3FC": "1F6A3-1F3FC-200D-2640-FE0F",
@@ -6464,7 +6770,7 @@ var ALL = [
     "unified": "1F3CA",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 428,
+    "sort_order": 447,
     "skin_variations": {
       "1F3FB": "1F3CA-1F3FB",
       "1F3FC": "1F3CA-1F3FC",
@@ -6482,7 +6788,7 @@ var ALL = [
     "unified": "1F3CA-200D-2642-FE0F",
     "non_qualified": "1F3CA-200D-2642",
     "category": "People & Body",
-    "sort_order": 429,
+    "sort_order": 448,
     "skin_variations": {
       "1F3FB": "1F3CA-1F3FB-200D-2642-FE0F",
       "1F3FC": "1F3CA-1F3FC-200D-2642-FE0F",
@@ -6500,7 +6806,7 @@ var ALL = [
     "unified": "1F3CA-200D-2640-FE0F",
     "non_qualified": "1F3CA-200D-2640",
     "category": "People & Body",
-    "sort_order": 430,
+    "sort_order": 449,
     "skin_variations": {
       "1F3FB": "1F3CA-1F3FB-200D-2640-FE0F",
       "1F3FC": "1F3CA-1F3FC-200D-2640-FE0F",
@@ -6518,7 +6824,7 @@ var ALL = [
     "unified": "26F9-FE0F",
     "non_qualified": "26F9",
     "category": "People & Body",
-    "sort_order": 431,
+    "sort_order": 450,
     "skin_variations": {
       "1F3FB": "26F9-1F3FB",
       "1F3FC": "26F9-1F3FC",
@@ -6536,7 +6842,7 @@ var ALL = [
     "unified": "26F9-FE0F-200D-2642-FE0F",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 432,
+    "sort_order": 451,
     "skin_variations": {
       "1F3FB": "26F9-1F3FB-200D-2642-FE0F",
       "1F3FC": "26F9-1F3FC-200D-2642-FE0F",
@@ -6554,7 +6860,7 @@ var ALL = [
     "unified": "26F9-FE0F-200D-2640-FE0F",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 433,
+    "sort_order": 452,
     "skin_variations": {
       "1F3FB": "26F9-1F3FB-200D-2640-FE0F",
       "1F3FC": "26F9-1F3FC-200D-2640-FE0F",
@@ -6572,7 +6878,7 @@ var ALL = [
     "unified": "1F3CB-FE0F",
     "non_qualified": "1F3CB",
     "category": "People & Body",
-    "sort_order": 434,
+    "sort_order": 453,
     "skin_variations": {
       "1F3FB": "1F3CB-1F3FB",
       "1F3FC": "1F3CB-1F3FC",
@@ -6590,7 +6896,7 @@ var ALL = [
     "unified": "1F3CB-FE0F-200D-2642-FE0F",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 435,
+    "sort_order": 454,
     "skin_variations": {
       "1F3FB": "1F3CB-1F3FB-200D-2642-FE0F",
       "1F3FC": "1F3CB-1F3FC-200D-2642-FE0F",
@@ -6608,7 +6914,7 @@ var ALL = [
     "unified": "1F3CB-FE0F-200D-2640-FE0F",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 436,
+    "sort_order": 455,
     "skin_variations": {
       "1F3FB": "1F3CB-1F3FB-200D-2640-FE0F",
       "1F3FC": "1F3CB-1F3FC-200D-2640-FE0F",
@@ -6626,7 +6932,7 @@ var ALL = [
     "unified": "1F6B4",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 437,
+    "sort_order": 456,
     "skin_variations": {
       "1F3FB": "1F6B4-1F3FB",
       "1F3FC": "1F6B4-1F3FC",
@@ -6644,7 +6950,7 @@ var ALL = [
     "unified": "1F6B4-200D-2642-FE0F",
     "non_qualified": "1F6B4-200D-2642",
     "category": "People & Body",
-    "sort_order": 438,
+    "sort_order": 457,
     "skin_variations": {
       "1F3FB": "1F6B4-1F3FB-200D-2642-FE0F",
       "1F3FC": "1F6B4-1F3FC-200D-2642-FE0F",
@@ -6662,7 +6968,7 @@ var ALL = [
     "unified": "1F6B4-200D-2640-FE0F",
     "non_qualified": "1F6B4-200D-2640",
     "category": "People & Body",
-    "sort_order": 439,
+    "sort_order": 458,
     "skin_variations": {
       "1F3FB": "1F6B4-1F3FB-200D-2640-FE0F",
       "1F3FC": "1F6B4-1F3FC-200D-2640-FE0F",
@@ -6680,7 +6986,7 @@ var ALL = [
     "unified": "1F6B5",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 440,
+    "sort_order": 459,
     "skin_variations": {
       "1F3FB": "1F6B5-1F3FB",
       "1F3FC": "1F6B5-1F3FC",
@@ -6698,7 +7004,7 @@ var ALL = [
     "unified": "1F6B5-200D-2642-FE0F",
     "non_qualified": "1F6B5-200D-2642",
     "category": "People & Body",
-    "sort_order": 441,
+    "sort_order": 460,
     "skin_variations": {
       "1F3FB": "1F6B5-1F3FB-200D-2642-FE0F",
       "1F3FC": "1F6B5-1F3FC-200D-2642-FE0F",
@@ -6716,7 +7022,7 @@ var ALL = [
     "unified": "1F6B5-200D-2640-FE0F",
     "non_qualified": "1F6B5-200D-2640",
     "category": "People & Body",
-    "sort_order": 442,
+    "sort_order": 461,
     "skin_variations": {
       "1F3FB": "1F6B5-1F3FB-200D-2640-FE0F",
       "1F3FC": "1F6B5-1F3FC-200D-2640-FE0F",
@@ -6734,7 +7040,7 @@ var ALL = [
     "unified": "1F938",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 443,
+    "sort_order": 462,
     "skin_variations": {
       "1F3FB": "1F938-1F3FB",
       "1F3FC": "1F938-1F3FC",
@@ -6752,7 +7058,7 @@ var ALL = [
     "unified": "1F938-200D-2642-FE0F",
     "non_qualified": "1F938-200D-2642",
     "category": "People & Body",
-    "sort_order": 444,
+    "sort_order": 463,
     "skin_variations": {
       "1F3FB": "1F938-1F3FB-200D-2642-FE0F",
       "1F3FC": "1F938-1F3FC-200D-2642-FE0F",
@@ -6770,7 +7076,7 @@ var ALL = [
     "unified": "1F938-200D-2640-FE0F",
     "non_qualified": "1F938-200D-2640",
     "category": "People & Body",
-    "sort_order": 445,
+    "sort_order": 464,
     "skin_variations": {
       "1F3FB": "1F938-1F3FB-200D-2640-FE0F",
       "1F3FC": "1F938-1F3FC-200D-2640-FE0F",
@@ -6788,7 +7094,7 @@ var ALL = [
     "unified": "1F93C",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 446
+    "sort_order": 465
   },
   {
     "name": "MEN WRESTLING",
@@ -6799,7 +7105,7 @@ var ALL = [
     "unified": "1F93C-200D-2642-FE0F",
     "non_qualified": "1F93C-200D-2642",
     "category": "People & Body",
-    "sort_order": 447
+    "sort_order": 466
   },
   {
     "name": "WOMEN WRESTLING",
@@ -6810,7 +7116,7 @@ var ALL = [
     "unified": "1F93C-200D-2640-FE0F",
     "non_qualified": "1F93C-200D-2640",
     "category": "People & Body",
-    "sort_order": 448
+    "sort_order": 467
   },
   {
     "name": "WATER POLO",
@@ -6821,7 +7127,7 @@ var ALL = [
     "unified": "1F93D",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 449,
+    "sort_order": 468,
     "skin_variations": {
       "1F3FB": "1F93D-1F3FB",
       "1F3FC": "1F93D-1F3FC",
@@ -6839,7 +7145,7 @@ var ALL = [
     "unified": "1F93D-200D-2642-FE0F",
     "non_qualified": "1F93D-200D-2642",
     "category": "People & Body",
-    "sort_order": 450,
+    "sort_order": 469,
     "skin_variations": {
       "1F3FB": "1F93D-1F3FB-200D-2642-FE0F",
       "1F3FC": "1F93D-1F3FC-200D-2642-FE0F",
@@ -6857,7 +7163,7 @@ var ALL = [
     "unified": "1F93D-200D-2640-FE0F",
     "non_qualified": "1F93D-200D-2640",
     "category": "People & Body",
-    "sort_order": 451,
+    "sort_order": 470,
     "skin_variations": {
       "1F3FB": "1F93D-1F3FB-200D-2640-FE0F",
       "1F3FC": "1F93D-1F3FC-200D-2640-FE0F",
@@ -6875,7 +7181,7 @@ var ALL = [
     "unified": "1F93E",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 452,
+    "sort_order": 471,
     "skin_variations": {
       "1F3FB": "1F93E-1F3FB",
       "1F3FC": "1F93E-1F3FC",
@@ -6893,7 +7199,7 @@ var ALL = [
     "unified": "1F93E-200D-2642-FE0F",
     "non_qualified": "1F93E-200D-2642",
     "category": "People & Body",
-    "sort_order": 453,
+    "sort_order": 472,
     "skin_variations": {
       "1F3FB": "1F93E-1F3FB-200D-2642-FE0F",
       "1F3FC": "1F93E-1F3FC-200D-2642-FE0F",
@@ -6911,7 +7217,7 @@ var ALL = [
     "unified": "1F93E-200D-2640-FE0F",
     "non_qualified": "1F93E-200D-2640",
     "category": "People & Body",
-    "sort_order": 454,
+    "sort_order": 473,
     "skin_variations": {
       "1F3FB": "1F93E-1F3FB-200D-2640-FE0F",
       "1F3FC": "1F93E-1F3FC-200D-2640-FE0F",
@@ -6929,7 +7235,7 @@ var ALL = [
     "unified": "1F939",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 455,
+    "sort_order": 474,
     "skin_variations": {
       "1F3FB": "1F939-1F3FB",
       "1F3FC": "1F939-1F3FC",
@@ -6947,7 +7253,7 @@ var ALL = [
     "unified": "1F939-200D-2642-FE0F",
     "non_qualified": "1F939-200D-2642",
     "category": "People & Body",
-    "sort_order": 456,
+    "sort_order": 475,
     "skin_variations": {
       "1F3FB": "1F939-1F3FB-200D-2642-FE0F",
       "1F3FC": "1F939-1F3FC-200D-2642-FE0F",
@@ -6965,7 +7271,7 @@ var ALL = [
     "unified": "1F939-200D-2640-FE0F",
     "non_qualified": "1F939-200D-2640",
     "category": "People & Body",
-    "sort_order": 457,
+    "sort_order": 476,
     "skin_variations": {
       "1F3FB": "1F939-1F3FB-200D-2640-FE0F",
       "1F3FC": "1F939-1F3FC-200D-2640-FE0F",
@@ -6983,7 +7289,7 @@ var ALL = [
     "unified": "1F9D8",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 458,
+    "sort_order": 477,
     "skin_variations": {
       "1F3FB": "1F9D8-1F3FB",
       "1F3FC": "1F9D8-1F3FC",
@@ -7001,7 +7307,7 @@ var ALL = [
     "unified": "1F9D8-200D-2642-FE0F",
     "non_qualified": "1F9D8-200D-2642",
     "category": "People & Body",
-    "sort_order": 459,
+    "sort_order": 478,
     "skin_variations": {
       "1F3FB": "1F9D8-1F3FB-200D-2642-FE0F",
       "1F3FC": "1F9D8-1F3FC-200D-2642-FE0F",
@@ -7019,7 +7325,7 @@ var ALL = [
     "unified": "1F9D8-200D-2640-FE0F",
     "non_qualified": "1F9D8-200D-2640",
     "category": "People & Body",
-    "sort_order": 460,
+    "sort_order": 479,
     "skin_variations": {
       "1F3FB": "1F9D8-1F3FB-200D-2640-FE0F",
       "1F3FC": "1F9D8-1F3FC-200D-2640-FE0F",
@@ -7037,7 +7343,7 @@ var ALL = [
     "unified": "1F6C0",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 461,
+    "sort_order": 480,
     "skin_variations": {
       "1F3FB": "1F6C0-1F3FB",
       "1F3FC": "1F6C0-1F3FC",
@@ -7055,7 +7361,7 @@ var ALL = [
     "unified": "1F6CC",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 462,
+    "sort_order": 481,
     "skin_variations": {
       "1F3FB": "1F6CC-1F3FB",
       "1F3FC": "1F6CC-1F3FC",
@@ -7073,7 +7379,7 @@ var ALL = [
     "unified": "1F9D1-200D-1F91D-200D-1F9D1",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 463,
+    "sort_order": 482,
     "skin_variations": {
       "1F3FB-1F3FB": "1F9D1-1F3FB-200D-1F91D-200D-1F9D1-1F3FB",
       "1F3FB-1F3FC": "1F9D1-1F3FB-200D-1F91D-200D-1F9D1-1F3FC",
@@ -7112,7 +7418,7 @@ var ALL = [
     "unified": "1F46D",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 464,
+    "sort_order": 483,
     "skin_variations": {
       "1F3FB": "1F46D-1F3FB",
       "1F3FC": "1F46D-1F3FC",
@@ -7152,7 +7458,7 @@ var ALL = [
     "unified": "1F46B",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 465,
+    "sort_order": 484,
     "skin_variations": {
       "1F3FB": "1F46B-1F3FB",
       "1F3FC": "1F46B-1F3FC",
@@ -7191,7 +7497,7 @@ var ALL = [
     "unified": "1F46C",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 466,
+    "sort_order": 485,
     "skin_variations": {
       "1F3FB": "1F46C-1F3FB",
       "1F3FC": "1F46C-1F3FC",
@@ -7229,7 +7535,7 @@ var ALL = [
     "unified": "1F48F",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 467,
+    "sort_order": 486,
     "skin_variations": {
       "1F3FB": "1F48F-1F3FB",
       "1F3FC": "1F48F-1F3FC",
@@ -7267,7 +7573,7 @@ var ALL = [
     "unified": "1F469-200D-2764-FE0F-200D-1F48B-200D-1F468",
     "non_qualified": "1F469-200D-2764-200D-1F48B-200D-1F468",
     "category": "People & Body",
-    "sort_order": 468,
+    "sort_order": 487,
     "skin_variations": {
       "1F3FB-1F3FB": "1F469-1F3FB-200D-2764-FE0F-200D-1F48B-200D-1F468-1F3FB",
       "1F3FB-1F3FC": "1F469-1F3FB-200D-2764-FE0F-200D-1F48B-200D-1F468-1F3FC",
@@ -7305,7 +7611,7 @@ var ALL = [
     "unified": "1F468-200D-2764-FE0F-200D-1F48B-200D-1F468",
     "non_qualified": "1F468-200D-2764-200D-1F48B-200D-1F468",
     "category": "People & Body",
-    "sort_order": 469,
+    "sort_order": 488,
     "skin_variations": {
       "1F3FB-1F3FB": "1F468-1F3FB-200D-2764-FE0F-200D-1F48B-200D-1F468-1F3FB",
       "1F3FB-1F3FC": "1F468-1F3FB-200D-2764-FE0F-200D-1F48B-200D-1F468-1F3FC",
@@ -7343,7 +7649,7 @@ var ALL = [
     "unified": "1F469-200D-2764-FE0F-200D-1F48B-200D-1F469",
     "non_qualified": "1F469-200D-2764-200D-1F48B-200D-1F469",
     "category": "People & Body",
-    "sort_order": 470,
+    "sort_order": 489,
     "skin_variations": {
       "1F3FB-1F3FB": "1F469-1F3FB-200D-2764-FE0F-200D-1F48B-200D-1F469-1F3FB",
       "1F3FB-1F3FC": "1F469-1F3FB-200D-2764-FE0F-200D-1F48B-200D-1F469-1F3FC",
@@ -7381,7 +7687,7 @@ var ALL = [
     "unified": "1F491",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 471,
+    "sort_order": 490,
     "skin_variations": {
       "1F3FB": "1F491-1F3FB",
       "1F3FC": "1F491-1F3FC",
@@ -7419,7 +7725,7 @@ var ALL = [
     "unified": "1F469-200D-2764-FE0F-200D-1F468",
     "non_qualified": "1F469-200D-2764-200D-1F468",
     "category": "People & Body",
-    "sort_order": 472,
+    "sort_order": 491,
     "skin_variations": {
       "1F3FB-1F3FB": "1F469-1F3FB-200D-2764-FE0F-200D-1F468-1F3FB",
       "1F3FB-1F3FC": "1F469-1F3FB-200D-2764-FE0F-200D-1F468-1F3FC",
@@ -7457,7 +7763,7 @@ var ALL = [
     "unified": "1F468-200D-2764-FE0F-200D-1F468",
     "non_qualified": "1F468-200D-2764-200D-1F468",
     "category": "People & Body",
-    "sort_order": 473,
+    "sort_order": 492,
     "skin_variations": {
       "1F3FB-1F3FB": "1F468-1F3FB-200D-2764-FE0F-200D-1F468-1F3FB",
       "1F3FB-1F3FC": "1F468-1F3FB-200D-2764-FE0F-200D-1F468-1F3FC",
@@ -7495,7 +7801,7 @@ var ALL = [
     "unified": "1F469-200D-2764-FE0F-200D-1F469",
     "non_qualified": "1F469-200D-2764-200D-1F469",
     "category": "People & Body",
-    "sort_order": 474,
+    "sort_order": 493,
     "skin_variations": {
       "1F3FB-1F3FB": "1F469-1F3FB-200D-2764-FE0F-200D-1F469-1F3FB",
       "1F3FB-1F3FC": "1F469-1F3FB-200D-2764-FE0F-200D-1F469-1F3FC",
@@ -7533,7 +7839,7 @@ var ALL = [
     "unified": "1F46A",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 475
+    "sort_order": 494
   },
   {
     "name": "FAMILY: MAN, WOMAN, BOY",
@@ -7544,7 +7850,7 @@ var ALL = [
     "unified": "1F468-200D-1F469-200D-1F466",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 476
+    "sort_order": 495
   },
   {
     "name": "FAMILY: MAN, WOMAN, GIRL",
@@ -7555,7 +7861,7 @@ var ALL = [
     "unified": "1F468-200D-1F469-200D-1F467",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 477
+    "sort_order": 496
   },
   {
     "name": "FAMILY: MAN, WOMAN, GIRL, BOY",
@@ -7566,7 +7872,7 @@ var ALL = [
     "unified": "1F468-200D-1F469-200D-1F467-200D-1F466",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 478
+    "sort_order": 497
   },
   {
     "name": "FAMILY: MAN, WOMAN, BOY, BOY",
@@ -7577,7 +7883,7 @@ var ALL = [
     "unified": "1F468-200D-1F469-200D-1F466-200D-1F466",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 479
+    "sort_order": 498
   },
   {
     "name": "FAMILY: MAN, WOMAN, GIRL, GIRL",
@@ -7588,7 +7894,7 @@ var ALL = [
     "unified": "1F468-200D-1F469-200D-1F467-200D-1F467",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 480
+    "sort_order": 499
   },
   {
     "name": "FAMILY: MAN, MAN, BOY",
@@ -7599,7 +7905,7 @@ var ALL = [
     "unified": "1F468-200D-1F468-200D-1F466",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 481
+    "sort_order": 500
   },
   {
     "name": "FAMILY: MAN, MAN, GIRL",
@@ -7610,7 +7916,7 @@ var ALL = [
     "unified": "1F468-200D-1F468-200D-1F467",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 482
+    "sort_order": 501
   },
   {
     "name": "FAMILY: MAN, MAN, GIRL, BOY",
@@ -7621,7 +7927,7 @@ var ALL = [
     "unified": "1F468-200D-1F468-200D-1F467-200D-1F466",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 483
+    "sort_order": 502
   },
   {
     "name": "FAMILY: MAN, MAN, BOY, BOY",
@@ -7632,7 +7938,7 @@ var ALL = [
     "unified": "1F468-200D-1F468-200D-1F466-200D-1F466",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 484
+    "sort_order": 503
   },
   {
     "name": "FAMILY: MAN, MAN, GIRL, GIRL",
@@ -7643,7 +7949,7 @@ var ALL = [
     "unified": "1F468-200D-1F468-200D-1F467-200D-1F467",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 485
+    "sort_order": 504
   },
   {
     "name": "FAMILY: WOMAN, WOMAN, BOY",
@@ -7654,7 +7960,7 @@ var ALL = [
     "unified": "1F469-200D-1F469-200D-1F466",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 486
+    "sort_order": 505
   },
   {
     "name": "FAMILY: WOMAN, WOMAN, GIRL",
@@ -7665,7 +7971,7 @@ var ALL = [
     "unified": "1F469-200D-1F469-200D-1F467",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 487
+    "sort_order": 506
   },
   {
     "name": "FAMILY: WOMAN, WOMAN, GIRL, BOY",
@@ -7676,7 +7982,7 @@ var ALL = [
     "unified": "1F469-200D-1F469-200D-1F467-200D-1F466",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 488
+    "sort_order": 507
   },
   {
     "name": "FAMILY: WOMAN, WOMAN, BOY, BOY",
@@ -7687,7 +7993,7 @@ var ALL = [
     "unified": "1F469-200D-1F469-200D-1F466-200D-1F466",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 489
+    "sort_order": 508
   },
   {
     "name": "FAMILY: WOMAN, WOMAN, GIRL, GIRL",
@@ -7698,7 +8004,7 @@ var ALL = [
     "unified": "1F469-200D-1F469-200D-1F467-200D-1F467",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 490
+    "sort_order": 509
   },
   {
     "name": "FAMILY: MAN, BOY",
@@ -7709,7 +8015,7 @@ var ALL = [
     "unified": "1F468-200D-1F466",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 491
+    "sort_order": 510
   },
   {
     "name": "FAMILY: MAN, BOY, BOY",
@@ -7720,7 +8026,7 @@ var ALL = [
     "unified": "1F468-200D-1F466-200D-1F466",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 492
+    "sort_order": 511
   },
   {
     "name": "FAMILY: MAN, GIRL",
@@ -7731,7 +8037,7 @@ var ALL = [
     "unified": "1F468-200D-1F467",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 493
+    "sort_order": 512
   },
   {
     "name": "FAMILY: MAN, GIRL, BOY",
@@ -7742,7 +8048,7 @@ var ALL = [
     "unified": "1F468-200D-1F467-200D-1F466",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 494
+    "sort_order": 513
   },
   {
     "name": "FAMILY: MAN, GIRL, GIRL",
@@ -7753,7 +8059,7 @@ var ALL = [
     "unified": "1F468-200D-1F467-200D-1F467",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 495
+    "sort_order": 514
   },
   {
     "name": "FAMILY: WOMAN, BOY",
@@ -7764,7 +8070,7 @@ var ALL = [
     "unified": "1F469-200D-1F466",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 496
+    "sort_order": 515
   },
   {
     "name": "FAMILY: WOMAN, BOY, BOY",
@@ -7775,7 +8081,7 @@ var ALL = [
     "unified": "1F469-200D-1F466-200D-1F466",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 497
+    "sort_order": 516
   },
   {
     "name": "FAMILY: WOMAN, GIRL",
@@ -7786,7 +8092,7 @@ var ALL = [
     "unified": "1F469-200D-1F467",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 498
+    "sort_order": 517
   },
   {
     "name": "FAMILY: WOMAN, GIRL, BOY",
@@ -7797,7 +8103,7 @@ var ALL = [
     "unified": "1F469-200D-1F467-200D-1F466",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 499
+    "sort_order": 518
   },
   {
     "name": "FAMILY: WOMAN, GIRL, GIRL",
@@ -7808,7 +8114,7 @@ var ALL = [
     "unified": "1F469-200D-1F467-200D-1F467",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 500
+    "sort_order": 519
   },
   {
     "name": "SPEAKING HEAD",
@@ -7819,7 +8125,7 @@ var ALL = [
     "unified": "1F5E3-FE0F",
     "non_qualified": "1F5E3",
     "category": "People & Body",
-    "sort_order": 501
+    "sort_order": 520
   },
   {
     "name": "BUST IN SILHOUETTE",
@@ -7830,7 +8136,7 @@ var ALL = [
     "unified": "1F464",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 502
+    "sort_order": 521
   },
   {
     "name": "BUSTS IN SILHOUETTE",
@@ -7841,7 +8147,7 @@ var ALL = [
     "unified": "1F465",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 503
+    "sort_order": 522
   },
   {
     "name": "PEOPLE HUGGING",
@@ -7852,7 +8158,7 @@ var ALL = [
     "unified": "1FAC2",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 504
+    "sort_order": 523
   },
   {
     "name": "FOOTPRINTS",
@@ -7863,7 +8169,7 @@ var ALL = [
     "unified": "1F463",
     "non_qualified": null,
     "category": "People & Body",
-    "sort_order": 505
+    "sort_order": 524
   },
   {
     "name": "EMOJI MODIFIER FITZPATRICK TYPE-1-2",
@@ -7874,7 +8180,7 @@ var ALL = [
     "unified": "1F3FB",
     "non_qualified": null,
     "category": "Component",
-    "sort_order": 506
+    "sort_order": 525
   },
   {
     "name": "EMOJI MODIFIER FITZPATRICK TYPE-3",
@@ -7885,7 +8191,7 @@ var ALL = [
     "unified": "1F3FC",
     "non_qualified": null,
     "category": "Component",
-    "sort_order": 507
+    "sort_order": 526
   },
   {
     "name": "EMOJI MODIFIER FITZPATRICK TYPE-4",
@@ -7896,7 +8202,7 @@ var ALL = [
     "unified": "1F3FD",
     "non_qualified": null,
     "category": "Component",
-    "sort_order": 508
+    "sort_order": 527
   },
   {
     "name": "EMOJI MODIFIER FITZPATRICK TYPE-5",
@@ -7907,7 +8213,7 @@ var ALL = [
     "unified": "1F3FE",
     "non_qualified": null,
     "category": "Component",
-    "sort_order": 509
+    "sort_order": 528
   },
   {
     "name": "EMOJI MODIFIER FITZPATRICK TYPE-6",
@@ -7918,7 +8224,7 @@ var ALL = [
     "unified": "1F3FF",
     "non_qualified": null,
     "category": "Component",
-    "sort_order": 510
+    "sort_order": 529
   },
   {
     "name": "MONKEY FACE",
@@ -7929,7 +8235,7 @@ var ALL = [
     "unified": "1F435",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 511
+    "sort_order": 530
   },
   {
     "name": "MONKEY",
@@ -7940,7 +8246,7 @@ var ALL = [
     "unified": "1F412",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 512
+    "sort_order": 531
   },
   {
     "name": "GORILLA",
@@ -7951,7 +8257,7 @@ var ALL = [
     "unified": "1F98D",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 513
+    "sort_order": 532
   },
   {
     "name": "ORANGUTAN",
@@ -7962,7 +8268,7 @@ var ALL = [
     "unified": "1F9A7",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 514
+    "sort_order": 533
   },
   {
     "name": "DOG FACE",
@@ -7973,7 +8279,7 @@ var ALL = [
     "unified": "1F436",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 515
+    "sort_order": 534
   },
   {
     "name": "DOG",
@@ -7984,7 +8290,7 @@ var ALL = [
     "unified": "1F415",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 516
+    "sort_order": 535
   },
   {
     "name": "GUIDE DOG",
@@ -7995,7 +8301,7 @@ var ALL = [
     "unified": "1F9AE",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 517
+    "sort_order": 536
   },
   {
     "name": "SERVICE DOG",
@@ -8006,7 +8312,7 @@ var ALL = [
     "unified": "1F415-200D-1F9BA",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 518
+    "sort_order": 537
   },
   {
     "name": "POODLE",
@@ -8017,7 +8323,7 @@ var ALL = [
     "unified": "1F429",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 519
+    "sort_order": 538
   },
   {
     "name": "WOLF FACE",
@@ -8028,7 +8334,7 @@ var ALL = [
     "unified": "1F43A",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 520
+    "sort_order": 539
   },
   {
     "name": "FOX FACE",
@@ -8039,7 +8345,7 @@ var ALL = [
     "unified": "1F98A",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 521
+    "sort_order": 540
   },
   {
     "name": "RACCOON",
@@ -8050,7 +8356,7 @@ var ALL = [
     "unified": "1F99D",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 522
+    "sort_order": 541
   },
   {
     "name": "CAT FACE",
@@ -8061,7 +8367,7 @@ var ALL = [
     "unified": "1F431",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 523
+    "sort_order": 542
   },
   {
     "name": "CAT",
@@ -8072,7 +8378,7 @@ var ALL = [
     "unified": "1F408",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 524
+    "sort_order": 543
   },
   {
     "name": "BLACK CAT",
@@ -8083,7 +8389,7 @@ var ALL = [
     "unified": "1F408-200D-2B1B",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 525
+    "sort_order": 544
   },
   {
     "name": "LION FACE",
@@ -8094,7 +8400,7 @@ var ALL = [
     "unified": "1F981",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 526
+    "sort_order": 545
   },
   {
     "name": "TIGER FACE",
@@ -8105,7 +8411,7 @@ var ALL = [
     "unified": "1F42F",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 527
+    "sort_order": 546
   },
   {
     "name": "TIGER",
@@ -8116,7 +8422,7 @@ var ALL = [
     "unified": "1F405",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 528
+    "sort_order": 547
   },
   {
     "name": "LEOPARD",
@@ -8127,7 +8433,7 @@ var ALL = [
     "unified": "1F406",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 529
+    "sort_order": 548
   },
   {
     "name": "HORSE FACE",
@@ -8138,7 +8444,7 @@ var ALL = [
     "unified": "1F434",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 530
+    "sort_order": 549
   },
   {
     "name": "HORSE",
@@ -8149,7 +8455,7 @@ var ALL = [
     "unified": "1F40E",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 531
+    "sort_order": 550
   },
   {
     "name": "UNICORN FACE",
@@ -8160,7 +8466,7 @@ var ALL = [
     "unified": "1F984",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 532
+    "sort_order": 551
   },
   {
     "name": "ZEBRA FACE",
@@ -8171,7 +8477,7 @@ var ALL = [
     "unified": "1F993",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 533
+    "sort_order": 552
   },
   {
     "name": "DEER",
@@ -8182,7 +8488,7 @@ var ALL = [
     "unified": "1F98C",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 534
+    "sort_order": 553
   },
   {
     "name": "BISON",
@@ -8193,7 +8499,7 @@ var ALL = [
     "unified": "1F9AC",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 535
+    "sort_order": 554
   },
   {
     "name": "COW FACE",
@@ -8204,7 +8510,7 @@ var ALL = [
     "unified": "1F42E",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 536
+    "sort_order": 555
   },
   {
     "name": "OX",
@@ -8215,7 +8521,7 @@ var ALL = [
     "unified": "1F402",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 537
+    "sort_order": 556
   },
   {
     "name": "WATER BUFFALO",
@@ -8226,7 +8532,7 @@ var ALL = [
     "unified": "1F403",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 538
+    "sort_order": 557
   },
   {
     "name": "COW",
@@ -8237,7 +8543,7 @@ var ALL = [
     "unified": "1F404",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 539
+    "sort_order": 558
   },
   {
     "name": "PIG FACE",
@@ -8248,7 +8554,7 @@ var ALL = [
     "unified": "1F437",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 540
+    "sort_order": 559
   },
   {
     "name": "PIG",
@@ -8259,7 +8565,7 @@ var ALL = [
     "unified": "1F416",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 541
+    "sort_order": 560
   },
   {
     "name": "BOAR",
@@ -8270,7 +8576,7 @@ var ALL = [
     "unified": "1F417",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 542
+    "sort_order": 561
   },
   {
     "name": "PIG NOSE",
@@ -8281,7 +8587,7 @@ var ALL = [
     "unified": "1F43D",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 543
+    "sort_order": 562
   },
   {
     "name": "RAM",
@@ -8292,7 +8598,7 @@ var ALL = [
     "unified": "1F40F",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 544
+    "sort_order": 563
   },
   {
     "name": "SHEEP",
@@ -8303,7 +8609,7 @@ var ALL = [
     "unified": "1F411",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 545
+    "sort_order": 564
   },
   {
     "name": "GOAT",
@@ -8314,7 +8620,7 @@ var ALL = [
     "unified": "1F410",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 546
+    "sort_order": 565
   },
   {
     "name": "DROMEDARY CAMEL",
@@ -8325,7 +8631,7 @@ var ALL = [
     "unified": "1F42A",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 547
+    "sort_order": 566
   },
   {
     "name": "BACTRIAN CAMEL",
@@ -8336,7 +8642,7 @@ var ALL = [
     "unified": "1F42B",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 548
+    "sort_order": 567
   },
   {
     "name": "LLAMA",
@@ -8347,7 +8653,7 @@ var ALL = [
     "unified": "1F999",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 549
+    "sort_order": 568
   },
   {
     "name": "GIRAFFE FACE",
@@ -8358,7 +8664,7 @@ var ALL = [
     "unified": "1F992",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 550
+    "sort_order": 569
   },
   {
     "name": "ELEPHANT",
@@ -8369,7 +8675,7 @@ var ALL = [
     "unified": "1F418",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 551
+    "sort_order": 570
   },
   {
     "name": "MAMMOTH",
@@ -8380,7 +8686,7 @@ var ALL = [
     "unified": "1F9A3",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 552
+    "sort_order": 571
   },
   {
     "name": "RHINOCEROS",
@@ -8391,7 +8697,7 @@ var ALL = [
     "unified": "1F98F",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 553
+    "sort_order": 572
   },
   {
     "name": "HIPPOPOTAMUS",
@@ -8402,7 +8708,7 @@ var ALL = [
     "unified": "1F99B",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 554
+    "sort_order": 573
   },
   {
     "name": "MOUSE FACE",
@@ -8413,7 +8719,7 @@ var ALL = [
     "unified": "1F42D",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 555
+    "sort_order": 574
   },
   {
     "name": "MOUSE",
@@ -8424,7 +8730,7 @@ var ALL = [
     "unified": "1F401",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 556
+    "sort_order": 575
   },
   {
     "name": "RAT",
@@ -8435,7 +8741,7 @@ var ALL = [
     "unified": "1F400",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 557
+    "sort_order": 576
   },
   {
     "name": "HAMSTER FACE",
@@ -8446,7 +8752,7 @@ var ALL = [
     "unified": "1F439",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 558
+    "sort_order": 577
   },
   {
     "name": "RABBIT FACE",
@@ -8457,7 +8763,7 @@ var ALL = [
     "unified": "1F430",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 559
+    "sort_order": 578
   },
   {
     "name": "RABBIT",
@@ -8468,7 +8774,7 @@ var ALL = [
     "unified": "1F407",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 560
+    "sort_order": 579
   },
   {
     "name": "CHIPMUNK",
@@ -8479,7 +8785,7 @@ var ALL = [
     "unified": "1F43F-FE0F",
     "non_qualified": "1F43F",
     "category": "Animals & Nature",
-    "sort_order": 561
+    "sort_order": 580
   },
   {
     "name": "BEAVER",
@@ -8490,7 +8796,7 @@ var ALL = [
     "unified": "1F9AB",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 562
+    "sort_order": 581
   },
   {
     "name": "HEDGEHOG",
@@ -8501,7 +8807,7 @@ var ALL = [
     "unified": "1F994",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 563
+    "sort_order": 582
   },
   {
     "name": "BAT",
@@ -8512,7 +8818,7 @@ var ALL = [
     "unified": "1F987",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 564
+    "sort_order": 583
   },
   {
     "name": "BEAR FACE",
@@ -8523,7 +8829,7 @@ var ALL = [
     "unified": "1F43B",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 565
+    "sort_order": 584
   },
   {
     "name": "POLAR BEAR",
@@ -8534,7 +8840,7 @@ var ALL = [
     "unified": "1F43B-200D-2744-FE0F",
     "non_qualified": "1F43B-200D-2744",
     "category": "Animals & Nature",
-    "sort_order": 566
+    "sort_order": 585
   },
   {
     "name": "KOALA",
@@ -8545,7 +8851,7 @@ var ALL = [
     "unified": "1F428",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 567
+    "sort_order": 586
   },
   {
     "name": "PANDA FACE",
@@ -8556,7 +8862,7 @@ var ALL = [
     "unified": "1F43C",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 568
+    "sort_order": 587
   },
   {
     "name": "SLOTH",
@@ -8567,7 +8873,7 @@ var ALL = [
     "unified": "1F9A5",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 569
+    "sort_order": 588
   },
   {
     "name": "OTTER",
@@ -8578,7 +8884,7 @@ var ALL = [
     "unified": "1F9A6",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 570
+    "sort_order": 589
   },
   {
     "name": "SKUNK",
@@ -8589,7 +8895,7 @@ var ALL = [
     "unified": "1F9A8",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 571
+    "sort_order": 590
   },
   {
     "name": "KANGAROO",
@@ -8600,7 +8906,7 @@ var ALL = [
     "unified": "1F998",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 572
+    "sort_order": 591
   },
   {
     "name": "BADGER",
@@ -8611,7 +8917,7 @@ var ALL = [
     "unified": "1F9A1",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 573
+    "sort_order": 592
   },
   {
     "name": "PAW PRINTS",
@@ -8623,7 +8929,7 @@ var ALL = [
     "unified": "1F43E",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 574
+    "sort_order": 593
   },
   {
     "name": "TURKEY",
@@ -8634,7 +8940,7 @@ var ALL = [
     "unified": "1F983",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 575
+    "sort_order": 594
   },
   {
     "name": "CHICKEN",
@@ -8645,7 +8951,7 @@ var ALL = [
     "unified": "1F414",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 576
+    "sort_order": 595
   },
   {
     "name": "ROOSTER",
@@ -8656,7 +8962,7 @@ var ALL = [
     "unified": "1F413",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 577
+    "sort_order": 596
   },
   {
     "name": "HATCHING CHICK",
@@ -8667,7 +8973,7 @@ var ALL = [
     "unified": "1F423",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 578
+    "sort_order": 597
   },
   {
     "name": "BABY CHICK",
@@ -8678,7 +8984,7 @@ var ALL = [
     "unified": "1F424",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 579
+    "sort_order": 598
   },
   {
     "name": "FRONT-FACING BABY CHICK",
@@ -8689,7 +8995,7 @@ var ALL = [
     "unified": "1F425",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 580
+    "sort_order": 599
   },
   {
     "name": "BIRD",
@@ -8700,7 +9006,7 @@ var ALL = [
     "unified": "1F426",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 581
+    "sort_order": 600
   },
   {
     "name": "PENGUIN",
@@ -8711,7 +9017,7 @@ var ALL = [
     "unified": "1F427",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 582
+    "sort_order": 601
   },
   {
     "name": "DOVE",
@@ -8722,7 +9028,7 @@ var ALL = [
     "unified": "1F54A-FE0F",
     "non_qualified": "1F54A",
     "category": "Animals & Nature",
-    "sort_order": 583
+    "sort_order": 602
   },
   {
     "name": "EAGLE",
@@ -8733,7 +9039,7 @@ var ALL = [
     "unified": "1F985",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 584
+    "sort_order": 603
   },
   {
     "name": "DUCK",
@@ -8744,7 +9050,7 @@ var ALL = [
     "unified": "1F986",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 585
+    "sort_order": 604
   },
   {
     "name": "SWAN",
@@ -8755,7 +9061,7 @@ var ALL = [
     "unified": "1F9A2",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 586
+    "sort_order": 605
   },
   {
     "name": "OWL",
@@ -8766,7 +9072,7 @@ var ALL = [
     "unified": "1F989",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 587
+    "sort_order": 606
   },
   {
     "name": "DODO",
@@ -8777,7 +9083,7 @@ var ALL = [
     "unified": "1F9A4",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 588
+    "sort_order": 607
   },
   {
     "name": "FEATHER",
@@ -8788,7 +9094,7 @@ var ALL = [
     "unified": "1FAB6",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 589
+    "sort_order": 608
   },
   {
     "name": "FLAMINGO",
@@ -8799,7 +9105,7 @@ var ALL = [
     "unified": "1F9A9",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 590
+    "sort_order": 609
   },
   {
     "name": "PEACOCK",
@@ -8810,7 +9116,7 @@ var ALL = [
     "unified": "1F99A",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 591
+    "sort_order": 610
   },
   {
     "name": "PARROT",
@@ -8821,7 +9127,7 @@ var ALL = [
     "unified": "1F99C",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 592
+    "sort_order": 611
   },
   {
     "name": "FROG FACE",
@@ -8832,7 +9138,7 @@ var ALL = [
     "unified": "1F438",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 593
+    "sort_order": 612
   },
   {
     "name": "CROCODILE",
@@ -8843,7 +9149,7 @@ var ALL = [
     "unified": "1F40A",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 594
+    "sort_order": 613
   },
   {
     "name": "TURTLE",
@@ -8854,7 +9160,7 @@ var ALL = [
     "unified": "1F422",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 595
+    "sort_order": 614
   },
   {
     "name": "LIZARD",
@@ -8865,7 +9171,7 @@ var ALL = [
     "unified": "1F98E",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 596
+    "sort_order": 615
   },
   {
     "name": "SNAKE",
@@ -8876,7 +9182,7 @@ var ALL = [
     "unified": "1F40D",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 597
+    "sort_order": 616
   },
   {
     "name": "DRAGON FACE",
@@ -8887,7 +9193,7 @@ var ALL = [
     "unified": "1F432",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 598
+    "sort_order": 617
   },
   {
     "name": "DRAGON",
@@ -8898,7 +9204,7 @@ var ALL = [
     "unified": "1F409",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 599
+    "sort_order": 618
   },
   {
     "name": "SAUROPOD",
@@ -8909,7 +9215,7 @@ var ALL = [
     "unified": "1F995",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 600
+    "sort_order": 619
   },
   {
     "name": "T-REX",
@@ -8920,7 +9226,7 @@ var ALL = [
     "unified": "1F996",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 601
+    "sort_order": 620
   },
   {
     "name": "SPOUTING WHALE",
@@ -8931,7 +9237,7 @@ var ALL = [
     "unified": "1F433",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 602
+    "sort_order": 621
   },
   {
     "name": "WHALE",
@@ -8942,7 +9248,7 @@ var ALL = [
     "unified": "1F40B",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 603
+    "sort_order": 622
   },
   {
     "name": "DOLPHIN",
@@ -8954,7 +9260,7 @@ var ALL = [
     "unified": "1F42C",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 604
+    "sort_order": 623
   },
   {
     "name": "SEAL",
@@ -8965,7 +9271,7 @@ var ALL = [
     "unified": "1F9AD",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 605
+    "sort_order": 624
   },
   {
     "name": "FISH",
@@ -8976,7 +9282,7 @@ var ALL = [
     "unified": "1F41F",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 606
+    "sort_order": 625
   },
   {
     "name": "TROPICAL FISH",
@@ -8987,7 +9293,7 @@ var ALL = [
     "unified": "1F420",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 607
+    "sort_order": 626
   },
   {
     "name": "BLOWFISH",
@@ -8998,7 +9304,7 @@ var ALL = [
     "unified": "1F421",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 608
+    "sort_order": 627
   },
   {
     "name": "SHARK",
@@ -9009,7 +9315,7 @@ var ALL = [
     "unified": "1F988",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 609
+    "sort_order": 628
   },
   {
     "name": "OCTOPUS",
@@ -9020,7 +9326,7 @@ var ALL = [
     "unified": "1F419",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 610
+    "sort_order": 629
   },
   {
     "name": "SPIRAL SHELL",
@@ -9031,7 +9337,18 @@ var ALL = [
     "unified": "1F41A",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 611
+    "sort_order": 630
+  },
+  {
+    "name": "CORAL",
+    "short_name": "coral",
+    "short_names": [
+      "coral"
+    ],
+    "unified": "1FAB8",
+    "non_qualified": null,
+    "category": "Animals & Nature",
+    "sort_order": 631
   },
   {
     "name": "SNAIL",
@@ -9042,7 +9359,7 @@ var ALL = [
     "unified": "1F40C",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 612
+    "sort_order": 632
   },
   {
     "name": "BUTTERFLY",
@@ -9053,7 +9370,7 @@ var ALL = [
     "unified": "1F98B",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 613
+    "sort_order": 633
   },
   {
     "name": "BUG",
@@ -9064,7 +9381,7 @@ var ALL = [
     "unified": "1F41B",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 614
+    "sort_order": 634
   },
   {
     "name": "ANT",
@@ -9075,7 +9392,7 @@ var ALL = [
     "unified": "1F41C",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 615
+    "sort_order": 635
   },
   {
     "name": "HONEYBEE",
@@ -9087,7 +9404,7 @@ var ALL = [
     "unified": "1F41D",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 616
+    "sort_order": 636
   },
   {
     "name": "BEETLE",
@@ -9098,7 +9415,7 @@ var ALL = [
     "unified": "1FAB2",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 617
+    "sort_order": 637
   },
   {
     "name": "LADY BEETLE",
@@ -9110,7 +9427,7 @@ var ALL = [
     "unified": "1F41E",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 618
+    "sort_order": 638
   },
   {
     "name": "CRICKET",
@@ -9121,7 +9438,7 @@ var ALL = [
     "unified": "1F997",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 619
+    "sort_order": 639
   },
   {
     "name": "COCKROACH",
@@ -9132,7 +9449,7 @@ var ALL = [
     "unified": "1FAB3",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 620
+    "sort_order": 640
   },
   {
     "name": "SPIDER",
@@ -9143,7 +9460,7 @@ var ALL = [
     "unified": "1F577-FE0F",
     "non_qualified": "1F577",
     "category": "Animals & Nature",
-    "sort_order": 621
+    "sort_order": 641
   },
   {
     "name": "SPIDER WEB",
@@ -9154,7 +9471,7 @@ var ALL = [
     "unified": "1F578-FE0F",
     "non_qualified": "1F578",
     "category": "Animals & Nature",
-    "sort_order": 622
+    "sort_order": 642
   },
   {
     "name": "SCORPION",
@@ -9165,7 +9482,7 @@ var ALL = [
     "unified": "1F982",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 623
+    "sort_order": 643
   },
   {
     "name": "MOSQUITO",
@@ -9176,7 +9493,7 @@ var ALL = [
     "unified": "1F99F",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 624
+    "sort_order": 644
   },
   {
     "name": "FLY",
@@ -9187,7 +9504,7 @@ var ALL = [
     "unified": "1FAB0",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 625
+    "sort_order": 645
   },
   {
     "name": "WORM",
@@ -9198,7 +9515,7 @@ var ALL = [
     "unified": "1FAB1",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 626
+    "sort_order": 646
   },
   {
     "name": "MICROBE",
@@ -9209,7 +9526,7 @@ var ALL = [
     "unified": "1F9A0",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 627
+    "sort_order": 647
   },
   {
     "name": "BOUQUET",
@@ -9220,7 +9537,7 @@ var ALL = [
     "unified": "1F490",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 628
+    "sort_order": 648
   },
   {
     "name": "CHERRY BLOSSOM",
@@ -9231,7 +9548,7 @@ var ALL = [
     "unified": "1F338",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 629
+    "sort_order": 649
   },
   {
     "name": "WHITE FLOWER",
@@ -9242,7 +9559,18 @@ var ALL = [
     "unified": "1F4AE",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 630
+    "sort_order": 650
+  },
+  {
+    "name": "LOTUS",
+    "short_name": "lotus",
+    "short_names": [
+      "lotus"
+    ],
+    "unified": "1FAB7",
+    "non_qualified": null,
+    "category": "Animals & Nature",
+    "sort_order": 651
   },
   {
     "name": "ROSETTE",
@@ -9253,7 +9581,7 @@ var ALL = [
     "unified": "1F3F5-FE0F",
     "non_qualified": "1F3F5",
     "category": "Animals & Nature",
-    "sort_order": 631
+    "sort_order": 652
   },
   {
     "name": "ROSE",
@@ -9264,7 +9592,7 @@ var ALL = [
     "unified": "1F339",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 632
+    "sort_order": 653
   },
   {
     "name": "WILTED FLOWER",
@@ -9275,7 +9603,7 @@ var ALL = [
     "unified": "1F940",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 633
+    "sort_order": 654
   },
   {
     "name": "HIBISCUS",
@@ -9286,7 +9614,7 @@ var ALL = [
     "unified": "1F33A",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 634
+    "sort_order": 655
   },
   {
     "name": "SUNFLOWER",
@@ -9297,7 +9625,7 @@ var ALL = [
     "unified": "1F33B",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 635
+    "sort_order": 656
   },
   {
     "name": "BLOSSOM",
@@ -9308,7 +9636,7 @@ var ALL = [
     "unified": "1F33C",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 636
+    "sort_order": 657
   },
   {
     "name": "TULIP",
@@ -9319,7 +9647,7 @@ var ALL = [
     "unified": "1F337",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 637
+    "sort_order": 658
   },
   {
     "name": "SEEDLING",
@@ -9330,7 +9658,7 @@ var ALL = [
     "unified": "1F331",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 638
+    "sort_order": 659
   },
   {
     "name": "POTTED PLANT",
@@ -9341,7 +9669,7 @@ var ALL = [
     "unified": "1FAB4",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 639
+    "sort_order": 660
   },
   {
     "name": "EVERGREEN TREE",
@@ -9352,7 +9680,7 @@ var ALL = [
     "unified": "1F332",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 640
+    "sort_order": 661
   },
   {
     "name": "DECIDUOUS TREE",
@@ -9363,7 +9691,7 @@ var ALL = [
     "unified": "1F333",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 641
+    "sort_order": 662
   },
   {
     "name": "PALM TREE",
@@ -9374,7 +9702,7 @@ var ALL = [
     "unified": "1F334",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 642
+    "sort_order": 663
   },
   {
     "name": "CACTUS",
@@ -9385,7 +9713,7 @@ var ALL = [
     "unified": "1F335",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 643
+    "sort_order": 664
   },
   {
     "name": "EAR OF RICE",
@@ -9396,7 +9724,7 @@ var ALL = [
     "unified": "1F33E",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 644
+    "sort_order": 665
   },
   {
     "name": "HERB",
@@ -9407,7 +9735,7 @@ var ALL = [
     "unified": "1F33F",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 645
+    "sort_order": 666
   },
   {
     "name": "SHAMROCK",
@@ -9418,7 +9746,7 @@ var ALL = [
     "unified": "2618-FE0F",
     "non_qualified": "2618",
     "category": "Animals & Nature",
-    "sort_order": 646
+    "sort_order": 667
   },
   {
     "name": "FOUR LEAF CLOVER",
@@ -9429,7 +9757,7 @@ var ALL = [
     "unified": "1F340",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 647
+    "sort_order": 668
   },
   {
     "name": "MAPLE LEAF",
@@ -9440,7 +9768,7 @@ var ALL = [
     "unified": "1F341",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 648
+    "sort_order": 669
   },
   {
     "name": "FALLEN LEAF",
@@ -9451,7 +9779,7 @@ var ALL = [
     "unified": "1F342",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 649
+    "sort_order": 670
   },
   {
     "name": "LEAF FLUTTERING IN WIND",
@@ -9462,7 +9790,29 @@ var ALL = [
     "unified": "1F343",
     "non_qualified": null,
     "category": "Animals & Nature",
-    "sort_order": 650
+    "sort_order": 671
+  },
+  {
+    "name": "EMPTY NEST",
+    "short_name": "empty_nest",
+    "short_names": [
+      "empty_nest"
+    ],
+    "unified": "1FAB9",
+    "non_qualified": null,
+    "category": "Animals & Nature",
+    "sort_order": 672
+  },
+  {
+    "name": "NEST WITH EGGS",
+    "short_name": "nest_with_eggs",
+    "short_names": [
+      "nest_with_eggs"
+    ],
+    "unified": "1FABA",
+    "non_qualified": null,
+    "category": "Animals & Nature",
+    "sort_order": 673
   },
   {
     "name": "GRAPES",
@@ -9473,7 +9823,7 @@ var ALL = [
     "unified": "1F347",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 651
+    "sort_order": 674
   },
   {
     "name": "MELON",
@@ -9484,7 +9834,7 @@ var ALL = [
     "unified": "1F348",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 652
+    "sort_order": 675
   },
   {
     "name": "WATERMELON",
@@ -9495,7 +9845,7 @@ var ALL = [
     "unified": "1F349",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 653
+    "sort_order": 676
   },
   {
     "name": "TANGERINE",
@@ -9506,7 +9856,7 @@ var ALL = [
     "unified": "1F34A",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 654
+    "sort_order": 677
   },
   {
     "name": "LEMON",
@@ -9517,7 +9867,7 @@ var ALL = [
     "unified": "1F34B",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 655
+    "sort_order": 678
   },
   {
     "name": "BANANA",
@@ -9528,7 +9878,7 @@ var ALL = [
     "unified": "1F34C",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 656
+    "sort_order": 679
   },
   {
     "name": "PINEAPPLE",
@@ -9539,7 +9889,7 @@ var ALL = [
     "unified": "1F34D",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 657
+    "sort_order": 680
   },
   {
     "name": "MANGO",
@@ -9550,7 +9900,7 @@ var ALL = [
     "unified": "1F96D",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 658
+    "sort_order": 681
   },
   {
     "name": "RED APPLE",
@@ -9561,7 +9911,7 @@ var ALL = [
     "unified": "1F34E",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 659
+    "sort_order": 682
   },
   {
     "name": "GREEN APPLE",
@@ -9572,7 +9922,7 @@ var ALL = [
     "unified": "1F34F",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 660
+    "sort_order": 683
   },
   {
     "name": "PEAR",
@@ -9583,7 +9933,7 @@ var ALL = [
     "unified": "1F350",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 661
+    "sort_order": 684
   },
   {
     "name": "PEACH",
@@ -9594,7 +9944,7 @@ var ALL = [
     "unified": "1F351",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 662
+    "sort_order": 685
   },
   {
     "name": "CHERRIES",
@@ -9605,7 +9955,7 @@ var ALL = [
     "unified": "1F352",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 663
+    "sort_order": 686
   },
   {
     "name": "STRAWBERRY",
@@ -9616,7 +9966,7 @@ var ALL = [
     "unified": "1F353",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 664
+    "sort_order": 687
   },
   {
     "name": "BLUEBERRIES",
@@ -9627,7 +9977,7 @@ var ALL = [
     "unified": "1FAD0",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 665
+    "sort_order": 688
   },
   {
     "name": "KIWIFRUIT",
@@ -9638,7 +9988,7 @@ var ALL = [
     "unified": "1F95D",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 666
+    "sort_order": 689
   },
   {
     "name": "TOMATO",
@@ -9649,7 +9999,7 @@ var ALL = [
     "unified": "1F345",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 667
+    "sort_order": 690
   },
   {
     "name": "OLIVE",
@@ -9660,7 +10010,7 @@ var ALL = [
     "unified": "1FAD2",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 668
+    "sort_order": 691
   },
   {
     "name": "COCONUT",
@@ -9671,7 +10021,7 @@ var ALL = [
     "unified": "1F965",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 669
+    "sort_order": 692
   },
   {
     "name": "AVOCADO",
@@ -9682,7 +10032,7 @@ var ALL = [
     "unified": "1F951",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 670
+    "sort_order": 693
   },
   {
     "name": "AUBERGINE",
@@ -9693,7 +10043,7 @@ var ALL = [
     "unified": "1F346",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 671
+    "sort_order": 694
   },
   {
     "name": "POTATO",
@@ -9704,7 +10054,7 @@ var ALL = [
     "unified": "1F954",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 672
+    "sort_order": 695
   },
   {
     "name": "CARROT",
@@ -9715,7 +10065,7 @@ var ALL = [
     "unified": "1F955",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 673
+    "sort_order": 696
   },
   {
     "name": "EAR OF MAIZE",
@@ -9726,7 +10076,7 @@ var ALL = [
     "unified": "1F33D",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 674
+    "sort_order": 697
   },
   {
     "name": "HOT PEPPER",
@@ -9737,7 +10087,7 @@ var ALL = [
     "unified": "1F336-FE0F",
     "non_qualified": "1F336",
     "category": "Food & Drink",
-    "sort_order": 675
+    "sort_order": 698
   },
   {
     "name": "BELL PEPPER",
@@ -9748,7 +10098,7 @@ var ALL = [
     "unified": "1FAD1",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 676
+    "sort_order": 699
   },
   {
     "name": "CUCUMBER",
@@ -9759,7 +10109,7 @@ var ALL = [
     "unified": "1F952",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 677
+    "sort_order": 700
   },
   {
     "name": "LEAFY GREEN",
@@ -9770,7 +10120,7 @@ var ALL = [
     "unified": "1F96C",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 678
+    "sort_order": 701
   },
   {
     "name": "BROCCOLI",
@@ -9781,7 +10131,7 @@ var ALL = [
     "unified": "1F966",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 679
+    "sort_order": 702
   },
   {
     "name": "GARLIC",
@@ -9792,7 +10142,7 @@ var ALL = [
     "unified": "1F9C4",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 680
+    "sort_order": 703
   },
   {
     "name": "ONION",
@@ -9803,7 +10153,7 @@ var ALL = [
     "unified": "1F9C5",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 681
+    "sort_order": 704
   },
   {
     "name": "MUSHROOM",
@@ -9814,7 +10164,7 @@ var ALL = [
     "unified": "1F344",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 682
+    "sort_order": 705
   },
   {
     "name": "PEANUTS",
@@ -9825,7 +10175,18 @@ var ALL = [
     "unified": "1F95C",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 683
+    "sort_order": 706
+  },
+  {
+    "name": "BEANS",
+    "short_name": "beans",
+    "short_names": [
+      "beans"
+    ],
+    "unified": "1FAD8",
+    "non_qualified": null,
+    "category": "Food & Drink",
+    "sort_order": 707
   },
   {
     "name": "CHESTNUT",
@@ -9836,7 +10197,7 @@ var ALL = [
     "unified": "1F330",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 684
+    "sort_order": 708
   },
   {
     "name": "BREAD",
@@ -9847,7 +10208,7 @@ var ALL = [
     "unified": "1F35E",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 685
+    "sort_order": 709
   },
   {
     "name": "CROISSANT",
@@ -9858,7 +10219,7 @@ var ALL = [
     "unified": "1F950",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 686
+    "sort_order": 710
   },
   {
     "name": "BAGUETTE BREAD",
@@ -9869,7 +10230,7 @@ var ALL = [
     "unified": "1F956",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 687
+    "sort_order": 711
   },
   {
     "name": "FLATBREAD",
@@ -9880,7 +10241,7 @@ var ALL = [
     "unified": "1FAD3",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 688
+    "sort_order": 712
   },
   {
     "name": "PRETZEL",
@@ -9891,7 +10252,7 @@ var ALL = [
     "unified": "1F968",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 689
+    "sort_order": 713
   },
   {
     "name": "BAGEL",
@@ -9902,7 +10263,7 @@ var ALL = [
     "unified": "1F96F",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 690
+    "sort_order": 714
   },
   {
     "name": "PANCAKES",
@@ -9913,7 +10274,7 @@ var ALL = [
     "unified": "1F95E",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 691
+    "sort_order": 715
   },
   {
     "name": "WAFFLE",
@@ -9924,7 +10285,7 @@ var ALL = [
     "unified": "1F9C7",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 692
+    "sort_order": 716
   },
   {
     "name": "CHEESE WEDGE",
@@ -9935,7 +10296,7 @@ var ALL = [
     "unified": "1F9C0",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 693
+    "sort_order": 717
   },
   {
     "name": "MEAT ON BONE",
@@ -9946,7 +10307,7 @@ var ALL = [
     "unified": "1F356",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 694
+    "sort_order": 718
   },
   {
     "name": "POULTRY LEG",
@@ -9957,7 +10318,7 @@ var ALL = [
     "unified": "1F357",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 695
+    "sort_order": 719
   },
   {
     "name": "CUT OF MEAT",
@@ -9968,7 +10329,7 @@ var ALL = [
     "unified": "1F969",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 696
+    "sort_order": 720
   },
   {
     "name": "BACON",
@@ -9979,7 +10340,7 @@ var ALL = [
     "unified": "1F953",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 697
+    "sort_order": 721
   },
   {
     "name": "HAMBURGER",
@@ -9990,7 +10351,7 @@ var ALL = [
     "unified": "1F354",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 698
+    "sort_order": 722
   },
   {
     "name": "FRENCH FRIES",
@@ -10001,7 +10362,7 @@ var ALL = [
     "unified": "1F35F",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 699
+    "sort_order": 723
   },
   {
     "name": "SLICE OF PIZZA",
@@ -10012,7 +10373,7 @@ var ALL = [
     "unified": "1F355",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 700
+    "sort_order": 724
   },
   {
     "name": "HOT DOG",
@@ -10023,7 +10384,7 @@ var ALL = [
     "unified": "1F32D",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 701
+    "sort_order": 725
   },
   {
     "name": "SANDWICH",
@@ -10034,7 +10395,7 @@ var ALL = [
     "unified": "1F96A",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 702
+    "sort_order": 726
   },
   {
     "name": "TACO",
@@ -10045,7 +10406,7 @@ var ALL = [
     "unified": "1F32E",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 703
+    "sort_order": 727
   },
   {
     "name": "BURRITO",
@@ -10056,7 +10417,7 @@ var ALL = [
     "unified": "1F32F",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 704
+    "sort_order": 728
   },
   {
     "name": "TAMALE",
@@ -10067,7 +10428,7 @@ var ALL = [
     "unified": "1FAD4",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 705
+    "sort_order": 729
   },
   {
     "name": "STUFFED FLATBREAD",
@@ -10078,7 +10439,7 @@ var ALL = [
     "unified": "1F959",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 706
+    "sort_order": 730
   },
   {
     "name": "FALAFEL",
@@ -10089,7 +10450,7 @@ var ALL = [
     "unified": "1F9C6",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 707
+    "sort_order": 731
   },
   {
     "name": "EGG",
@@ -10100,7 +10461,7 @@ var ALL = [
     "unified": "1F95A",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 708
+    "sort_order": 732
   },
   {
     "name": "COOKING",
@@ -10112,7 +10473,7 @@ var ALL = [
     "unified": "1F373",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 709
+    "sort_order": 733
   },
   {
     "name": "SHALLOW PAN OF FOOD",
@@ -10123,7 +10484,7 @@ var ALL = [
     "unified": "1F958",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 710
+    "sort_order": 734
   },
   {
     "name": "POT OF FOOD",
@@ -10134,7 +10495,7 @@ var ALL = [
     "unified": "1F372",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 711
+    "sort_order": 735
   },
   {
     "name": "FONDUE",
@@ -10145,7 +10506,7 @@ var ALL = [
     "unified": "1FAD5",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 712
+    "sort_order": 736
   },
   {
     "name": "BOWL WITH SPOON",
@@ -10156,7 +10517,7 @@ var ALL = [
     "unified": "1F963",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 713
+    "sort_order": 737
   },
   {
     "name": "GREEN SALAD",
@@ -10167,7 +10528,7 @@ var ALL = [
     "unified": "1F957",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 714
+    "sort_order": 738
   },
   {
     "name": "POPCORN",
@@ -10178,7 +10539,7 @@ var ALL = [
     "unified": "1F37F",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 715
+    "sort_order": 739
   },
   {
     "name": "BUTTER",
@@ -10189,7 +10550,7 @@ var ALL = [
     "unified": "1F9C8",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 716
+    "sort_order": 740
   },
   {
     "name": "SALT SHAKER",
@@ -10200,7 +10561,7 @@ var ALL = [
     "unified": "1F9C2",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 717
+    "sort_order": 741
   },
   {
     "name": "CANNED FOOD",
@@ -10211,7 +10572,7 @@ var ALL = [
     "unified": "1F96B",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 718
+    "sort_order": 742
   },
   {
     "name": "BENTO BOX",
@@ -10222,7 +10583,7 @@ var ALL = [
     "unified": "1F371",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 719
+    "sort_order": 743
   },
   {
     "name": "RICE CRACKER",
@@ -10233,7 +10594,7 @@ var ALL = [
     "unified": "1F358",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 720
+    "sort_order": 744
   },
   {
     "name": "RICE BALL",
@@ -10244,7 +10605,7 @@ var ALL = [
     "unified": "1F359",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 721
+    "sort_order": 745
   },
   {
     "name": "COOKED RICE",
@@ -10255,7 +10616,7 @@ var ALL = [
     "unified": "1F35A",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 722
+    "sort_order": 746
   },
   {
     "name": "CURRY AND RICE",
@@ -10266,7 +10627,7 @@ var ALL = [
     "unified": "1F35B",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 723
+    "sort_order": 747
   },
   {
     "name": "STEAMING BOWL",
@@ -10277,7 +10638,7 @@ var ALL = [
     "unified": "1F35C",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 724
+    "sort_order": 748
   },
   {
     "name": "SPAGHETTI",
@@ -10288,7 +10649,7 @@ var ALL = [
     "unified": "1F35D",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 725
+    "sort_order": 749
   },
   {
     "name": "ROASTED SWEET POTATO",
@@ -10299,7 +10660,7 @@ var ALL = [
     "unified": "1F360",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 726
+    "sort_order": 750
   },
   {
     "name": "ODEN",
@@ -10310,7 +10671,7 @@ var ALL = [
     "unified": "1F362",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 727
+    "sort_order": 751
   },
   {
     "name": "SUSHI",
@@ -10321,7 +10682,7 @@ var ALL = [
     "unified": "1F363",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 728
+    "sort_order": 752
   },
   {
     "name": "FRIED SHRIMP",
@@ -10332,7 +10693,7 @@ var ALL = [
     "unified": "1F364",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 729
+    "sort_order": 753
   },
   {
     "name": "FISH CAKE WITH SWIRL DESIGN",
@@ -10343,7 +10704,7 @@ var ALL = [
     "unified": "1F365",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 730
+    "sort_order": 754
   },
   {
     "name": "MOON CAKE",
@@ -10354,7 +10715,7 @@ var ALL = [
     "unified": "1F96E",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 731
+    "sort_order": 755
   },
   {
     "name": "DANGO",
@@ -10365,7 +10726,7 @@ var ALL = [
     "unified": "1F361",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 732
+    "sort_order": 756
   },
   {
     "name": "DUMPLING",
@@ -10376,7 +10737,7 @@ var ALL = [
     "unified": "1F95F",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 733
+    "sort_order": 757
   },
   {
     "name": "FORTUNE COOKIE",
@@ -10387,7 +10748,7 @@ var ALL = [
     "unified": "1F960",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 734
+    "sort_order": 758
   },
   {
     "name": "TAKEOUT BOX",
@@ -10398,7 +10759,7 @@ var ALL = [
     "unified": "1F961",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 735
+    "sort_order": 759
   },
   {
     "name": "CRAB",
@@ -10409,7 +10770,7 @@ var ALL = [
     "unified": "1F980",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 736
+    "sort_order": 760
   },
   {
     "name": "LOBSTER",
@@ -10420,7 +10781,7 @@ var ALL = [
     "unified": "1F99E",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 737
+    "sort_order": 761
   },
   {
     "name": "SHRIMP",
@@ -10431,7 +10792,7 @@ var ALL = [
     "unified": "1F990",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 738
+    "sort_order": 762
   },
   {
     "name": "SQUID",
@@ -10442,7 +10803,7 @@ var ALL = [
     "unified": "1F991",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 739
+    "sort_order": 763
   },
   {
     "name": "OYSTER",
@@ -10453,7 +10814,7 @@ var ALL = [
     "unified": "1F9AA",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 740
+    "sort_order": 764
   },
   {
     "name": "SOFT ICE CREAM",
@@ -10464,7 +10825,7 @@ var ALL = [
     "unified": "1F366",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 741
+    "sort_order": 765
   },
   {
     "name": "SHAVED ICE",
@@ -10475,7 +10836,7 @@ var ALL = [
     "unified": "1F367",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 742
+    "sort_order": 766
   },
   {
     "name": "ICE CREAM",
@@ -10486,7 +10847,7 @@ var ALL = [
     "unified": "1F368",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 743
+    "sort_order": 767
   },
   {
     "name": "DOUGHNUT",
@@ -10497,7 +10858,7 @@ var ALL = [
     "unified": "1F369",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 744
+    "sort_order": 768
   },
   {
     "name": "COOKIE",
@@ -10508,7 +10869,7 @@ var ALL = [
     "unified": "1F36A",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 745
+    "sort_order": 769
   },
   {
     "name": "BIRTHDAY CAKE",
@@ -10519,7 +10880,7 @@ var ALL = [
     "unified": "1F382",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 746
+    "sort_order": 770
   },
   {
     "name": "SHORTCAKE",
@@ -10530,7 +10891,7 @@ var ALL = [
     "unified": "1F370",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 747
+    "sort_order": 771
   },
   {
     "name": "CUPCAKE",
@@ -10541,7 +10902,7 @@ var ALL = [
     "unified": "1F9C1",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 748
+    "sort_order": 772
   },
   {
     "name": "PIE",
@@ -10552,7 +10913,7 @@ var ALL = [
     "unified": "1F967",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 749
+    "sort_order": 773
   },
   {
     "name": "CHOCOLATE BAR",
@@ -10563,7 +10924,7 @@ var ALL = [
     "unified": "1F36B",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 750
+    "sort_order": 774
   },
   {
     "name": "CANDY",
@@ -10574,7 +10935,7 @@ var ALL = [
     "unified": "1F36C",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 751
+    "sort_order": 775
   },
   {
     "name": "LOLLIPOP",
@@ -10585,7 +10946,7 @@ var ALL = [
     "unified": "1F36D",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 752
+    "sort_order": 776
   },
   {
     "name": "CUSTARD",
@@ -10596,7 +10957,7 @@ var ALL = [
     "unified": "1F36E",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 753
+    "sort_order": 777
   },
   {
     "name": "HONEY POT",
@@ -10607,7 +10968,7 @@ var ALL = [
     "unified": "1F36F",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 754
+    "sort_order": 778
   },
   {
     "name": "BABY BOTTLE",
@@ -10618,7 +10979,7 @@ var ALL = [
     "unified": "1F37C",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 755
+    "sort_order": 779
   },
   {
     "name": "GLASS OF MILK",
@@ -10629,7 +10990,7 @@ var ALL = [
     "unified": "1F95B",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 756
+    "sort_order": 780
   },
   {
     "name": "HOT BEVERAGE",
@@ -10640,7 +11001,7 @@ var ALL = [
     "unified": "2615",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 757
+    "sort_order": 781
   },
   {
     "name": "TEAPOT",
@@ -10651,7 +11012,7 @@ var ALL = [
     "unified": "1FAD6",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 758
+    "sort_order": 782
   },
   {
     "name": "TEACUP WITHOUT HANDLE",
@@ -10662,7 +11023,7 @@ var ALL = [
     "unified": "1F375",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 759
+    "sort_order": 783
   },
   {
     "name": "SAKE BOTTLE AND CUP",
@@ -10673,7 +11034,7 @@ var ALL = [
     "unified": "1F376",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 760
+    "sort_order": 784
   },
   {
     "name": "BOTTLE WITH POPPING CORK",
@@ -10684,7 +11045,7 @@ var ALL = [
     "unified": "1F37E",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 761
+    "sort_order": 785
   },
   {
     "name": "WINE GLASS",
@@ -10695,7 +11056,7 @@ var ALL = [
     "unified": "1F377",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 762
+    "sort_order": 786
   },
   {
     "name": "COCKTAIL GLASS",
@@ -10706,7 +11067,7 @@ var ALL = [
     "unified": "1F378",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 763
+    "sort_order": 787
   },
   {
     "name": "TROPICAL DRINK",
@@ -10717,7 +11078,7 @@ var ALL = [
     "unified": "1F379",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 764
+    "sort_order": 788
   },
   {
     "name": "BEER MUG",
@@ -10728,7 +11089,7 @@ var ALL = [
     "unified": "1F37A",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 765
+    "sort_order": 789
   },
   {
     "name": "CLINKING BEER MUGS",
@@ -10739,7 +11100,7 @@ var ALL = [
     "unified": "1F37B",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 766
+    "sort_order": 790
   },
   {
     "name": "CLINKING GLASSES",
@@ -10750,7 +11111,7 @@ var ALL = [
     "unified": "1F942",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 767
+    "sort_order": 791
   },
   {
     "name": "TUMBLER GLASS",
@@ -10761,7 +11122,18 @@ var ALL = [
     "unified": "1F943",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 768
+    "sort_order": 792
+  },
+  {
+    "name": "POURING LIQUID",
+    "short_name": "pouring_liquid",
+    "short_names": [
+      "pouring_liquid"
+    ],
+    "unified": "1FAD7",
+    "non_qualified": null,
+    "category": "Food & Drink",
+    "sort_order": 793
   },
   {
     "name": "CUP WITH STRAW",
@@ -10772,7 +11144,7 @@ var ALL = [
     "unified": "1F964",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 769
+    "sort_order": 794
   },
   {
     "name": "BUBBLE TEA",
@@ -10783,7 +11155,7 @@ var ALL = [
     "unified": "1F9CB",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 770
+    "sort_order": 795
   },
   {
     "name": "BEVERAGE BOX",
@@ -10794,7 +11166,7 @@ var ALL = [
     "unified": "1F9C3",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 771
+    "sort_order": 796
   },
   {
     "name": "MATE DRINK",
@@ -10805,7 +11177,7 @@ var ALL = [
     "unified": "1F9C9",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 772
+    "sort_order": 797
   },
   {
     "name": "ICE CUBE",
@@ -10816,7 +11188,7 @@ var ALL = [
     "unified": "1F9CA",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 773
+    "sort_order": 798
   },
   {
     "name": "CHOPSTICKS",
@@ -10827,7 +11199,7 @@ var ALL = [
     "unified": "1F962",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 774
+    "sort_order": 799
   },
   {
     "name": "FORK AND KNIFE WITH PLATE",
@@ -10838,7 +11210,7 @@ var ALL = [
     "unified": "1F37D-FE0F",
     "non_qualified": "1F37D",
     "category": "Food & Drink",
-    "sort_order": 775
+    "sort_order": 800
   },
   {
     "name": "FORK AND KNIFE",
@@ -10849,7 +11221,7 @@ var ALL = [
     "unified": "1F374",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 776
+    "sort_order": 801
   },
   {
     "name": "SPOON",
@@ -10860,7 +11232,7 @@ var ALL = [
     "unified": "1F944",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 777
+    "sort_order": 802
   },
   {
     "name": "HOCHO",
@@ -10872,7 +11244,18 @@ var ALL = [
     "unified": "1F52A",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 778
+    "sort_order": 803
+  },
+  {
+    "name": "JAR",
+    "short_name": "jar",
+    "short_names": [
+      "jar"
+    ],
+    "unified": "1FAD9",
+    "non_qualified": null,
+    "category": "Food & Drink",
+    "sort_order": 804
   },
   {
     "name": "AMPHORA",
@@ -10883,7 +11266,7 @@ var ALL = [
     "unified": "1F3FA",
     "non_qualified": null,
     "category": "Food & Drink",
-    "sort_order": 779
+    "sort_order": 805
   },
   {
     "name": "EARTH GLOBE EUROPE-AFRICA",
@@ -10894,7 +11277,7 @@ var ALL = [
     "unified": "1F30D",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 780
+    "sort_order": 806
   },
   {
     "name": "EARTH GLOBE AMERICAS",
@@ -10905,7 +11288,7 @@ var ALL = [
     "unified": "1F30E",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 781
+    "sort_order": 807
   },
   {
     "name": "EARTH GLOBE ASIA-AUSTRALIA",
@@ -10916,7 +11299,7 @@ var ALL = [
     "unified": "1F30F",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 782
+    "sort_order": 808
   },
   {
     "name": "GLOBE WITH MERIDIANS",
@@ -10927,7 +11310,7 @@ var ALL = [
     "unified": "1F310",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 783
+    "sort_order": 809
   },
   {
     "name": "WORLD MAP",
@@ -10938,7 +11321,7 @@ var ALL = [
     "unified": "1F5FA-FE0F",
     "non_qualified": "1F5FA",
     "category": "Travel & Places",
-    "sort_order": 784
+    "sort_order": 810
   },
   {
     "name": "SILHOUETTE OF JAPAN",
@@ -10949,7 +11332,7 @@ var ALL = [
     "unified": "1F5FE",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 785
+    "sort_order": 811
   },
   {
     "name": "COMPASS",
@@ -10960,7 +11343,7 @@ var ALL = [
     "unified": "1F9ED",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 786
+    "sort_order": 812
   },
   {
     "name": "SNOW-CAPPED MOUNTAIN",
@@ -10971,7 +11354,7 @@ var ALL = [
     "unified": "1F3D4-FE0F",
     "non_qualified": "1F3D4",
     "category": "Travel & Places",
-    "sort_order": 787
+    "sort_order": 813
   },
   {
     "name": "MOUNTAIN",
@@ -10982,7 +11365,7 @@ var ALL = [
     "unified": "26F0-FE0F",
     "non_qualified": "26F0",
     "category": "Travel & Places",
-    "sort_order": 788
+    "sort_order": 814
   },
   {
     "name": "VOLCANO",
@@ -10993,7 +11376,7 @@ var ALL = [
     "unified": "1F30B",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 789
+    "sort_order": 815
   },
   {
     "name": "MOUNT FUJI",
@@ -11004,7 +11387,7 @@ var ALL = [
     "unified": "1F5FB",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 790
+    "sort_order": 816
   },
   {
     "name": "CAMPING",
@@ -11015,7 +11398,7 @@ var ALL = [
     "unified": "1F3D5-FE0F",
     "non_qualified": "1F3D5",
     "category": "Travel & Places",
-    "sort_order": 791
+    "sort_order": 817
   },
   {
     "name": "BEACH WITH UMBRELLA",
@@ -11026,7 +11409,7 @@ var ALL = [
     "unified": "1F3D6-FE0F",
     "non_qualified": "1F3D6",
     "category": "Travel & Places",
-    "sort_order": 792
+    "sort_order": 818
   },
   {
     "name": "DESERT",
@@ -11037,7 +11420,7 @@ var ALL = [
     "unified": "1F3DC-FE0F",
     "non_qualified": "1F3DC",
     "category": "Travel & Places",
-    "sort_order": 793
+    "sort_order": 819
   },
   {
     "name": "DESERT ISLAND",
@@ -11048,7 +11431,7 @@ var ALL = [
     "unified": "1F3DD-FE0F",
     "non_qualified": "1F3DD",
     "category": "Travel & Places",
-    "sort_order": 794
+    "sort_order": 820
   },
   {
     "name": "NATIONAL PARK",
@@ -11059,7 +11442,7 @@ var ALL = [
     "unified": "1F3DE-FE0F",
     "non_qualified": "1F3DE",
     "category": "Travel & Places",
-    "sort_order": 795
+    "sort_order": 821
   },
   {
     "name": "STADIUM",
@@ -11070,7 +11453,7 @@ var ALL = [
     "unified": "1F3DF-FE0F",
     "non_qualified": "1F3DF",
     "category": "Travel & Places",
-    "sort_order": 796
+    "sort_order": 822
   },
   {
     "name": "CLASSICAL BUILDING",
@@ -11081,7 +11464,7 @@ var ALL = [
     "unified": "1F3DB-FE0F",
     "non_qualified": "1F3DB",
     "category": "Travel & Places",
-    "sort_order": 797
+    "sort_order": 823
   },
   {
     "name": "BUILDING CONSTRUCTION",
@@ -11092,7 +11475,7 @@ var ALL = [
     "unified": "1F3D7-FE0F",
     "non_qualified": "1F3D7",
     "category": "Travel & Places",
-    "sort_order": 798
+    "sort_order": 824
   },
   {
     "name": "BRICK",
@@ -11103,7 +11486,7 @@ var ALL = [
     "unified": "1F9F1",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 799
+    "sort_order": 825
   },
   {
     "name": "ROCK",
@@ -11114,7 +11497,7 @@ var ALL = [
     "unified": "1FAA8",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 800
+    "sort_order": 826
   },
   {
     "name": "WOOD",
@@ -11125,7 +11508,7 @@ var ALL = [
     "unified": "1FAB5",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 801
+    "sort_order": 827
   },
   {
     "name": "HUT",
@@ -11136,7 +11519,7 @@ var ALL = [
     "unified": "1F6D6",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 802
+    "sort_order": 828
   },
   {
     "name": "HOUSES",
@@ -11147,7 +11530,7 @@ var ALL = [
     "unified": "1F3D8-FE0F",
     "non_qualified": "1F3D8",
     "category": "Travel & Places",
-    "sort_order": 803
+    "sort_order": 829
   },
   {
     "name": "DERELICT HOUSE",
@@ -11158,7 +11541,7 @@ var ALL = [
     "unified": "1F3DA-FE0F",
     "non_qualified": "1F3DA",
     "category": "Travel & Places",
-    "sort_order": 804
+    "sort_order": 830
   },
   {
     "name": "HOUSE BUILDING",
@@ -11169,7 +11552,7 @@ var ALL = [
     "unified": "1F3E0",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 805
+    "sort_order": 831
   },
   {
     "name": "HOUSE WITH GARDEN",
@@ -11180,7 +11563,7 @@ var ALL = [
     "unified": "1F3E1",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 806
+    "sort_order": 832
   },
   {
     "name": "OFFICE BUILDING",
@@ -11191,7 +11574,7 @@ var ALL = [
     "unified": "1F3E2",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 807
+    "sort_order": 833
   },
   {
     "name": "JAPANESE POST OFFICE",
@@ -11202,7 +11585,7 @@ var ALL = [
     "unified": "1F3E3",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 808
+    "sort_order": 834
   },
   {
     "name": "EUROPEAN POST OFFICE",
@@ -11213,7 +11596,7 @@ var ALL = [
     "unified": "1F3E4",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 809
+    "sort_order": 835
   },
   {
     "name": "HOSPITAL",
@@ -11224,7 +11607,7 @@ var ALL = [
     "unified": "1F3E5",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 810
+    "sort_order": 836
   },
   {
     "name": "BANK",
@@ -11235,7 +11618,7 @@ var ALL = [
     "unified": "1F3E6",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 811
+    "sort_order": 837
   },
   {
     "name": "HOTEL",
@@ -11246,7 +11629,7 @@ var ALL = [
     "unified": "1F3E8",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 812
+    "sort_order": 838
   },
   {
     "name": "LOVE HOTEL",
@@ -11257,7 +11640,7 @@ var ALL = [
     "unified": "1F3E9",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 813
+    "sort_order": 839
   },
   {
     "name": "CONVENIENCE STORE",
@@ -11268,7 +11651,7 @@ var ALL = [
     "unified": "1F3EA",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 814
+    "sort_order": 840
   },
   {
     "name": "SCHOOL",
@@ -11279,7 +11662,7 @@ var ALL = [
     "unified": "1F3EB",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 815
+    "sort_order": 841
   },
   {
     "name": "DEPARTMENT STORE",
@@ -11290,7 +11673,7 @@ var ALL = [
     "unified": "1F3EC",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 816
+    "sort_order": 842
   },
   {
     "name": "FACTORY",
@@ -11301,7 +11684,7 @@ var ALL = [
     "unified": "1F3ED",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 817
+    "sort_order": 843
   },
   {
     "name": "JAPANESE CASTLE",
@@ -11312,7 +11695,7 @@ var ALL = [
     "unified": "1F3EF",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 818
+    "sort_order": 844
   },
   {
     "name": "EUROPEAN CASTLE",
@@ -11323,7 +11706,7 @@ var ALL = [
     "unified": "1F3F0",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 819
+    "sort_order": 845
   },
   {
     "name": "WEDDING",
@@ -11334,7 +11717,7 @@ var ALL = [
     "unified": "1F492",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 820
+    "sort_order": 846
   },
   {
     "name": "TOKYO TOWER",
@@ -11345,7 +11728,7 @@ var ALL = [
     "unified": "1F5FC",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 821
+    "sort_order": 847
   },
   {
     "name": "STATUE OF LIBERTY",
@@ -11356,7 +11739,7 @@ var ALL = [
     "unified": "1F5FD",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 822
+    "sort_order": 848
   },
   {
     "name": "CHURCH",
@@ -11367,7 +11750,7 @@ var ALL = [
     "unified": "26EA",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 823
+    "sort_order": 849
   },
   {
     "name": "MOSQUE",
@@ -11378,7 +11761,7 @@ var ALL = [
     "unified": "1F54C",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 824
+    "sort_order": 850
   },
   {
     "name": "HINDU TEMPLE",
@@ -11389,7 +11772,7 @@ var ALL = [
     "unified": "1F6D5",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 825
+    "sort_order": 851
   },
   {
     "name": "SYNAGOGUE",
@@ -11400,7 +11783,7 @@ var ALL = [
     "unified": "1F54D",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 826
+    "sort_order": 852
   },
   {
     "name": "SHINTO SHRINE",
@@ -11411,7 +11794,7 @@ var ALL = [
     "unified": "26E9-FE0F",
     "non_qualified": "26E9",
     "category": "Travel & Places",
-    "sort_order": 827
+    "sort_order": 853
   },
   {
     "name": "KAABA",
@@ -11422,7 +11805,7 @@ var ALL = [
     "unified": "1F54B",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 828
+    "sort_order": 854
   },
   {
     "name": "FOUNTAIN",
@@ -11433,7 +11816,7 @@ var ALL = [
     "unified": "26F2",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 829
+    "sort_order": 855
   },
   {
     "name": "TENT",
@@ -11444,7 +11827,7 @@ var ALL = [
     "unified": "26FA",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 830
+    "sort_order": 856
   },
   {
     "name": "FOGGY",
@@ -11455,7 +11838,7 @@ var ALL = [
     "unified": "1F301",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 831
+    "sort_order": 857
   },
   {
     "name": "NIGHT WITH STARS",
@@ -11466,7 +11849,7 @@ var ALL = [
     "unified": "1F303",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 832
+    "sort_order": 858
   },
   {
     "name": "CITYSCAPE",
@@ -11477,7 +11860,7 @@ var ALL = [
     "unified": "1F3D9-FE0F",
     "non_qualified": "1F3D9",
     "category": "Travel & Places",
-    "sort_order": 833
+    "sort_order": 859
   },
   {
     "name": "SUNRISE OVER MOUNTAINS",
@@ -11488,7 +11871,7 @@ var ALL = [
     "unified": "1F304",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 834
+    "sort_order": 860
   },
   {
     "name": "SUNRISE",
@@ -11499,7 +11882,7 @@ var ALL = [
     "unified": "1F305",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 835
+    "sort_order": 861
   },
   {
     "name": "CITYSCAPE AT DUSK",
@@ -11510,7 +11893,7 @@ var ALL = [
     "unified": "1F306",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 836
+    "sort_order": 862
   },
   {
     "name": "SUNSET OVER BUILDINGS",
@@ -11521,7 +11904,7 @@ var ALL = [
     "unified": "1F307",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 837
+    "sort_order": 863
   },
   {
     "name": "BRIDGE AT NIGHT",
@@ -11532,7 +11915,7 @@ var ALL = [
     "unified": "1F309",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 838
+    "sort_order": 864
   },
   {
     "name": "HOT SPRINGS",
@@ -11543,7 +11926,7 @@ var ALL = [
     "unified": "2668-FE0F",
     "non_qualified": "2668",
     "category": "Travel & Places",
-    "sort_order": 839
+    "sort_order": 865
   },
   {
     "name": "CAROUSEL HORSE",
@@ -11554,7 +11937,18 @@ var ALL = [
     "unified": "1F3A0",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 840
+    "sort_order": 866
+  },
+  {
+    "name": "PLAYGROUND SLIDE",
+    "short_name": "playground_slide",
+    "short_names": [
+      "playground_slide"
+    ],
+    "unified": "1F6DD",
+    "non_qualified": null,
+    "category": "Travel & Places",
+    "sort_order": 867
   },
   {
     "name": "FERRIS WHEEL",
@@ -11565,7 +11959,7 @@ var ALL = [
     "unified": "1F3A1",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 841
+    "sort_order": 868
   },
   {
     "name": "ROLLER COASTER",
@@ -11576,7 +11970,7 @@ var ALL = [
     "unified": "1F3A2",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 842
+    "sort_order": 869
   },
   {
     "name": "BARBER POLE",
@@ -11587,7 +11981,7 @@ var ALL = [
     "unified": "1F488",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 843
+    "sort_order": 870
   },
   {
     "name": "CIRCUS TENT",
@@ -11598,7 +11992,7 @@ var ALL = [
     "unified": "1F3AA",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 844
+    "sort_order": 871
   },
   {
     "name": "STEAM LOCOMOTIVE",
@@ -11609,7 +12003,7 @@ var ALL = [
     "unified": "1F682",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 845
+    "sort_order": 872
   },
   {
     "name": "RAILWAY CAR",
@@ -11620,7 +12014,7 @@ var ALL = [
     "unified": "1F683",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 846
+    "sort_order": 873
   },
   {
     "name": "HIGH-SPEED TRAIN",
@@ -11631,7 +12025,7 @@ var ALL = [
     "unified": "1F684",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 847
+    "sort_order": 874
   },
   {
     "name": "HIGH-SPEED TRAIN WITH BULLET NOSE",
@@ -11642,7 +12036,7 @@ var ALL = [
     "unified": "1F685",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 848
+    "sort_order": 875
   },
   {
     "name": "TRAIN",
@@ -11653,7 +12047,7 @@ var ALL = [
     "unified": "1F686",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 849
+    "sort_order": 876
   },
   {
     "name": "METRO",
@@ -11664,7 +12058,7 @@ var ALL = [
     "unified": "1F687",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 850
+    "sort_order": 877
   },
   {
     "name": "LIGHT RAIL",
@@ -11675,7 +12069,7 @@ var ALL = [
     "unified": "1F688",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 851
+    "sort_order": 878
   },
   {
     "name": "STATION",
@@ -11686,7 +12080,7 @@ var ALL = [
     "unified": "1F689",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 852
+    "sort_order": 879
   },
   {
     "name": "TRAM",
@@ -11697,7 +12091,7 @@ var ALL = [
     "unified": "1F68A",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 853
+    "sort_order": 880
   },
   {
     "name": "MONORAIL",
@@ -11708,7 +12102,7 @@ var ALL = [
     "unified": "1F69D",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 854
+    "sort_order": 881
   },
   {
     "name": "MOUNTAIN RAILWAY",
@@ -11719,7 +12113,7 @@ var ALL = [
     "unified": "1F69E",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 855
+    "sort_order": 882
   },
   {
     "name": "TRAM CAR",
@@ -11730,7 +12124,7 @@ var ALL = [
     "unified": "1F68B",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 856
+    "sort_order": 883
   },
   {
     "name": "BUS",
@@ -11741,7 +12135,7 @@ var ALL = [
     "unified": "1F68C",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 857
+    "sort_order": 884
   },
   {
     "name": "ONCOMING BUS",
@@ -11752,7 +12146,7 @@ var ALL = [
     "unified": "1F68D",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 858
+    "sort_order": 885
   },
   {
     "name": "TROLLEYBUS",
@@ -11763,7 +12157,7 @@ var ALL = [
     "unified": "1F68E",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 859
+    "sort_order": 886
   },
   {
     "name": "MINIBUS",
@@ -11774,7 +12168,7 @@ var ALL = [
     "unified": "1F690",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 860
+    "sort_order": 887
   },
   {
     "name": "AMBULANCE",
@@ -11785,7 +12179,7 @@ var ALL = [
     "unified": "1F691",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 861
+    "sort_order": 888
   },
   {
     "name": "FIRE ENGINE",
@@ -11796,7 +12190,7 @@ var ALL = [
     "unified": "1F692",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 862
+    "sort_order": 889
   },
   {
     "name": "POLICE CAR",
@@ -11807,7 +12201,7 @@ var ALL = [
     "unified": "1F693",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 863
+    "sort_order": 890
   },
   {
     "name": "ONCOMING POLICE CAR",
@@ -11818,7 +12212,7 @@ var ALL = [
     "unified": "1F694",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 864
+    "sort_order": 891
   },
   {
     "name": "TAXI",
@@ -11829,7 +12223,7 @@ var ALL = [
     "unified": "1F695",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 865
+    "sort_order": 892
   },
   {
     "name": "ONCOMING TAXI",
@@ -11840,7 +12234,7 @@ var ALL = [
     "unified": "1F696",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 866
+    "sort_order": 893
   },
   {
     "name": "AUTOMOBILE",
@@ -11852,7 +12246,7 @@ var ALL = [
     "unified": "1F697",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 867
+    "sort_order": 894
   },
   {
     "name": "ONCOMING AUTOMOBILE",
@@ -11863,7 +12257,7 @@ var ALL = [
     "unified": "1F698",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 868
+    "sort_order": 895
   },
   {
     "name": "RECREATIONAL VEHICLE",
@@ -11874,7 +12268,7 @@ var ALL = [
     "unified": "1F699",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 869
+    "sort_order": 896
   },
   {
     "name": "PICKUP TRUCK",
@@ -11885,7 +12279,7 @@ var ALL = [
     "unified": "1F6FB",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 870
+    "sort_order": 897
   },
   {
     "name": "DELIVERY TRUCK",
@@ -11896,7 +12290,7 @@ var ALL = [
     "unified": "1F69A",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 871
+    "sort_order": 898
   },
   {
     "name": "ARTICULATED LORRY",
@@ -11907,7 +12301,7 @@ var ALL = [
     "unified": "1F69B",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 872
+    "sort_order": 899
   },
   {
     "name": "TRACTOR",
@@ -11918,7 +12312,7 @@ var ALL = [
     "unified": "1F69C",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 873
+    "sort_order": 900
   },
   {
     "name": "RACING CAR",
@@ -11929,7 +12323,7 @@ var ALL = [
     "unified": "1F3CE-FE0F",
     "non_qualified": "1F3CE",
     "category": "Travel & Places",
-    "sort_order": 874
+    "sort_order": 901
   },
   {
     "name": "MOTORCYCLE",
@@ -11940,7 +12334,7 @@ var ALL = [
     "unified": "1F3CD-FE0F",
     "non_qualified": "1F3CD",
     "category": "Travel & Places",
-    "sort_order": 875
+    "sort_order": 902
   },
   {
     "name": "MOTOR SCOOTER",
@@ -11951,7 +12345,7 @@ var ALL = [
     "unified": "1F6F5",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 876
+    "sort_order": 903
   },
   {
     "name": "MANUAL WHEELCHAIR",
@@ -11962,7 +12356,7 @@ var ALL = [
     "unified": "1F9BD",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 877
+    "sort_order": 904
   },
   {
     "name": "MOTORIZED WHEELCHAIR",
@@ -11973,7 +12367,7 @@ var ALL = [
     "unified": "1F9BC",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 878
+    "sort_order": 905
   },
   {
     "name": "AUTO RICKSHAW",
@@ -11984,7 +12378,7 @@ var ALL = [
     "unified": "1F6FA",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 879
+    "sort_order": 906
   },
   {
     "name": "BICYCLE",
@@ -11995,7 +12389,7 @@ var ALL = [
     "unified": "1F6B2",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 880
+    "sort_order": 907
   },
   {
     "name": "SCOOTER",
@@ -12006,7 +12400,7 @@ var ALL = [
     "unified": "1F6F4",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 881
+    "sort_order": 908
   },
   {
     "name": "SKATEBOARD",
@@ -12017,7 +12411,7 @@ var ALL = [
     "unified": "1F6F9",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 882
+    "sort_order": 909
   },
   {
     "name": "ROLLER SKATE",
@@ -12028,7 +12422,7 @@ var ALL = [
     "unified": "1F6FC",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 883
+    "sort_order": 910
   },
   {
     "name": "BUS STOP",
@@ -12039,7 +12433,7 @@ var ALL = [
     "unified": "1F68F",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 884
+    "sort_order": 911
   },
   {
     "name": "MOTORWAY",
@@ -12050,7 +12444,7 @@ var ALL = [
     "unified": "1F6E3-FE0F",
     "non_qualified": "1F6E3",
     "category": "Travel & Places",
-    "sort_order": 885
+    "sort_order": 912
   },
   {
     "name": "RAILWAY TRACK",
@@ -12061,7 +12455,7 @@ var ALL = [
     "unified": "1F6E4-FE0F",
     "non_qualified": "1F6E4",
     "category": "Travel & Places",
-    "sort_order": 886
+    "sort_order": 913
   },
   {
     "name": "OIL DRUM",
@@ -12072,7 +12466,7 @@ var ALL = [
     "unified": "1F6E2-FE0F",
     "non_qualified": "1F6E2",
     "category": "Travel & Places",
-    "sort_order": 887
+    "sort_order": 914
   },
   {
     "name": "FUEL PUMP",
@@ -12083,7 +12477,18 @@ var ALL = [
     "unified": "26FD",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 888
+    "sort_order": 915
+  },
+  {
+    "name": "WHEEL",
+    "short_name": "wheel",
+    "short_names": [
+      "wheel"
+    ],
+    "unified": "1F6DE",
+    "non_qualified": null,
+    "category": "Travel & Places",
+    "sort_order": 916
   },
   {
     "name": "POLICE CARS REVOLVING LIGHT",
@@ -12094,7 +12499,7 @@ var ALL = [
     "unified": "1F6A8",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 889
+    "sort_order": 917
   },
   {
     "name": "HORIZONTAL TRAFFIC LIGHT",
@@ -12105,7 +12510,7 @@ var ALL = [
     "unified": "1F6A5",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 890
+    "sort_order": 918
   },
   {
     "name": "VERTICAL TRAFFIC LIGHT",
@@ -12116,7 +12521,7 @@ var ALL = [
     "unified": "1F6A6",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 891
+    "sort_order": 919
   },
   {
     "name": "OCTAGONAL SIGN",
@@ -12127,7 +12532,7 @@ var ALL = [
     "unified": "1F6D1",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 892
+    "sort_order": 920
   },
   {
     "name": "CONSTRUCTION SIGN",
@@ -12138,7 +12543,7 @@ var ALL = [
     "unified": "1F6A7",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 893
+    "sort_order": 921
   },
   {
     "name": "ANCHOR",
@@ -12149,7 +12554,18 @@ var ALL = [
     "unified": "2693",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 894
+    "sort_order": 922
+  },
+  {
+    "name": "RING BUOY",
+    "short_name": "ring_buoy",
+    "short_names": [
+      "ring_buoy"
+    ],
+    "unified": "1F6DF",
+    "non_qualified": null,
+    "category": "Travel & Places",
+    "sort_order": 923
   },
   {
     "name": "SAILBOAT",
@@ -12161,7 +12577,7 @@ var ALL = [
     "unified": "26F5",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 895
+    "sort_order": 924
   },
   {
     "name": "CANOE",
@@ -12172,7 +12588,7 @@ var ALL = [
     "unified": "1F6F6",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 896
+    "sort_order": 925
   },
   {
     "name": "SPEEDBOAT",
@@ -12183,7 +12599,7 @@ var ALL = [
     "unified": "1F6A4",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 897
+    "sort_order": 926
   },
   {
     "name": "PASSENGER SHIP",
@@ -12194,7 +12610,7 @@ var ALL = [
     "unified": "1F6F3-FE0F",
     "non_qualified": "1F6F3",
     "category": "Travel & Places",
-    "sort_order": 898
+    "sort_order": 927
   },
   {
     "name": "FERRY",
@@ -12205,7 +12621,7 @@ var ALL = [
     "unified": "26F4-FE0F",
     "non_qualified": "26F4",
     "category": "Travel & Places",
-    "sort_order": 899
+    "sort_order": 928
   },
   {
     "name": "MOTOR BOAT",
@@ -12216,7 +12632,7 @@ var ALL = [
     "unified": "1F6E5-FE0F",
     "non_qualified": "1F6E5",
     "category": "Travel & Places",
-    "sort_order": 900
+    "sort_order": 929
   },
   {
     "name": "SHIP",
@@ -12227,7 +12643,7 @@ var ALL = [
     "unified": "1F6A2",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 901
+    "sort_order": 930
   },
   {
     "name": "AIRPLANE",
@@ -12238,7 +12654,7 @@ var ALL = [
     "unified": "2708-FE0F",
     "non_qualified": "2708",
     "category": "Travel & Places",
-    "sort_order": 902
+    "sort_order": 931
   },
   {
     "name": "SMALL AIRPLANE",
@@ -12249,7 +12665,7 @@ var ALL = [
     "unified": "1F6E9-FE0F",
     "non_qualified": "1F6E9",
     "category": "Travel & Places",
-    "sort_order": 903
+    "sort_order": 932
   },
   {
     "name": "AIRPLANE DEPARTURE",
@@ -12260,7 +12676,7 @@ var ALL = [
     "unified": "1F6EB",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 904
+    "sort_order": 933
   },
   {
     "name": "AIRPLANE ARRIVING",
@@ -12271,7 +12687,7 @@ var ALL = [
     "unified": "1F6EC",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 905
+    "sort_order": 934
   },
   {
     "name": "PARACHUTE",
@@ -12282,7 +12698,7 @@ var ALL = [
     "unified": "1FA82",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 906
+    "sort_order": 935
   },
   {
     "name": "SEAT",
@@ -12293,7 +12709,7 @@ var ALL = [
     "unified": "1F4BA",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 907
+    "sort_order": 936
   },
   {
     "name": "HELICOPTER",
@@ -12304,7 +12720,7 @@ var ALL = [
     "unified": "1F681",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 908
+    "sort_order": 937
   },
   {
     "name": "SUSPENSION RAILWAY",
@@ -12315,7 +12731,7 @@ var ALL = [
     "unified": "1F69F",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 909
+    "sort_order": 938
   },
   {
     "name": "MOUNTAIN CABLEWAY",
@@ -12326,7 +12742,7 @@ var ALL = [
     "unified": "1F6A0",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 910
+    "sort_order": 939
   },
   {
     "name": "AERIAL TRAMWAY",
@@ -12337,7 +12753,7 @@ var ALL = [
     "unified": "1F6A1",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 911
+    "sort_order": 940
   },
   {
     "name": "SATELLITE",
@@ -12348,7 +12764,7 @@ var ALL = [
     "unified": "1F6F0-FE0F",
     "non_qualified": "1F6F0",
     "category": "Travel & Places",
-    "sort_order": 912
+    "sort_order": 941
   },
   {
     "name": "ROCKET",
@@ -12359,7 +12775,7 @@ var ALL = [
     "unified": "1F680",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 913
+    "sort_order": 942
   },
   {
     "name": "FLYING SAUCER",
@@ -12370,7 +12786,7 @@ var ALL = [
     "unified": "1F6F8",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 914
+    "sort_order": 943
   },
   {
     "name": "BELLHOP BELL",
@@ -12381,7 +12797,7 @@ var ALL = [
     "unified": "1F6CE-FE0F",
     "non_qualified": "1F6CE",
     "category": "Travel & Places",
-    "sort_order": 915
+    "sort_order": 944
   },
   {
     "name": "LUGGAGE",
@@ -12392,7 +12808,7 @@ var ALL = [
     "unified": "1F9F3",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 916
+    "sort_order": 945
   },
   {
     "name": "HOURGLASS",
@@ -12403,7 +12819,7 @@ var ALL = [
     "unified": "231B",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 917
+    "sort_order": 946
   },
   {
     "name": "HOURGLASS WITH FLOWING SAND",
@@ -12414,7 +12830,7 @@ var ALL = [
     "unified": "23F3",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 918
+    "sort_order": 947
   },
   {
     "name": "WATCH",
@@ -12425,7 +12841,7 @@ var ALL = [
     "unified": "231A",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 919
+    "sort_order": 948
   },
   {
     "name": "ALARM CLOCK",
@@ -12436,7 +12852,7 @@ var ALL = [
     "unified": "23F0",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 920
+    "sort_order": 949
   },
   {
     "name": "STOPWATCH",
@@ -12447,7 +12863,7 @@ var ALL = [
     "unified": "23F1-FE0F",
     "non_qualified": "23F1",
     "category": "Travel & Places",
-    "sort_order": 921
+    "sort_order": 950
   },
   {
     "name": "TIMER CLOCK",
@@ -12458,7 +12874,7 @@ var ALL = [
     "unified": "23F2-FE0F",
     "non_qualified": "23F2",
     "category": "Travel & Places",
-    "sort_order": 922
+    "sort_order": 951
   },
   {
     "name": "MANTELPIECE CLOCK",
@@ -12469,7 +12885,7 @@ var ALL = [
     "unified": "1F570-FE0F",
     "non_qualified": "1F570",
     "category": "Travel & Places",
-    "sort_order": 923
+    "sort_order": 952
   },
   {
     "name": "CLOCK FACE TWELVE OCLOCK",
@@ -12480,7 +12896,7 @@ var ALL = [
     "unified": "1F55B",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 924
+    "sort_order": 953
   },
   {
     "name": "CLOCK FACE TWELVE-THIRTY",
@@ -12491,7 +12907,7 @@ var ALL = [
     "unified": "1F567",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 925
+    "sort_order": 954
   },
   {
     "name": "CLOCK FACE ONE OCLOCK",
@@ -12502,7 +12918,7 @@ var ALL = [
     "unified": "1F550",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 926
+    "sort_order": 955
   },
   {
     "name": "CLOCK FACE ONE-THIRTY",
@@ -12513,7 +12929,7 @@ var ALL = [
     "unified": "1F55C",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 927
+    "sort_order": 956
   },
   {
     "name": "CLOCK FACE TWO OCLOCK",
@@ -12524,7 +12940,7 @@ var ALL = [
     "unified": "1F551",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 928
+    "sort_order": 957
   },
   {
     "name": "CLOCK FACE TWO-THIRTY",
@@ -12535,7 +12951,7 @@ var ALL = [
     "unified": "1F55D",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 929
+    "sort_order": 958
   },
   {
     "name": "CLOCK FACE THREE OCLOCK",
@@ -12546,7 +12962,7 @@ var ALL = [
     "unified": "1F552",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 930
+    "sort_order": 959
   },
   {
     "name": "CLOCK FACE THREE-THIRTY",
@@ -12557,7 +12973,7 @@ var ALL = [
     "unified": "1F55E",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 931
+    "sort_order": 960
   },
   {
     "name": "CLOCK FACE FOUR OCLOCK",
@@ -12568,7 +12984,7 @@ var ALL = [
     "unified": "1F553",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 932
+    "sort_order": 961
   },
   {
     "name": "CLOCK FACE FOUR-THIRTY",
@@ -12579,7 +12995,7 @@ var ALL = [
     "unified": "1F55F",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 933
+    "sort_order": 962
   },
   {
     "name": "CLOCK FACE FIVE OCLOCK",
@@ -12590,7 +13006,7 @@ var ALL = [
     "unified": "1F554",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 934
+    "sort_order": 963
   },
   {
     "name": "CLOCK FACE FIVE-THIRTY",
@@ -12601,7 +13017,7 @@ var ALL = [
     "unified": "1F560",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 935
+    "sort_order": 964
   },
   {
     "name": "CLOCK FACE SIX OCLOCK",
@@ -12612,7 +13028,7 @@ var ALL = [
     "unified": "1F555",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 936
+    "sort_order": 965
   },
   {
     "name": "CLOCK FACE SIX-THIRTY",
@@ -12623,7 +13039,7 @@ var ALL = [
     "unified": "1F561",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 937
+    "sort_order": 966
   },
   {
     "name": "CLOCK FACE SEVEN OCLOCK",
@@ -12634,7 +13050,7 @@ var ALL = [
     "unified": "1F556",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 938
+    "sort_order": 967
   },
   {
     "name": "CLOCK FACE SEVEN-THIRTY",
@@ -12645,7 +13061,7 @@ var ALL = [
     "unified": "1F562",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 939
+    "sort_order": 968
   },
   {
     "name": "CLOCK FACE EIGHT OCLOCK",
@@ -12656,7 +13072,7 @@ var ALL = [
     "unified": "1F557",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 940
+    "sort_order": 969
   },
   {
     "name": "CLOCK FACE EIGHT-THIRTY",
@@ -12667,7 +13083,7 @@ var ALL = [
     "unified": "1F563",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 941
+    "sort_order": 970
   },
   {
     "name": "CLOCK FACE NINE OCLOCK",
@@ -12678,7 +13094,7 @@ var ALL = [
     "unified": "1F558",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 942
+    "sort_order": 971
   },
   {
     "name": "CLOCK FACE NINE-THIRTY",
@@ -12689,7 +13105,7 @@ var ALL = [
     "unified": "1F564",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 943
+    "sort_order": 972
   },
   {
     "name": "CLOCK FACE TEN OCLOCK",
@@ -12700,7 +13116,7 @@ var ALL = [
     "unified": "1F559",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 944
+    "sort_order": 973
   },
   {
     "name": "CLOCK FACE TEN-THIRTY",
@@ -12711,7 +13127,7 @@ var ALL = [
     "unified": "1F565",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 945
+    "sort_order": 974
   },
   {
     "name": "CLOCK FACE ELEVEN OCLOCK",
@@ -12722,7 +13138,7 @@ var ALL = [
     "unified": "1F55A",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 946
+    "sort_order": 975
   },
   {
     "name": "CLOCK FACE ELEVEN-THIRTY",
@@ -12733,7 +13149,7 @@ var ALL = [
     "unified": "1F566",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 947
+    "sort_order": 976
   },
   {
     "name": "NEW MOON SYMBOL",
@@ -12744,7 +13160,7 @@ var ALL = [
     "unified": "1F311",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 948
+    "sort_order": 977
   },
   {
     "name": "WAXING CRESCENT MOON SYMBOL",
@@ -12755,7 +13171,7 @@ var ALL = [
     "unified": "1F312",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 949
+    "sort_order": 978
   },
   {
     "name": "FIRST QUARTER MOON SYMBOL",
@@ -12766,7 +13182,7 @@ var ALL = [
     "unified": "1F313",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 950
+    "sort_order": 979
   },
   {
     "name": "WAXING GIBBOUS MOON SYMBOL",
@@ -12778,7 +13194,7 @@ var ALL = [
     "unified": "1F314",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 951
+    "sort_order": 980
   },
   {
     "name": "FULL MOON SYMBOL",
@@ -12789,7 +13205,7 @@ var ALL = [
     "unified": "1F315",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 952
+    "sort_order": 981
   },
   {
     "name": "WANING GIBBOUS MOON SYMBOL",
@@ -12800,7 +13216,7 @@ var ALL = [
     "unified": "1F316",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 953
+    "sort_order": 982
   },
   {
     "name": "LAST QUARTER MOON SYMBOL",
@@ -12811,7 +13227,7 @@ var ALL = [
     "unified": "1F317",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 954
+    "sort_order": 983
   },
   {
     "name": "WANING CRESCENT MOON SYMBOL",
@@ -12822,7 +13238,7 @@ var ALL = [
     "unified": "1F318",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 955
+    "sort_order": 984
   },
   {
     "name": "CRESCENT MOON",
@@ -12833,7 +13249,7 @@ var ALL = [
     "unified": "1F319",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 956
+    "sort_order": 985
   },
   {
     "name": "NEW MOON WITH FACE",
@@ -12844,7 +13260,7 @@ var ALL = [
     "unified": "1F31A",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 957
+    "sort_order": 986
   },
   {
     "name": "FIRST QUARTER MOON WITH FACE",
@@ -12855,7 +13271,7 @@ var ALL = [
     "unified": "1F31B",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 958
+    "sort_order": 987
   },
   {
     "name": "LAST QUARTER MOON WITH FACE",
@@ -12866,7 +13282,7 @@ var ALL = [
     "unified": "1F31C",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 959
+    "sort_order": 988
   },
   {
     "name": "THERMOMETER",
@@ -12877,7 +13293,7 @@ var ALL = [
     "unified": "1F321-FE0F",
     "non_qualified": "1F321",
     "category": "Travel & Places",
-    "sort_order": 960
+    "sort_order": 989
   },
   {
     "name": "BLACK SUN WITH RAYS",
@@ -12888,7 +13304,7 @@ var ALL = [
     "unified": "2600-FE0F",
     "non_qualified": "2600",
     "category": "Travel & Places",
-    "sort_order": 961
+    "sort_order": 990
   },
   {
     "name": "FULL MOON WITH FACE",
@@ -12899,7 +13315,7 @@ var ALL = [
     "unified": "1F31D",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 962
+    "sort_order": 991
   },
   {
     "name": "SUN WITH FACE",
@@ -12910,7 +13326,7 @@ var ALL = [
     "unified": "1F31E",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 963
+    "sort_order": 992
   },
   {
     "name": "RINGED PLANET",
@@ -12921,7 +13337,7 @@ var ALL = [
     "unified": "1FA90",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 964
+    "sort_order": 993
   },
   {
     "name": "WHITE MEDIUM STAR",
@@ -12932,7 +13348,7 @@ var ALL = [
     "unified": "2B50",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 965
+    "sort_order": 994
   },
   {
     "name": "GLOWING STAR",
@@ -12943,7 +13359,7 @@ var ALL = [
     "unified": "1F31F",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 966
+    "sort_order": 995
   },
   {
     "name": "SHOOTING STAR",
@@ -12954,7 +13370,7 @@ var ALL = [
     "unified": "1F320",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 967
+    "sort_order": 996
   },
   {
     "name": "MILKY WAY",
@@ -12965,7 +13381,7 @@ var ALL = [
     "unified": "1F30C",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 968
+    "sort_order": 997
   },
   {
     "name": "CLOUD",
@@ -12976,7 +13392,7 @@ var ALL = [
     "unified": "2601-FE0F",
     "non_qualified": "2601",
     "category": "Travel & Places",
-    "sort_order": 969
+    "sort_order": 998
   },
   {
     "name": "SUN BEHIND CLOUD",
@@ -12987,7 +13403,7 @@ var ALL = [
     "unified": "26C5",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 970
+    "sort_order": 999
   },
   {
     "name": "CLOUD WITH LIGHTNING AND RAIN",
@@ -12998,7 +13414,7 @@ var ALL = [
     "unified": "26C8-FE0F",
     "non_qualified": "26C8",
     "category": "Travel & Places",
-    "sort_order": 971
+    "sort_order": 1000
   },
   {
     "name": "SUN BEHIND SMALL CLOUD",
@@ -13010,7 +13426,7 @@ var ALL = [
     "unified": "1F324-FE0F",
     "non_qualified": "1F324",
     "category": "Travel & Places",
-    "sort_order": 972
+    "sort_order": 1001
   },
   {
     "name": "SUN BEHIND LARGE CLOUD",
@@ -13022,7 +13438,7 @@ var ALL = [
     "unified": "1F325-FE0F",
     "non_qualified": "1F325",
     "category": "Travel & Places",
-    "sort_order": 973
+    "sort_order": 1002
   },
   {
     "name": "SUN BEHIND RAIN CLOUD",
@@ -13034,7 +13450,7 @@ var ALL = [
     "unified": "1F326-FE0F",
     "non_qualified": "1F326",
     "category": "Travel & Places",
-    "sort_order": 974
+    "sort_order": 1003
   },
   {
     "name": "CLOUD WITH RAIN",
@@ -13045,7 +13461,7 @@ var ALL = [
     "unified": "1F327-FE0F",
     "non_qualified": "1F327",
     "category": "Travel & Places",
-    "sort_order": 975
+    "sort_order": 1004
   },
   {
     "name": "CLOUD WITH SNOW",
@@ -13056,7 +13472,7 @@ var ALL = [
     "unified": "1F328-FE0F",
     "non_qualified": "1F328",
     "category": "Travel & Places",
-    "sort_order": 976
+    "sort_order": 1005
   },
   {
     "name": "CLOUD WITH LIGHTNING",
@@ -13068,7 +13484,7 @@ var ALL = [
     "unified": "1F329-FE0F",
     "non_qualified": "1F329",
     "category": "Travel & Places",
-    "sort_order": 977
+    "sort_order": 1006
   },
   {
     "name": "TORNADO",
@@ -13080,7 +13496,7 @@ var ALL = [
     "unified": "1F32A-FE0F",
     "non_qualified": "1F32A",
     "category": "Travel & Places",
-    "sort_order": 978
+    "sort_order": 1007
   },
   {
     "name": "FOG",
@@ -13091,7 +13507,7 @@ var ALL = [
     "unified": "1F32B-FE0F",
     "non_qualified": "1F32B",
     "category": "Travel & Places",
-    "sort_order": 979
+    "sort_order": 1008
   },
   {
     "name": "WIND FACE",
@@ -13102,7 +13518,7 @@ var ALL = [
     "unified": "1F32C-FE0F",
     "non_qualified": "1F32C",
     "category": "Travel & Places",
-    "sort_order": 980
+    "sort_order": 1009
   },
   {
     "name": "CYCLONE",
@@ -13113,7 +13529,7 @@ var ALL = [
     "unified": "1F300",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 981
+    "sort_order": 1010
   },
   {
     "name": "RAINBOW",
@@ -13124,7 +13540,7 @@ var ALL = [
     "unified": "1F308",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 982
+    "sort_order": 1011
   },
   {
     "name": "CLOSED UMBRELLA",
@@ -13135,7 +13551,7 @@ var ALL = [
     "unified": "1F302",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 983
+    "sort_order": 1012
   },
   {
     "name": "UMBRELLA",
@@ -13146,7 +13562,7 @@ var ALL = [
     "unified": "2602-FE0F",
     "non_qualified": "2602",
     "category": "Travel & Places",
-    "sort_order": 984
+    "sort_order": 1013
   },
   {
     "name": "UMBRELLA WITH RAIN DROPS",
@@ -13157,7 +13573,7 @@ var ALL = [
     "unified": "2614",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 985
+    "sort_order": 1014
   },
   {
     "name": "UMBRELLA ON GROUND",
@@ -13168,7 +13584,7 @@ var ALL = [
     "unified": "26F1-FE0F",
     "non_qualified": "26F1",
     "category": "Travel & Places",
-    "sort_order": 986
+    "sort_order": 1015
   },
   {
     "name": "HIGH VOLTAGE SIGN",
@@ -13179,7 +13595,7 @@ var ALL = [
     "unified": "26A1",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 987
+    "sort_order": 1016
   },
   {
     "name": "SNOWFLAKE",
@@ -13190,7 +13606,7 @@ var ALL = [
     "unified": "2744-FE0F",
     "non_qualified": "2744",
     "category": "Travel & Places",
-    "sort_order": 988
+    "sort_order": 1017
   },
   {
     "name": "SNOWMAN",
@@ -13201,7 +13617,7 @@ var ALL = [
     "unified": "2603-FE0F",
     "non_qualified": "2603",
     "category": "Travel & Places",
-    "sort_order": 989
+    "sort_order": 1018
   },
   {
     "name": "SNOWMAN WITHOUT SNOW",
@@ -13212,7 +13628,7 @@ var ALL = [
     "unified": "26C4",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 990
+    "sort_order": 1019
   },
   {
     "name": "COMET",
@@ -13223,7 +13639,7 @@ var ALL = [
     "unified": "2604-FE0F",
     "non_qualified": "2604",
     "category": "Travel & Places",
-    "sort_order": 991
+    "sort_order": 1020
   },
   {
     "name": "FIRE",
@@ -13234,7 +13650,7 @@ var ALL = [
     "unified": "1F525",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 992
+    "sort_order": 1021
   },
   {
     "name": "DROPLET",
@@ -13245,7 +13661,7 @@ var ALL = [
     "unified": "1F4A7",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 993
+    "sort_order": 1022
   },
   {
     "name": "WATER WAVE",
@@ -13256,7 +13672,7 @@ var ALL = [
     "unified": "1F30A",
     "non_qualified": null,
     "category": "Travel & Places",
-    "sort_order": 994
+    "sort_order": 1023
   },
   {
     "name": "JACK-O-LANTERN",
@@ -13267,7 +13683,7 @@ var ALL = [
     "unified": "1F383",
     "non_qualified": null,
     "category": "Activities",
-    "sort_order": 995
+    "sort_order": 1024
   },
   {
     "name": "CHRISTMAS TREE",
@@ -13278,7 +13694,7 @@ var ALL = [
     "unified": "1F384",
     "non_qualified": null,
     "category": "Activities",
-    "sort_order": 996
+    "sort_order": 1025
   },
   {
     "name": "FIREWORKS",
@@ -13289,7 +13705,7 @@ var ALL = [
     "unified": "1F386",
     "non_qualified": null,
     "category": "Activities",
-    "sort_order": 997
+    "sort_order": 1026
   },
   {
     "name": "FIREWORK SPARKLER",
@@ -13300,7 +13716,7 @@ var ALL = [
     "unified": "1F387",
     "non_qualified": null,
     "category": "Activities",
-    "sort_order": 998
+    "sort_order": 1027
   },
   {
     "name": "FIRECRACKER",
@@ -13311,7 +13727,7 @@ var ALL = [
     "unified": "1F9E8",
     "non_qualified": null,
     "category": "Activities",
-    "sort_order": 999
+    "sort_order": 1028
   },
   {
     "name": "SPARKLES",
@@ -13322,7 +13738,7 @@ var ALL = [
     "unified": "2728",
     "non_qualified": null,
     "category": "Activities",
-    "sort_order": 1000
+    "sort_order": 1029
   },
   {
     "name": "BALLOON",
@@ -13333,7 +13749,7 @@ var ALL = [
     "unified": "1F388",
     "non_qualified": null,
     "category": "Activities",
-    "sort_order": 1001
+    "sort_order": 1030
   },
   {
     "name": "PARTY POPPER",
@@ -13344,7 +13760,7 @@ var ALL = [
     "unified": "1F389",
     "non_qualified": null,
     "category": "Activities",
-    "sort_order": 1002
+    "sort_order": 1031
   },
   {
     "name": "CONFETTI BALL",
@@ -13355,7 +13771,7 @@ var ALL = [
     "unified": "1F38A",
     "non_qualified": null,
     "category": "Activities",
-    "sort_order": 1003
+    "sort_order": 1032
   },
   {
     "name": "TANABATA TREE",
@@ -13366,7 +13782,7 @@ var ALL = [
     "unified": "1F38B",
     "non_qualified": null,
     "category": "Activities",
-    "sort_order": 1004
+    "sort_order": 1033
   },
   {
     "name": "PINE DECORATION",
@@ -13377,7 +13793,7 @@ var ALL = [
     "unified": "1F38D",
     "non_qualified": null,
     "category": "Activities",
-    "sort_order": 1005
+    "sort_order": 1034
   },
   {
     "name": "JAPANESE DOLLS",
@@ -13388,7 +13804,7 @@ var ALL = [
     "unified": "1F38E",
     "non_qualified": null,
     "category": "Activities",
-    "sort_order": 1006
+    "sort_order": 1035
   },
   {
     "name": "CARP STREAMER",
@@ -13399,7 +13815,7 @@ var ALL = [
     "unified": "1F38F",
     "non_qualified": null,
     "category": "Activities",
-    "sort_order": 1007
+    "sort_order": 1036
   },
   {
     "name": "WIND CHIME",
@@ -13410,7 +13826,7 @@ var ALL = [
     "unified": "1F390",
     "non_qualified": null,
     "category": "Activities",
-    "sort_order": 1008
+    "sort_order": 1037
   },
   {
     "name": "MOON VIEWING CEREMONY",
@@ -13421,7 +13837,7 @@ var ALL = [
     "unified": "1F391",
     "non_qualified": null,
     "category": "Activities",
-    "sort_order": 1009
+    "sort_order": 1038
   },
   {
     "name": "RED GIFT ENVELOPE",
@@ -13432,7 +13848,7 @@ var ALL = [
     "unified": "1F9E7",
     "non_qualified": null,
     "category": "Activities",
-    "sort_order": 1010
+    "sort_order": 1039
   },
   {
     "name": "RIBBON",
@@ -13443,7 +13859,7 @@ var ALL = [
     "unified": "1F380",
     "non_qualified": null,
     "category": "Activities",
-    "sort_order": 1011
+    "sort_order": 1040
   },
   {
     "name": "WRAPPED PRESENT",
@@ -13454,7 +13870,7 @@ var ALL = [
     "unified": "1F381",
     "non_qualified": null,
     "category": "Activities",
-    "sort_order": 1012
+    "sort_order": 1041
   },
   {
     "name": "REMINDER RIBBON",
@@ -13465,7 +13881,7 @@ var ALL = [
     "unified": "1F397-FE0F",
     "non_qualified": "1F397",
     "category": "Activities",
-    "sort_order": 1013
+    "sort_order": 1042
   },
   {
     "name": "ADMISSION TICKETS",
@@ -13476,7 +13892,7 @@ var ALL = [
     "unified": "1F39F-FE0F",
     "non_qualified": "1F39F",
     "category": "Activities",
-    "sort_order": 1014
+    "sort_order": 1043
   },
   {
     "name": "TICKET",
@@ -13487,7 +13903,7 @@ var ALL = [
     "unified": "1F3AB",
     "non_qualified": null,
     "category": "Activities",
-    "sort_order": 1015
+    "sort_order": 1044
   },
   {
     "name": "MILITARY MEDAL",
@@ -13498,7 +13914,7 @@ var ALL = [
     "unified": "1F396-FE0F",
     "non_qualified": "1F396",
     "category": "Activities",
-    "sort_order": 1016
+    "sort_order": 1045
   },
   {
     "name": "TROPHY",
@@ -13509,7 +13925,7 @@ var ALL = [
     "unified": "1F3C6",
     "non_qualified": null,
     "category": "Activities",
-    "sort_order": 1017
+    "sort_order": 1046
   },
   {
     "name": "SPORTS MEDAL",
@@ -13520,7 +13936,7 @@ var ALL = [
     "unified": "1F3C5",
     "non_qualified": null,
     "category": "Activities",
-    "sort_order": 1018
+    "sort_order": 1047
   },
   {
     "name": "FIRST PLACE MEDAL",
@@ -13531,7 +13947,7 @@ var ALL = [
     "unified": "1F947",
     "non_qualified": null,
     "category": "Activities",
-    "sort_order": 1019
+    "sort_order": 1048
   },
   {
     "name": "SECOND PLACE MEDAL",
@@ -13542,7 +13958,7 @@ var ALL = [
     "unified": "1F948",
     "non_qualified": null,
     "category": "Activities",
-    "sort_order": 1020
+    "sort_order": 1049
   },
   {
     "name": "THIRD PLACE MEDAL",
@@ -13553,7 +13969,7 @@ var ALL = [
     "unified": "1F949",
     "non_qualified": null,
     "category": "Activities",
-    "sort_order": 1021
+    "sort_order": 1050
   },
   {
     "name": "SOCCER BALL",
@@ -13564,7 +13980,7 @@ var ALL = [
     "unified": "26BD",
     "non_qualified": null,
     "category": "Activities",
-    "sort_order": 1022
+    "sort_order": 1051
   },
   {
     "name": "BASEBALL",
@@ -13575,7 +13991,7 @@ var ALL = [
     "unified": "26BE",
     "non_qualified": null,
     "category": "Activities",
-    "sort_order": 1023
+    "sort_order": 1052
   },
   {
     "name": "SOFTBALL",
@@ -13586,7 +14002,7 @@ var ALL = [
     "unified": "1F94E",
     "non_qualified": null,
     "category": "Activities",
-    "sort_order": 1024
+    "sort_order": 1053
   },
   {
     "name": "BASKETBALL AND HOOP",
@@ -13597,7 +14013,7 @@ var ALL = [
     "unified": "1F3C0",
     "non_qualified": null,
     "category": "Activities",
-    "sort_order": 1025
+    "sort_order": 1054
   },
   {
     "name": "VOLLEYBALL",
@@ -13608,7 +14024,7 @@ var ALL = [
     "unified": "1F3D0",
     "non_qualified": null,
     "category": "Activities",
-    "sort_order": 1026
+    "sort_order": 1055
   },
   {
     "name": "AMERICAN FOOTBALL",
@@ -13619,7 +14035,7 @@ var ALL = [
     "unified": "1F3C8",
     "non_qualified": null,
     "category": "Activities",
-    "sort_order": 1027
+    "sort_order": 1056
   },
   {
     "name": "RUGBY FOOTBALL",
@@ -13630,7 +14046,7 @@ var ALL = [
     "unified": "1F3C9",
     "non_qualified": null,
     "category": "Activities",
-    "sort_order": 1028
+    "sort_order": 1057
   },
   {
     "name": "TENNIS RACQUET AND BALL",
@@ -13641,7 +14057,7 @@ var ALL = [
     "unified": "1F3BE",
     "non_qualified": null,
     "category": "Activities",
-    "sort_order": 1029
+    "sort_order": 1058
   },
   {
     "name": "FLYING DISC",
@@ -13652,7 +14068,7 @@ var ALL = [
     "unified": "1F94F",
     "non_qualified": null,
     "category": "Activities",
-    "sort_order": 1030
+    "sort_order": 1059
   },
   {
     "name": "BOWLING",
@@ -13663,7 +14079,7 @@ var ALL = [
     "unified": "1F3B3",
     "non_qualified": null,
     "category": "Activities",
-    "sort_order": 1031
+    "sort_order": 1060
   },
   {
     "name": "CRICKET BAT AND BALL",
@@ -13674,7 +14090,7 @@ var ALL = [
     "unified": "1F3CF",
     "non_qualified": null,
     "category": "Activities",
-    "sort_order": 1032
+    "sort_order": 1061
   },
   {
     "name": "FIELD HOCKEY STICK AND BALL",
@@ -13685,7 +14101,7 @@ var ALL = [
     "unified": "1F3D1",
     "non_qualified": null,
     "category": "Activities",
-    "sort_order": 1033
+    "sort_order": 1062
   },
   {
     "name": "ICE HOCKEY STICK AND PUCK",
@@ -13696,7 +14112,7 @@ var ALL = [
     "unified": "1F3D2",
     "non_qualified": null,
     "category": "Activities",
-    "sort_order": 1034
+    "sort_order": 1063
   },
   {
     "name": "LACROSSE STICK AND BALL",
@@ -13707,7 +14123,7 @@ var ALL = [
     "unified": "1F94D",
     "non_qualified": null,
     "category": "Activities",
-    "sort_order": 1035
+    "sort_order": 1064
   },
   {
     "name": "TABLE TENNIS PADDLE AND BALL",
@@ -13718,7 +14134,7 @@ var ALL = [
     "unified": "1F3D3",
     "non_qualified": null,
     "category": "Activities",
-    "sort_order": 1036
+    "sort_order": 1065
   },
   {
     "name": "BADMINTON RACQUET AND SHUTTLECOCK",
@@ -13729,7 +14145,7 @@ var ALL = [
     "unified": "1F3F8",
     "non_qualified": null,
     "category": "Activities",
-    "sort_order": 1037
+    "sort_order": 1066
   },
   {
     "name": "BOXING GLOVE",
@@ -13740,7 +14156,7 @@ var ALL = [
     "unified": "1F94A",
     "non_qualified": null,
     "category": "Activities",
-    "sort_order": 1038
+    "sort_order": 1067
   },
   {
     "name": "MARTIAL ARTS UNIFORM",
@@ -13751,7 +14167,7 @@ var ALL = [
     "unified": "1F94B",
     "non_qualified": null,
     "category": "Activities",
-    "sort_order": 1039
+    "sort_order": 1068
   },
   {
     "name": "GOAL NET",
@@ -13762,7 +14178,7 @@ var ALL = [
     "unified": "1F945",
     "non_qualified": null,
     "category": "Activities",
-    "sort_order": 1040
+    "sort_order": 1069
   },
   {
     "name": "FLAG IN HOLE",
@@ -13773,7 +14189,7 @@ var ALL = [
     "unified": "26F3",
     "non_qualified": null,
     "category": "Activities",
-    "sort_order": 1041
+    "sort_order": 1070
   },
   {
     "name": "ICE SKATE",
@@ -13784,7 +14200,7 @@ var ALL = [
     "unified": "26F8-FE0F",
     "non_qualified": "26F8",
     "category": "Activities",
-    "sort_order": 1042
+    "sort_order": 1071
   },
   {
     "name": "FISHING POLE AND FISH",
@@ -13795,7 +14211,7 @@ var ALL = [
     "unified": "1F3A3",
     "non_qualified": null,
     "category": "Activities",
-    "sort_order": 1043
+    "sort_order": 1072
   },
   {
     "name": "DIVING MASK",
@@ -13806,7 +14222,7 @@ var ALL = [
     "unified": "1F93F",
     "non_qualified": null,
     "category": "Activities",
-    "sort_order": 1044
+    "sort_order": 1073
   },
   {
     "name": "RUNNING SHIRT WITH SASH",
@@ -13817,7 +14233,7 @@ var ALL = [
     "unified": "1F3BD",
     "non_qualified": null,
     "category": "Activities",
-    "sort_order": 1045
+    "sort_order": 1074
   },
   {
     "name": "SKI AND SKI BOOT",
@@ -13828,7 +14244,7 @@ var ALL = [
     "unified": "1F3BF",
     "non_qualified": null,
     "category": "Activities",
-    "sort_order": 1046
+    "sort_order": 1075
   },
   {
     "name": "SLED",
@@ -13839,7 +14255,7 @@ var ALL = [
     "unified": "1F6F7",
     "non_qualified": null,
     "category": "Activities",
-    "sort_order": 1047
+    "sort_order": 1076
   },
   {
     "name": "CURLING STONE",
@@ -13850,7 +14266,7 @@ var ALL = [
     "unified": "1F94C",
     "non_qualified": null,
     "category": "Activities",
-    "sort_order": 1048
+    "sort_order": 1077
   },
   {
     "name": "DIRECT HIT",
@@ -13861,7 +14277,7 @@ var ALL = [
     "unified": "1F3AF",
     "non_qualified": null,
     "category": "Activities",
-    "sort_order": 1049
+    "sort_order": 1078
   },
   {
     "name": "YO-YO",
@@ -13872,7 +14288,7 @@ var ALL = [
     "unified": "1FA80",
     "non_qualified": null,
     "category": "Activities",
-    "sort_order": 1050
+    "sort_order": 1079
   },
   {
     "name": "KITE",
@@ -13883,7 +14299,7 @@ var ALL = [
     "unified": "1FA81",
     "non_qualified": null,
     "category": "Activities",
-    "sort_order": 1051
+    "sort_order": 1080
   },
   {
     "name": "BILLIARDS",
@@ -13894,7 +14310,7 @@ var ALL = [
     "unified": "1F3B1",
     "non_qualified": null,
     "category": "Activities",
-    "sort_order": 1052
+    "sort_order": 1081
   },
   {
     "name": "CRYSTAL BALL",
@@ -13905,7 +14321,7 @@ var ALL = [
     "unified": "1F52E",
     "non_qualified": null,
     "category": "Activities",
-    "sort_order": 1053
+    "sort_order": 1082
   },
   {
     "name": "MAGIC WAND",
@@ -13916,7 +14332,7 @@ var ALL = [
     "unified": "1FA84",
     "non_qualified": null,
     "category": "Activities",
-    "sort_order": 1054
+    "sort_order": 1083
   },
   {
     "name": "NAZAR AMULET",
@@ -13927,7 +14343,18 @@ var ALL = [
     "unified": "1F9FF",
     "non_qualified": null,
     "category": "Activities",
-    "sort_order": 1055
+    "sort_order": 1084
+  },
+  {
+    "name": "HAMSA",
+    "short_name": "hamsa",
+    "short_names": [
+      "hamsa"
+    ],
+    "unified": "1FAAC",
+    "non_qualified": null,
+    "category": "Activities",
+    "sort_order": 1085
   },
   {
     "name": "VIDEO GAME",
@@ -13938,7 +14365,7 @@ var ALL = [
     "unified": "1F3AE",
     "non_qualified": null,
     "category": "Activities",
-    "sort_order": 1056
+    "sort_order": 1086
   },
   {
     "name": "JOYSTICK",
@@ -13949,7 +14376,7 @@ var ALL = [
     "unified": "1F579-FE0F",
     "non_qualified": "1F579",
     "category": "Activities",
-    "sort_order": 1057
+    "sort_order": 1087
   },
   {
     "name": "SLOT MACHINE",
@@ -13960,7 +14387,7 @@ var ALL = [
     "unified": "1F3B0",
     "non_qualified": null,
     "category": "Activities",
-    "sort_order": 1058
+    "sort_order": 1088
   },
   {
     "name": "GAME DIE",
@@ -13971,7 +14398,7 @@ var ALL = [
     "unified": "1F3B2",
     "non_qualified": null,
     "category": "Activities",
-    "sort_order": 1059
+    "sort_order": 1089
   },
   {
     "name": "JIGSAW PUZZLE PIECE",
@@ -13982,7 +14409,7 @@ var ALL = [
     "unified": "1F9E9",
     "non_qualified": null,
     "category": "Activities",
-    "sort_order": 1060
+    "sort_order": 1090
   },
   {
     "name": "TEDDY BEAR",
@@ -13993,7 +14420,7 @@ var ALL = [
     "unified": "1F9F8",
     "non_qualified": null,
     "category": "Activities",
-    "sort_order": 1061
+    "sort_order": 1091
   },
   {
     "name": "PINATA",
@@ -14004,7 +14431,18 @@ var ALL = [
     "unified": "1FA85",
     "non_qualified": null,
     "category": "Activities",
-    "sort_order": 1062
+    "sort_order": 1092
+  },
+  {
+    "name": "MIRROR BALL",
+    "short_name": "mirror_ball",
+    "short_names": [
+      "mirror_ball"
+    ],
+    "unified": "1FAA9",
+    "non_qualified": null,
+    "category": "Activities",
+    "sort_order": 1093
   },
   {
     "name": "NESTING DOLLS",
@@ -14015,7 +14453,7 @@ var ALL = [
     "unified": "1FA86",
     "non_qualified": null,
     "category": "Activities",
-    "sort_order": 1063
+    "sort_order": 1094
   },
   {
     "name": "BLACK SPADE SUIT",
@@ -14026,7 +14464,7 @@ var ALL = [
     "unified": "2660-FE0F",
     "non_qualified": "2660",
     "category": "Activities",
-    "sort_order": 1064
+    "sort_order": 1095
   },
   {
     "name": "BLACK HEART SUIT",
@@ -14037,7 +14475,7 @@ var ALL = [
     "unified": "2665-FE0F",
     "non_qualified": "2665",
     "category": "Activities",
-    "sort_order": 1065
+    "sort_order": 1096
   },
   {
     "name": "BLACK DIAMOND SUIT",
@@ -14048,7 +14486,7 @@ var ALL = [
     "unified": "2666-FE0F",
     "non_qualified": "2666",
     "category": "Activities",
-    "sort_order": 1066
+    "sort_order": 1097
   },
   {
     "name": "BLACK CLUB SUIT",
@@ -14059,7 +14497,7 @@ var ALL = [
     "unified": "2663-FE0F",
     "non_qualified": "2663",
     "category": "Activities",
-    "sort_order": 1067
+    "sort_order": 1098
   },
   {
     "name": "CHESS PAWN",
@@ -14070,7 +14508,7 @@ var ALL = [
     "unified": "265F-FE0F",
     "non_qualified": "265F",
     "category": "Activities",
-    "sort_order": 1068
+    "sort_order": 1099
   },
   {
     "name": "PLAYING CARD BLACK JOKER",
@@ -14081,7 +14519,7 @@ var ALL = [
     "unified": "1F0CF",
     "non_qualified": null,
     "category": "Activities",
-    "sort_order": 1069
+    "sort_order": 1100
   },
   {
     "name": "MAHJONG TILE RED DRAGON",
@@ -14092,7 +14530,7 @@ var ALL = [
     "unified": "1F004",
     "non_qualified": null,
     "category": "Activities",
-    "sort_order": 1070
+    "sort_order": 1101
   },
   {
     "name": "FLOWER PLAYING CARDS",
@@ -14103,7 +14541,7 @@ var ALL = [
     "unified": "1F3B4",
     "non_qualified": null,
     "category": "Activities",
-    "sort_order": 1071
+    "sort_order": 1102
   },
   {
     "name": "PERFORMING ARTS",
@@ -14114,7 +14552,7 @@ var ALL = [
     "unified": "1F3AD",
     "non_qualified": null,
     "category": "Activities",
-    "sort_order": 1072
+    "sort_order": 1103
   },
   {
     "name": "FRAMED PICTURE",
@@ -14125,7 +14563,7 @@ var ALL = [
     "unified": "1F5BC-FE0F",
     "non_qualified": "1F5BC",
     "category": "Activities",
-    "sort_order": 1073
+    "sort_order": 1104
   },
   {
     "name": "ARTIST PALETTE",
@@ -14136,7 +14574,7 @@ var ALL = [
     "unified": "1F3A8",
     "non_qualified": null,
     "category": "Activities",
-    "sort_order": 1074
+    "sort_order": 1105
   },
   {
     "name": "SPOOL OF THREAD",
@@ -14147,7 +14585,7 @@ var ALL = [
     "unified": "1F9F5",
     "non_qualified": null,
     "category": "Activities",
-    "sort_order": 1075
+    "sort_order": 1106
   },
   {
     "name": "SEWING NEEDLE",
@@ -14158,7 +14596,7 @@ var ALL = [
     "unified": "1FAA1",
     "non_qualified": null,
     "category": "Activities",
-    "sort_order": 1076
+    "sort_order": 1107
   },
   {
     "name": "BALL OF YARN",
@@ -14169,7 +14607,7 @@ var ALL = [
     "unified": "1F9F6",
     "non_qualified": null,
     "category": "Activities",
-    "sort_order": 1077
+    "sort_order": 1108
   },
   {
     "name": "KNOT",
@@ -14180,7 +14618,7 @@ var ALL = [
     "unified": "1FAA2",
     "non_qualified": null,
     "category": "Activities",
-    "sort_order": 1078
+    "sort_order": 1109
   },
   {
     "name": "EYEGLASSES",
@@ -14191,7 +14629,7 @@ var ALL = [
     "unified": "1F453",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1079
+    "sort_order": 1110
   },
   {
     "name": "SUNGLASSES",
@@ -14202,7 +14640,7 @@ var ALL = [
     "unified": "1F576-FE0F",
     "non_qualified": "1F576",
     "category": "Objects",
-    "sort_order": 1080
+    "sort_order": 1111
   },
   {
     "name": "GOGGLES",
@@ -14213,7 +14651,7 @@ var ALL = [
     "unified": "1F97D",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1081
+    "sort_order": 1112
   },
   {
     "name": "LAB COAT",
@@ -14224,7 +14662,7 @@ var ALL = [
     "unified": "1F97C",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1082
+    "sort_order": 1113
   },
   {
     "name": "SAFETY VEST",
@@ -14235,7 +14673,7 @@ var ALL = [
     "unified": "1F9BA",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1083
+    "sort_order": 1114
   },
   {
     "name": "NECKTIE",
@@ -14246,7 +14684,7 @@ var ALL = [
     "unified": "1F454",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1084
+    "sort_order": 1115
   },
   {
     "name": "T-SHIRT",
@@ -14258,7 +14696,7 @@ var ALL = [
     "unified": "1F455",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1085
+    "sort_order": 1116
   },
   {
     "name": "JEANS",
@@ -14269,7 +14707,7 @@ var ALL = [
     "unified": "1F456",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1086
+    "sort_order": 1117
   },
   {
     "name": "SCARF",
@@ -14280,7 +14718,7 @@ var ALL = [
     "unified": "1F9E3",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1087
+    "sort_order": 1118
   },
   {
     "name": "GLOVES",
@@ -14291,7 +14729,7 @@ var ALL = [
     "unified": "1F9E4",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1088
+    "sort_order": 1119
   },
   {
     "name": "COAT",
@@ -14302,7 +14740,7 @@ var ALL = [
     "unified": "1F9E5",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1089
+    "sort_order": 1120
   },
   {
     "name": "SOCKS",
@@ -14313,7 +14751,7 @@ var ALL = [
     "unified": "1F9E6",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1090
+    "sort_order": 1121
   },
   {
     "name": "DRESS",
@@ -14324,7 +14762,7 @@ var ALL = [
     "unified": "1F457",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1091
+    "sort_order": 1122
   },
   {
     "name": "KIMONO",
@@ -14335,7 +14773,7 @@ var ALL = [
     "unified": "1F458",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1092
+    "sort_order": 1123
   },
   {
     "name": "SARI",
@@ -14346,7 +14784,7 @@ var ALL = [
     "unified": "1F97B",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1093
+    "sort_order": 1124
   },
   {
     "name": "ONE-PIECE SWIMSUIT",
@@ -14357,7 +14795,7 @@ var ALL = [
     "unified": "1FA71",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1094
+    "sort_order": 1125
   },
   {
     "name": "BRIEFS",
@@ -14368,7 +14806,7 @@ var ALL = [
     "unified": "1FA72",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1095
+    "sort_order": 1126
   },
   {
     "name": "SHORTS",
@@ -14379,7 +14817,7 @@ var ALL = [
     "unified": "1FA73",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1096
+    "sort_order": 1127
   },
   {
     "name": "BIKINI",
@@ -14390,7 +14828,7 @@ var ALL = [
     "unified": "1F459",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1097
+    "sort_order": 1128
   },
   {
     "name": "WOMANS CLOTHES",
@@ -14401,7 +14839,7 @@ var ALL = [
     "unified": "1F45A",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1098
+    "sort_order": 1129
   },
   {
     "name": "PURSE",
@@ -14412,7 +14850,7 @@ var ALL = [
     "unified": "1F45B",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1099
+    "sort_order": 1130
   },
   {
     "name": "HANDBAG",
@@ -14423,7 +14861,7 @@ var ALL = [
     "unified": "1F45C",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1100
+    "sort_order": 1131
   },
   {
     "name": "POUCH",
@@ -14434,7 +14872,7 @@ var ALL = [
     "unified": "1F45D",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1101
+    "sort_order": 1132
   },
   {
     "name": "SHOPPING BAGS",
@@ -14445,7 +14883,7 @@ var ALL = [
     "unified": "1F6CD-FE0F",
     "non_qualified": "1F6CD",
     "category": "Objects",
-    "sort_order": 1102
+    "sort_order": 1133
   },
   {
     "name": "SCHOOL SATCHEL",
@@ -14456,7 +14894,7 @@ var ALL = [
     "unified": "1F392",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1103
+    "sort_order": 1134
   },
   {
     "name": "THONG SANDAL",
@@ -14467,7 +14905,7 @@ var ALL = [
     "unified": "1FA74",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1104
+    "sort_order": 1135
   },
   {
     "name": "MANS SHOE",
@@ -14479,7 +14917,7 @@ var ALL = [
     "unified": "1F45E",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1105
+    "sort_order": 1136
   },
   {
     "name": "ATHLETIC SHOE",
@@ -14490,7 +14928,7 @@ var ALL = [
     "unified": "1F45F",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1106
+    "sort_order": 1137
   },
   {
     "name": "HIKING BOOT",
@@ -14501,7 +14939,7 @@ var ALL = [
     "unified": "1F97E",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1107
+    "sort_order": 1138
   },
   {
     "name": "FLAT SHOE",
@@ -14512,7 +14950,7 @@ var ALL = [
     "unified": "1F97F",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1108
+    "sort_order": 1139
   },
   {
     "name": "HIGH-HEELED SHOE",
@@ -14523,7 +14961,7 @@ var ALL = [
     "unified": "1F460",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1109
+    "sort_order": 1140
   },
   {
     "name": "WOMANS SANDAL",
@@ -14534,7 +14972,7 @@ var ALL = [
     "unified": "1F461",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1110
+    "sort_order": 1141
   },
   {
     "name": "BALLET SHOES",
@@ -14545,7 +14983,7 @@ var ALL = [
     "unified": "1FA70",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1111
+    "sort_order": 1142
   },
   {
     "name": "WOMANS BOOTS",
@@ -14556,7 +14994,7 @@ var ALL = [
     "unified": "1F462",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1112
+    "sort_order": 1143
   },
   {
     "name": "CROWN",
@@ -14567,7 +15005,7 @@ var ALL = [
     "unified": "1F451",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1113
+    "sort_order": 1144
   },
   {
     "name": "WOMANS HAT",
@@ -14578,7 +15016,7 @@ var ALL = [
     "unified": "1F452",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1114
+    "sort_order": 1145
   },
   {
     "name": "TOP HAT",
@@ -14589,7 +15027,7 @@ var ALL = [
     "unified": "1F3A9",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1115
+    "sort_order": 1146
   },
   {
     "name": "GRADUATION CAP",
@@ -14600,7 +15038,7 @@ var ALL = [
     "unified": "1F393",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1116
+    "sort_order": 1147
   },
   {
     "name": "BILLED CAP",
@@ -14611,7 +15049,7 @@ var ALL = [
     "unified": "1F9E2",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1117
+    "sort_order": 1148
   },
   {
     "name": "MILITARY HELMET",
@@ -14622,7 +15060,7 @@ var ALL = [
     "unified": "1FA96",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1118
+    "sort_order": 1149
   },
   {
     "name": "RESCUE WORKER’S HELMET",
@@ -14633,7 +15071,7 @@ var ALL = [
     "unified": "26D1-FE0F",
     "non_qualified": "26D1",
     "category": "Objects",
-    "sort_order": 1119
+    "sort_order": 1150
   },
   {
     "name": "PRAYER BEADS",
@@ -14644,7 +15082,7 @@ var ALL = [
     "unified": "1F4FF",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1120
+    "sort_order": 1151
   },
   {
     "name": "LIPSTICK",
@@ -14655,7 +15093,7 @@ var ALL = [
     "unified": "1F484",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1121
+    "sort_order": 1152
   },
   {
     "name": "RING",
@@ -14666,7 +15104,7 @@ var ALL = [
     "unified": "1F48D",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1122
+    "sort_order": 1153
   },
   {
     "name": "GEM STONE",
@@ -14677,7 +15115,7 @@ var ALL = [
     "unified": "1F48E",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1123
+    "sort_order": 1154
   },
   {
     "name": "SPEAKER WITH CANCELLATION STROKE",
@@ -14688,7 +15126,7 @@ var ALL = [
     "unified": "1F507",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1124
+    "sort_order": 1155
   },
   {
     "name": "SPEAKER",
@@ -14699,7 +15137,7 @@ var ALL = [
     "unified": "1F508",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1125
+    "sort_order": 1156
   },
   {
     "name": "SPEAKER WITH ONE SOUND WAVE",
@@ -14710,7 +15148,7 @@ var ALL = [
     "unified": "1F509",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1126
+    "sort_order": 1157
   },
   {
     "name": "SPEAKER WITH THREE SOUND WAVES",
@@ -14721,7 +15159,7 @@ var ALL = [
     "unified": "1F50A",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1127
+    "sort_order": 1158
   },
   {
     "name": "PUBLIC ADDRESS LOUDSPEAKER",
@@ -14732,7 +15170,7 @@ var ALL = [
     "unified": "1F4E2",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1128
+    "sort_order": 1159
   },
   {
     "name": "CHEERING MEGAPHONE",
@@ -14743,7 +15181,7 @@ var ALL = [
     "unified": "1F4E3",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1129
+    "sort_order": 1160
   },
   {
     "name": "POSTAL HORN",
@@ -14754,7 +15192,7 @@ var ALL = [
     "unified": "1F4EF",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1130
+    "sort_order": 1161
   },
   {
     "name": "BELL",
@@ -14765,7 +15203,7 @@ var ALL = [
     "unified": "1F514",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1131
+    "sort_order": 1162
   },
   {
     "name": "BELL WITH CANCELLATION STROKE",
@@ -14776,7 +15214,7 @@ var ALL = [
     "unified": "1F515",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1132
+    "sort_order": 1163
   },
   {
     "name": "MUSICAL SCORE",
@@ -14787,7 +15225,7 @@ var ALL = [
     "unified": "1F3BC",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1133
+    "sort_order": 1164
   },
   {
     "name": "MUSICAL NOTE",
@@ -14798,7 +15236,7 @@ var ALL = [
     "unified": "1F3B5",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1134
+    "sort_order": 1165
   },
   {
     "name": "MULTIPLE MUSICAL NOTES",
@@ -14809,7 +15247,7 @@ var ALL = [
     "unified": "1F3B6",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1135
+    "sort_order": 1166
   },
   {
     "name": "STUDIO MICROPHONE",
@@ -14820,7 +15258,7 @@ var ALL = [
     "unified": "1F399-FE0F",
     "non_qualified": "1F399",
     "category": "Objects",
-    "sort_order": 1136
+    "sort_order": 1167
   },
   {
     "name": "LEVEL SLIDER",
@@ -14831,7 +15269,7 @@ var ALL = [
     "unified": "1F39A-FE0F",
     "non_qualified": "1F39A",
     "category": "Objects",
-    "sort_order": 1137
+    "sort_order": 1168
   },
   {
     "name": "CONTROL KNOBS",
@@ -14842,7 +15280,7 @@ var ALL = [
     "unified": "1F39B-FE0F",
     "non_qualified": "1F39B",
     "category": "Objects",
-    "sort_order": 1138
+    "sort_order": 1169
   },
   {
     "name": "MICROPHONE",
@@ -14853,7 +15291,7 @@ var ALL = [
     "unified": "1F3A4",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1139
+    "sort_order": 1170
   },
   {
     "name": "HEADPHONE",
@@ -14864,7 +15302,7 @@ var ALL = [
     "unified": "1F3A7",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1140
+    "sort_order": 1171
   },
   {
     "name": "RADIO",
@@ -14875,7 +15313,7 @@ var ALL = [
     "unified": "1F4FB",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1141
+    "sort_order": 1172
   },
   {
     "name": "SAXOPHONE",
@@ -14886,7 +15324,7 @@ var ALL = [
     "unified": "1F3B7",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1142
+    "sort_order": 1173
   },
   {
     "name": "ACCORDION",
@@ -14897,7 +15335,7 @@ var ALL = [
     "unified": "1FA97",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1143
+    "sort_order": 1174
   },
   {
     "name": "GUITAR",
@@ -14908,7 +15346,7 @@ var ALL = [
     "unified": "1F3B8",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1144
+    "sort_order": 1175
   },
   {
     "name": "MUSICAL KEYBOARD",
@@ -14919,7 +15357,7 @@ var ALL = [
     "unified": "1F3B9",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1145
+    "sort_order": 1176
   },
   {
     "name": "TRUMPET",
@@ -14930,7 +15368,7 @@ var ALL = [
     "unified": "1F3BA",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1146
+    "sort_order": 1177
   },
   {
     "name": "VIOLIN",
@@ -14941,7 +15379,7 @@ var ALL = [
     "unified": "1F3BB",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1147
+    "sort_order": 1178
   },
   {
     "name": "BANJO",
@@ -14952,7 +15390,7 @@ var ALL = [
     "unified": "1FA95",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1148
+    "sort_order": 1179
   },
   {
     "name": "DRUM WITH DRUMSTICKS",
@@ -14963,7 +15401,7 @@ var ALL = [
     "unified": "1F941",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1149
+    "sort_order": 1180
   },
   {
     "name": "LONG DRUM",
@@ -14974,7 +15412,7 @@ var ALL = [
     "unified": "1FA98",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1150
+    "sort_order": 1181
   },
   {
     "name": "MOBILE PHONE",
@@ -14985,7 +15423,7 @@ var ALL = [
     "unified": "1F4F1",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1151
+    "sort_order": 1182
   },
   {
     "name": "MOBILE PHONE WITH RIGHTWARDS ARROW AT LEFT",
@@ -14996,7 +15434,7 @@ var ALL = [
     "unified": "1F4F2",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1152
+    "sort_order": 1183
   },
   {
     "name": "BLACK TELEPHONE",
@@ -15008,7 +15446,7 @@ var ALL = [
     "unified": "260E-FE0F",
     "non_qualified": "260E",
     "category": "Objects",
-    "sort_order": 1153
+    "sort_order": 1184
   },
   {
     "name": "TELEPHONE RECEIVER",
@@ -15019,7 +15457,7 @@ var ALL = [
     "unified": "1F4DE",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1154
+    "sort_order": 1185
   },
   {
     "name": "PAGER",
@@ -15030,7 +15468,7 @@ var ALL = [
     "unified": "1F4DF",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1155
+    "sort_order": 1186
   },
   {
     "name": "FAX MACHINE",
@@ -15041,7 +15479,7 @@ var ALL = [
     "unified": "1F4E0",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1156
+    "sort_order": 1187
   },
   {
     "name": "BATTERY",
@@ -15052,7 +15490,18 @@ var ALL = [
     "unified": "1F50B",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1157
+    "sort_order": 1188
+  },
+  {
+    "name": "LOW BATTERY",
+    "short_name": "low_battery",
+    "short_names": [
+      "low_battery"
+    ],
+    "unified": "1FAAB",
+    "non_qualified": null,
+    "category": "Objects",
+    "sort_order": 1189
   },
   {
     "name": "ELECTRIC PLUG",
@@ -15063,7 +15512,7 @@ var ALL = [
     "unified": "1F50C",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1158
+    "sort_order": 1190
   },
   {
     "name": "PERSONAL COMPUTER",
@@ -15074,7 +15523,7 @@ var ALL = [
     "unified": "1F4BB",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1159
+    "sort_order": 1191
   },
   {
     "name": "DESKTOP COMPUTER",
@@ -15085,7 +15534,7 @@ var ALL = [
     "unified": "1F5A5-FE0F",
     "non_qualified": "1F5A5",
     "category": "Objects",
-    "sort_order": 1160
+    "sort_order": 1192
   },
   {
     "name": "PRINTER",
@@ -15096,7 +15545,7 @@ var ALL = [
     "unified": "1F5A8-FE0F",
     "non_qualified": "1F5A8",
     "category": "Objects",
-    "sort_order": 1161
+    "sort_order": 1193
   },
   {
     "name": "KEYBOARD",
@@ -15107,7 +15556,7 @@ var ALL = [
     "unified": "2328-FE0F",
     "non_qualified": "2328",
     "category": "Objects",
-    "sort_order": 1162
+    "sort_order": 1194
   },
   {
     "name": "COMPUTER MOUSE",
@@ -15118,7 +15567,7 @@ var ALL = [
     "unified": "1F5B1-FE0F",
     "non_qualified": "1F5B1",
     "category": "Objects",
-    "sort_order": 1163
+    "sort_order": 1195
   },
   {
     "name": "TRACKBALL",
@@ -15129,7 +15578,7 @@ var ALL = [
     "unified": "1F5B2-FE0F",
     "non_qualified": "1F5B2",
     "category": "Objects",
-    "sort_order": 1164
+    "sort_order": 1196
   },
   {
     "name": "MINIDISC",
@@ -15140,7 +15589,7 @@ var ALL = [
     "unified": "1F4BD",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1165
+    "sort_order": 1197
   },
   {
     "name": "FLOPPY DISK",
@@ -15151,7 +15600,7 @@ var ALL = [
     "unified": "1F4BE",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1166
+    "sort_order": 1198
   },
   {
     "name": "OPTICAL DISC",
@@ -15162,7 +15611,7 @@ var ALL = [
     "unified": "1F4BF",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1167
+    "sort_order": 1199
   },
   {
     "name": "DVD",
@@ -15173,7 +15622,7 @@ var ALL = [
     "unified": "1F4C0",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1168
+    "sort_order": 1200
   },
   {
     "name": "ABACUS",
@@ -15184,7 +15633,7 @@ var ALL = [
     "unified": "1F9EE",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1169
+    "sort_order": 1201
   },
   {
     "name": "MOVIE CAMERA",
@@ -15195,7 +15644,7 @@ var ALL = [
     "unified": "1F3A5",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1170
+    "sort_order": 1202
   },
   {
     "name": "FILM FRAMES",
@@ -15206,7 +15655,7 @@ var ALL = [
     "unified": "1F39E-FE0F",
     "non_qualified": "1F39E",
     "category": "Objects",
-    "sort_order": 1171
+    "sort_order": 1203
   },
   {
     "name": "FILM PROJECTOR",
@@ -15217,7 +15666,7 @@ var ALL = [
     "unified": "1F4FD-FE0F",
     "non_qualified": "1F4FD",
     "category": "Objects",
-    "sort_order": 1172
+    "sort_order": 1204
   },
   {
     "name": "CLAPPER BOARD",
@@ -15228,7 +15677,7 @@ var ALL = [
     "unified": "1F3AC",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1173
+    "sort_order": 1205
   },
   {
     "name": "TELEVISION",
@@ -15239,7 +15688,7 @@ var ALL = [
     "unified": "1F4FA",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1174
+    "sort_order": 1206
   },
   {
     "name": "CAMERA",
@@ -15250,7 +15699,7 @@ var ALL = [
     "unified": "1F4F7",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1175
+    "sort_order": 1207
   },
   {
     "name": "CAMERA WITH FLASH",
@@ -15261,7 +15710,7 @@ var ALL = [
     "unified": "1F4F8",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1176
+    "sort_order": 1208
   },
   {
     "name": "VIDEO CAMERA",
@@ -15272,7 +15721,7 @@ var ALL = [
     "unified": "1F4F9",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1177
+    "sort_order": 1209
   },
   {
     "name": "VIDEOCASSETTE",
@@ -15283,7 +15732,7 @@ var ALL = [
     "unified": "1F4FC",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1178
+    "sort_order": 1210
   },
   {
     "name": "LEFT-POINTING MAGNIFYING GLASS",
@@ -15294,7 +15743,7 @@ var ALL = [
     "unified": "1F50D",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1179
+    "sort_order": 1211
   },
   {
     "name": "RIGHT-POINTING MAGNIFYING GLASS",
@@ -15305,7 +15754,7 @@ var ALL = [
     "unified": "1F50E",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1180
+    "sort_order": 1212
   },
   {
     "name": "CANDLE",
@@ -15316,7 +15765,7 @@ var ALL = [
     "unified": "1F56F-FE0F",
     "non_qualified": "1F56F",
     "category": "Objects",
-    "sort_order": 1181
+    "sort_order": 1213
   },
   {
     "name": "ELECTRIC LIGHT BULB",
@@ -15327,7 +15776,7 @@ var ALL = [
     "unified": "1F4A1",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1182
+    "sort_order": 1214
   },
   {
     "name": "ELECTRIC TORCH",
@@ -15338,7 +15787,7 @@ var ALL = [
     "unified": "1F526",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1183
+    "sort_order": 1215
   },
   {
     "name": "IZAKAYA LANTERN",
@@ -15350,7 +15799,7 @@ var ALL = [
     "unified": "1F3EE",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1184
+    "sort_order": 1216
   },
   {
     "name": "DIYA LAMP",
@@ -15361,7 +15810,7 @@ var ALL = [
     "unified": "1FA94",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1185
+    "sort_order": 1217
   },
   {
     "name": "NOTEBOOK WITH DECORATIVE COVER",
@@ -15372,7 +15821,7 @@ var ALL = [
     "unified": "1F4D4",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1186
+    "sort_order": 1218
   },
   {
     "name": "CLOSED BOOK",
@@ -15383,7 +15832,7 @@ var ALL = [
     "unified": "1F4D5",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1187
+    "sort_order": 1219
   },
   {
     "name": "OPEN BOOK",
@@ -15395,7 +15844,7 @@ var ALL = [
     "unified": "1F4D6",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1188
+    "sort_order": 1220
   },
   {
     "name": "GREEN BOOK",
@@ -15406,7 +15855,7 @@ var ALL = [
     "unified": "1F4D7",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1189
+    "sort_order": 1221
   },
   {
     "name": "BLUE BOOK",
@@ -15417,7 +15866,7 @@ var ALL = [
     "unified": "1F4D8",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1190
+    "sort_order": 1222
   },
   {
     "name": "ORANGE BOOK",
@@ -15428,7 +15877,7 @@ var ALL = [
     "unified": "1F4D9",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1191
+    "sort_order": 1223
   },
   {
     "name": "BOOKS",
@@ -15439,7 +15888,7 @@ var ALL = [
     "unified": "1F4DA",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1192
+    "sort_order": 1224
   },
   {
     "name": "NOTEBOOK",
@@ -15450,7 +15899,7 @@ var ALL = [
     "unified": "1F4D3",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1193
+    "sort_order": 1225
   },
   {
     "name": "LEDGER",
@@ -15461,7 +15910,7 @@ var ALL = [
     "unified": "1F4D2",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1194
+    "sort_order": 1226
   },
   {
     "name": "PAGE WITH CURL",
@@ -15472,7 +15921,7 @@ var ALL = [
     "unified": "1F4C3",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1195
+    "sort_order": 1227
   },
   {
     "name": "SCROLL",
@@ -15483,7 +15932,7 @@ var ALL = [
     "unified": "1F4DC",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1196
+    "sort_order": 1228
   },
   {
     "name": "PAGE FACING UP",
@@ -15494,7 +15943,7 @@ var ALL = [
     "unified": "1F4C4",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1197
+    "sort_order": 1229
   },
   {
     "name": "NEWSPAPER",
@@ -15505,7 +15954,7 @@ var ALL = [
     "unified": "1F4F0",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1198
+    "sort_order": 1230
   },
   {
     "name": "ROLLED-UP NEWSPAPER",
@@ -15516,7 +15965,7 @@ var ALL = [
     "unified": "1F5DE-FE0F",
     "non_qualified": "1F5DE",
     "category": "Objects",
-    "sort_order": 1199
+    "sort_order": 1231
   },
   {
     "name": "BOOKMARK TABS",
@@ -15527,7 +15976,7 @@ var ALL = [
     "unified": "1F4D1",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1200
+    "sort_order": 1232
   },
   {
     "name": "BOOKMARK",
@@ -15538,7 +15987,7 @@ var ALL = [
     "unified": "1F516",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1201
+    "sort_order": 1233
   },
   {
     "name": "LABEL",
@@ -15549,7 +15998,7 @@ var ALL = [
     "unified": "1F3F7-FE0F",
     "non_qualified": "1F3F7",
     "category": "Objects",
-    "sort_order": 1202
+    "sort_order": 1234
   },
   {
     "name": "MONEY BAG",
@@ -15560,7 +16009,7 @@ var ALL = [
     "unified": "1F4B0",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1203
+    "sort_order": 1235
   },
   {
     "name": "COIN",
@@ -15571,7 +16020,7 @@ var ALL = [
     "unified": "1FA99",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1204
+    "sort_order": 1236
   },
   {
     "name": "BANKNOTE WITH YEN SIGN",
@@ -15582,7 +16031,7 @@ var ALL = [
     "unified": "1F4B4",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1205
+    "sort_order": 1237
   },
   {
     "name": "BANKNOTE WITH DOLLAR SIGN",
@@ -15593,7 +16042,7 @@ var ALL = [
     "unified": "1F4B5",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1206
+    "sort_order": 1238
   },
   {
     "name": "BANKNOTE WITH EURO SIGN",
@@ -15604,7 +16053,7 @@ var ALL = [
     "unified": "1F4B6",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1207
+    "sort_order": 1239
   },
   {
     "name": "BANKNOTE WITH POUND SIGN",
@@ -15615,7 +16064,7 @@ var ALL = [
     "unified": "1F4B7",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1208
+    "sort_order": 1240
   },
   {
     "name": "MONEY WITH WINGS",
@@ -15626,7 +16075,7 @@ var ALL = [
     "unified": "1F4B8",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1209
+    "sort_order": 1241
   },
   {
     "name": "CREDIT CARD",
@@ -15637,7 +16086,7 @@ var ALL = [
     "unified": "1F4B3",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1210
+    "sort_order": 1242
   },
   {
     "name": "RECEIPT",
@@ -15648,7 +16097,7 @@ var ALL = [
     "unified": "1F9FE",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1211
+    "sort_order": 1243
   },
   {
     "name": "CHART WITH UPWARDS TREND AND YEN SIGN",
@@ -15659,7 +16108,7 @@ var ALL = [
     "unified": "1F4B9",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1212
+    "sort_order": 1244
   },
   {
     "name": "ENVELOPE",
@@ -15671,7 +16120,7 @@ var ALL = [
     "unified": "2709-FE0F",
     "non_qualified": "2709",
     "category": "Objects",
-    "sort_order": 1213
+    "sort_order": 1245
   },
   {
     "name": "E-MAIL SYMBOL",
@@ -15682,7 +16131,7 @@ var ALL = [
     "unified": "1F4E7",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1214
+    "sort_order": 1246
   },
   {
     "name": "INCOMING ENVELOPE",
@@ -15693,7 +16142,7 @@ var ALL = [
     "unified": "1F4E8",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1215
+    "sort_order": 1247
   },
   {
     "name": "ENVELOPE WITH DOWNWARDS ARROW ABOVE",
@@ -15704,7 +16153,7 @@ var ALL = [
     "unified": "1F4E9",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1216
+    "sort_order": 1248
   },
   {
     "name": "OUTBOX TRAY",
@@ -15715,7 +16164,7 @@ var ALL = [
     "unified": "1F4E4",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1217
+    "sort_order": 1249
   },
   {
     "name": "INBOX TRAY",
@@ -15726,7 +16175,7 @@ var ALL = [
     "unified": "1F4E5",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1218
+    "sort_order": 1250
   },
   {
     "name": "PACKAGE",
@@ -15737,7 +16186,7 @@ var ALL = [
     "unified": "1F4E6",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1219
+    "sort_order": 1251
   },
   {
     "name": "CLOSED MAILBOX WITH RAISED FLAG",
@@ -15748,7 +16197,7 @@ var ALL = [
     "unified": "1F4EB",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1220
+    "sort_order": 1252
   },
   {
     "name": "CLOSED MAILBOX WITH LOWERED FLAG",
@@ -15759,7 +16208,7 @@ var ALL = [
     "unified": "1F4EA",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1221
+    "sort_order": 1253
   },
   {
     "name": "OPEN MAILBOX WITH RAISED FLAG",
@@ -15770,7 +16219,7 @@ var ALL = [
     "unified": "1F4EC",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1222
+    "sort_order": 1254
   },
   {
     "name": "OPEN MAILBOX WITH LOWERED FLAG",
@@ -15781,7 +16230,7 @@ var ALL = [
     "unified": "1F4ED",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1223
+    "sort_order": 1255
   },
   {
     "name": "POSTBOX",
@@ -15792,7 +16241,7 @@ var ALL = [
     "unified": "1F4EE",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1224
+    "sort_order": 1256
   },
   {
     "name": "BALLOT BOX WITH BALLOT",
@@ -15803,7 +16252,7 @@ var ALL = [
     "unified": "1F5F3-FE0F",
     "non_qualified": "1F5F3",
     "category": "Objects",
-    "sort_order": 1225
+    "sort_order": 1257
   },
   {
     "name": "PENCIL",
@@ -15814,7 +16263,7 @@ var ALL = [
     "unified": "270F-FE0F",
     "non_qualified": "270F",
     "category": "Objects",
-    "sort_order": 1226
+    "sort_order": 1258
   },
   {
     "name": "BLACK NIB",
@@ -15825,7 +16274,7 @@ var ALL = [
     "unified": "2712-FE0F",
     "non_qualified": "2712",
     "category": "Objects",
-    "sort_order": 1227
+    "sort_order": 1259
   },
   {
     "name": "FOUNTAIN PEN",
@@ -15836,7 +16285,7 @@ var ALL = [
     "unified": "1F58B-FE0F",
     "non_qualified": "1F58B",
     "category": "Objects",
-    "sort_order": 1228
+    "sort_order": 1260
   },
   {
     "name": "PEN",
@@ -15847,7 +16296,7 @@ var ALL = [
     "unified": "1F58A-FE0F",
     "non_qualified": "1F58A",
     "category": "Objects",
-    "sort_order": 1229
+    "sort_order": 1261
   },
   {
     "name": "PAINTBRUSH",
@@ -15858,7 +16307,7 @@ var ALL = [
     "unified": "1F58C-FE0F",
     "non_qualified": "1F58C",
     "category": "Objects",
-    "sort_order": 1230
+    "sort_order": 1262
   },
   {
     "name": "CRAYON",
@@ -15869,7 +16318,7 @@ var ALL = [
     "unified": "1F58D-FE0F",
     "non_qualified": "1F58D",
     "category": "Objects",
-    "sort_order": 1231
+    "sort_order": 1263
   },
   {
     "name": "MEMO",
@@ -15881,7 +16330,7 @@ var ALL = [
     "unified": "1F4DD",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1232
+    "sort_order": 1264
   },
   {
     "name": "BRIEFCASE",
@@ -15892,7 +16341,7 @@ var ALL = [
     "unified": "1F4BC",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1233
+    "sort_order": 1265
   },
   {
     "name": "FILE FOLDER",
@@ -15903,7 +16352,7 @@ var ALL = [
     "unified": "1F4C1",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1234
+    "sort_order": 1266
   },
   {
     "name": "OPEN FILE FOLDER",
@@ -15914,7 +16363,7 @@ var ALL = [
     "unified": "1F4C2",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1235
+    "sort_order": 1267
   },
   {
     "name": "CARD INDEX DIVIDERS",
@@ -15925,7 +16374,7 @@ var ALL = [
     "unified": "1F5C2-FE0F",
     "non_qualified": "1F5C2",
     "category": "Objects",
-    "sort_order": 1236
+    "sort_order": 1268
   },
   {
     "name": "CALENDAR",
@@ -15936,7 +16385,7 @@ var ALL = [
     "unified": "1F4C5",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1237
+    "sort_order": 1269
   },
   {
     "name": "TEAR-OFF CALENDAR",
@@ -15947,7 +16396,7 @@ var ALL = [
     "unified": "1F4C6",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1238
+    "sort_order": 1270
   },
   {
     "name": "SPIRAL NOTEPAD",
@@ -15958,7 +16407,7 @@ var ALL = [
     "unified": "1F5D2-FE0F",
     "non_qualified": "1F5D2",
     "category": "Objects",
-    "sort_order": 1239
+    "sort_order": 1271
   },
   {
     "name": "SPIRAL CALENDAR",
@@ -15969,7 +16418,7 @@ var ALL = [
     "unified": "1F5D3-FE0F",
     "non_qualified": "1F5D3",
     "category": "Objects",
-    "sort_order": 1240
+    "sort_order": 1272
   },
   {
     "name": "CARD INDEX",
@@ -15980,7 +16429,7 @@ var ALL = [
     "unified": "1F4C7",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1241
+    "sort_order": 1273
   },
   {
     "name": "CHART WITH UPWARDS TREND",
@@ -15991,7 +16440,7 @@ var ALL = [
     "unified": "1F4C8",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1242
+    "sort_order": 1274
   },
   {
     "name": "CHART WITH DOWNWARDS TREND",
@@ -16002,7 +16451,7 @@ var ALL = [
     "unified": "1F4C9",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1243
+    "sort_order": 1275
   },
   {
     "name": "BAR CHART",
@@ -16013,7 +16462,7 @@ var ALL = [
     "unified": "1F4CA",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1244
+    "sort_order": 1276
   },
   {
     "name": "CLIPBOARD",
@@ -16024,7 +16473,7 @@ var ALL = [
     "unified": "1F4CB",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1245
+    "sort_order": 1277
   },
   {
     "name": "PUSHPIN",
@@ -16035,7 +16484,7 @@ var ALL = [
     "unified": "1F4CC",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1246
+    "sort_order": 1278
   },
   {
     "name": "ROUND PUSHPIN",
@@ -16046,7 +16495,7 @@ var ALL = [
     "unified": "1F4CD",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1247
+    "sort_order": 1279
   },
   {
     "name": "PAPERCLIP",
@@ -16057,7 +16506,7 @@ var ALL = [
     "unified": "1F4CE",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1248
+    "sort_order": 1280
   },
   {
     "name": "LINKED PAPERCLIPS",
@@ -16068,7 +16517,7 @@ var ALL = [
     "unified": "1F587-FE0F",
     "non_qualified": "1F587",
     "category": "Objects",
-    "sort_order": 1249
+    "sort_order": 1281
   },
   {
     "name": "STRAIGHT RULER",
@@ -16079,7 +16528,7 @@ var ALL = [
     "unified": "1F4CF",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1250
+    "sort_order": 1282
   },
   {
     "name": "TRIANGULAR RULER",
@@ -16090,7 +16539,7 @@ var ALL = [
     "unified": "1F4D0",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1251
+    "sort_order": 1283
   },
   {
     "name": "BLACK SCISSORS",
@@ -16101,7 +16550,7 @@ var ALL = [
     "unified": "2702-FE0F",
     "non_qualified": "2702",
     "category": "Objects",
-    "sort_order": 1252
+    "sort_order": 1284
   },
   {
     "name": "CARD FILE BOX",
@@ -16112,7 +16561,7 @@ var ALL = [
     "unified": "1F5C3-FE0F",
     "non_qualified": "1F5C3",
     "category": "Objects",
-    "sort_order": 1253
+    "sort_order": 1285
   },
   {
     "name": "FILE CABINET",
@@ -16123,7 +16572,7 @@ var ALL = [
     "unified": "1F5C4-FE0F",
     "non_qualified": "1F5C4",
     "category": "Objects",
-    "sort_order": 1254
+    "sort_order": 1286
   },
   {
     "name": "WASTEBASKET",
@@ -16134,7 +16583,7 @@ var ALL = [
     "unified": "1F5D1-FE0F",
     "non_qualified": "1F5D1",
     "category": "Objects",
-    "sort_order": 1255
+    "sort_order": 1287
   },
   {
     "name": "LOCK",
@@ -16145,7 +16594,7 @@ var ALL = [
     "unified": "1F512",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1256
+    "sort_order": 1288
   },
   {
     "name": "OPEN LOCK",
@@ -16156,7 +16605,7 @@ var ALL = [
     "unified": "1F513",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1257
+    "sort_order": 1289
   },
   {
     "name": "LOCK WITH INK PEN",
@@ -16167,7 +16616,7 @@ var ALL = [
     "unified": "1F50F",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1258
+    "sort_order": 1290
   },
   {
     "name": "CLOSED LOCK WITH KEY",
@@ -16178,7 +16627,7 @@ var ALL = [
     "unified": "1F510",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1259
+    "sort_order": 1291
   },
   {
     "name": "KEY",
@@ -16189,7 +16638,7 @@ var ALL = [
     "unified": "1F511",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1260
+    "sort_order": 1292
   },
   {
     "name": "OLD KEY",
@@ -16200,7 +16649,7 @@ var ALL = [
     "unified": "1F5DD-FE0F",
     "non_qualified": "1F5DD",
     "category": "Objects",
-    "sort_order": 1261
+    "sort_order": 1293
   },
   {
     "name": "HAMMER",
@@ -16211,7 +16660,7 @@ var ALL = [
     "unified": "1F528",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1262
+    "sort_order": 1294
   },
   {
     "name": "AXE",
@@ -16222,7 +16671,7 @@ var ALL = [
     "unified": "1FA93",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1263
+    "sort_order": 1295
   },
   {
     "name": "PICK",
@@ -16233,7 +16682,7 @@ var ALL = [
     "unified": "26CF-FE0F",
     "non_qualified": "26CF",
     "category": "Objects",
-    "sort_order": 1264
+    "sort_order": 1296
   },
   {
     "name": "HAMMER AND PICK",
@@ -16244,7 +16693,7 @@ var ALL = [
     "unified": "2692-FE0F",
     "non_qualified": "2692",
     "category": "Objects",
-    "sort_order": 1265
+    "sort_order": 1297
   },
   {
     "name": "HAMMER AND WRENCH",
@@ -16255,7 +16704,7 @@ var ALL = [
     "unified": "1F6E0-FE0F",
     "non_qualified": "1F6E0",
     "category": "Objects",
-    "sort_order": 1266
+    "sort_order": 1298
   },
   {
     "name": "DAGGER",
@@ -16266,7 +16715,7 @@ var ALL = [
     "unified": "1F5E1-FE0F",
     "non_qualified": "1F5E1",
     "category": "Objects",
-    "sort_order": 1267
+    "sort_order": 1299
   },
   {
     "name": "CROSSED SWORDS",
@@ -16277,7 +16726,7 @@ var ALL = [
     "unified": "2694-FE0F",
     "non_qualified": "2694",
     "category": "Objects",
-    "sort_order": 1268
+    "sort_order": 1300
   },
   {
     "name": "PISTOL",
@@ -16288,7 +16737,7 @@ var ALL = [
     "unified": "1F52B",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1269
+    "sort_order": 1301
   },
   {
     "name": "BOOMERANG",
@@ -16299,7 +16748,7 @@ var ALL = [
     "unified": "1FA83",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1270
+    "sort_order": 1302
   },
   {
     "name": "BOW AND ARROW",
@@ -16310,7 +16759,7 @@ var ALL = [
     "unified": "1F3F9",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1271
+    "sort_order": 1303
   },
   {
     "name": "SHIELD",
@@ -16321,7 +16770,7 @@ var ALL = [
     "unified": "1F6E1-FE0F",
     "non_qualified": "1F6E1",
     "category": "Objects",
-    "sort_order": 1272
+    "sort_order": 1304
   },
   {
     "name": "CARPENTRY SAW",
@@ -16332,7 +16781,7 @@ var ALL = [
     "unified": "1FA9A",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1273
+    "sort_order": 1305
   },
   {
     "name": "WRENCH",
@@ -16343,7 +16792,7 @@ var ALL = [
     "unified": "1F527",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1274
+    "sort_order": 1306
   },
   {
     "name": "SCREWDRIVER",
@@ -16354,7 +16803,7 @@ var ALL = [
     "unified": "1FA9B",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1275
+    "sort_order": 1307
   },
   {
     "name": "NUT AND BOLT",
@@ -16365,7 +16814,7 @@ var ALL = [
     "unified": "1F529",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1276
+    "sort_order": 1308
   },
   {
     "name": "GEAR",
@@ -16376,7 +16825,7 @@ var ALL = [
     "unified": "2699-FE0F",
     "non_qualified": "2699",
     "category": "Objects",
-    "sort_order": 1277
+    "sort_order": 1309
   },
   {
     "name": "CLAMP",
@@ -16387,7 +16836,7 @@ var ALL = [
     "unified": "1F5DC-FE0F",
     "non_qualified": "1F5DC",
     "category": "Objects",
-    "sort_order": 1278
+    "sort_order": 1310
   },
   {
     "name": "BALANCE SCALE",
@@ -16398,7 +16847,7 @@ var ALL = [
     "unified": "2696-FE0F",
     "non_qualified": "2696",
     "category": "Objects",
-    "sort_order": 1279
+    "sort_order": 1311
   },
   {
     "name": "PROBING CANE",
@@ -16409,7 +16858,7 @@ var ALL = [
     "unified": "1F9AF",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1280
+    "sort_order": 1312
   },
   {
     "name": "LINK SYMBOL",
@@ -16420,7 +16869,7 @@ var ALL = [
     "unified": "1F517",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1281
+    "sort_order": 1313
   },
   {
     "name": "CHAINS",
@@ -16431,7 +16880,7 @@ var ALL = [
     "unified": "26D3-FE0F",
     "non_qualified": "26D3",
     "category": "Objects",
-    "sort_order": 1282
+    "sort_order": 1314
   },
   {
     "name": "HOOK",
@@ -16442,7 +16891,7 @@ var ALL = [
     "unified": "1FA9D",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1283
+    "sort_order": 1315
   },
   {
     "name": "TOOLBOX",
@@ -16453,7 +16902,7 @@ var ALL = [
     "unified": "1F9F0",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1284
+    "sort_order": 1316
   },
   {
     "name": "MAGNET",
@@ -16464,7 +16913,7 @@ var ALL = [
     "unified": "1F9F2",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1285
+    "sort_order": 1317
   },
   {
     "name": "LADDER",
@@ -16475,7 +16924,7 @@ var ALL = [
     "unified": "1FA9C",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1286
+    "sort_order": 1318
   },
   {
     "name": "ALEMBIC",
@@ -16486,7 +16935,7 @@ var ALL = [
     "unified": "2697-FE0F",
     "non_qualified": "2697",
     "category": "Objects",
-    "sort_order": 1287
+    "sort_order": 1319
   },
   {
     "name": "TEST TUBE",
@@ -16497,7 +16946,7 @@ var ALL = [
     "unified": "1F9EA",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1288
+    "sort_order": 1320
   },
   {
     "name": "PETRI DISH",
@@ -16508,7 +16957,7 @@ var ALL = [
     "unified": "1F9EB",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1289
+    "sort_order": 1321
   },
   {
     "name": "DNA DOUBLE HELIX",
@@ -16519,7 +16968,7 @@ var ALL = [
     "unified": "1F9EC",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1290
+    "sort_order": 1322
   },
   {
     "name": "MICROSCOPE",
@@ -16530,7 +16979,7 @@ var ALL = [
     "unified": "1F52C",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1291
+    "sort_order": 1323
   },
   {
     "name": "TELESCOPE",
@@ -16541,7 +16990,7 @@ var ALL = [
     "unified": "1F52D",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1292
+    "sort_order": 1324
   },
   {
     "name": "SATELLITE ANTENNA",
@@ -16552,7 +17001,7 @@ var ALL = [
     "unified": "1F4E1",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1293
+    "sort_order": 1325
   },
   {
     "name": "SYRINGE",
@@ -16563,7 +17012,7 @@ var ALL = [
     "unified": "1F489",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1294
+    "sort_order": 1326
   },
   {
     "name": "DROP OF BLOOD",
@@ -16574,7 +17023,7 @@ var ALL = [
     "unified": "1FA78",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1295
+    "sort_order": 1327
   },
   {
     "name": "PILL",
@@ -16585,7 +17034,7 @@ var ALL = [
     "unified": "1F48A",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1296
+    "sort_order": 1328
   },
   {
     "name": "ADHESIVE BANDAGE",
@@ -16596,7 +17045,18 @@ var ALL = [
     "unified": "1FA79",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1297
+    "sort_order": 1329
+  },
+  {
+    "name": "CRUTCH",
+    "short_name": "crutch",
+    "short_names": [
+      "crutch"
+    ],
+    "unified": "1FA7C",
+    "non_qualified": null,
+    "category": "Objects",
+    "sort_order": 1330
   },
   {
     "name": "STETHOSCOPE",
@@ -16607,7 +17067,18 @@ var ALL = [
     "unified": "1FA7A",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1298
+    "sort_order": 1331
+  },
+  {
+    "name": "X-RAY",
+    "short_name": "x-ray",
+    "short_names": [
+      "x-ray"
+    ],
+    "unified": "1FA7B",
+    "non_qualified": null,
+    "category": "Objects",
+    "sort_order": 1332
   },
   {
     "name": "DOOR",
@@ -16618,7 +17089,7 @@ var ALL = [
     "unified": "1F6AA",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1299
+    "sort_order": 1333
   },
   {
     "name": "ELEVATOR",
@@ -16629,7 +17100,7 @@ var ALL = [
     "unified": "1F6D7",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1300
+    "sort_order": 1334
   },
   {
     "name": "MIRROR",
@@ -16640,7 +17111,7 @@ var ALL = [
     "unified": "1FA9E",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1301
+    "sort_order": 1335
   },
   {
     "name": "WINDOW",
@@ -16651,7 +17122,7 @@ var ALL = [
     "unified": "1FA9F",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1302
+    "sort_order": 1336
   },
   {
     "name": "BED",
@@ -16662,7 +17133,7 @@ var ALL = [
     "unified": "1F6CF-FE0F",
     "non_qualified": "1F6CF",
     "category": "Objects",
-    "sort_order": 1303
+    "sort_order": 1337
   },
   {
     "name": "COUCH AND LAMP",
@@ -16673,7 +17144,7 @@ var ALL = [
     "unified": "1F6CB-FE0F",
     "non_qualified": "1F6CB",
     "category": "Objects",
-    "sort_order": 1304
+    "sort_order": 1338
   },
   {
     "name": "CHAIR",
@@ -16684,7 +17155,7 @@ var ALL = [
     "unified": "1FA91",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1305
+    "sort_order": 1339
   },
   {
     "name": "TOILET",
@@ -16695,7 +17166,7 @@ var ALL = [
     "unified": "1F6BD",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1306
+    "sort_order": 1340
   },
   {
     "name": "PLUNGER",
@@ -16706,7 +17177,7 @@ var ALL = [
     "unified": "1FAA0",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1307
+    "sort_order": 1341
   },
   {
     "name": "SHOWER",
@@ -16717,7 +17188,7 @@ var ALL = [
     "unified": "1F6BF",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1308
+    "sort_order": 1342
   },
   {
     "name": "BATHTUB",
@@ -16728,7 +17199,7 @@ var ALL = [
     "unified": "1F6C1",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1309
+    "sort_order": 1343
   },
   {
     "name": "MOUSE TRAP",
@@ -16739,7 +17210,7 @@ var ALL = [
     "unified": "1FAA4",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1310
+    "sort_order": 1344
   },
   {
     "name": "RAZOR",
@@ -16750,7 +17221,7 @@ var ALL = [
     "unified": "1FA92",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1311
+    "sort_order": 1345
   },
   {
     "name": "LOTION BOTTLE",
@@ -16761,7 +17232,7 @@ var ALL = [
     "unified": "1F9F4",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1312
+    "sort_order": 1346
   },
   {
     "name": "SAFETY PIN",
@@ -16772,7 +17243,7 @@ var ALL = [
     "unified": "1F9F7",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1313
+    "sort_order": 1347
   },
   {
     "name": "BROOM",
@@ -16783,7 +17254,7 @@ var ALL = [
     "unified": "1F9F9",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1314
+    "sort_order": 1348
   },
   {
     "name": "BASKET",
@@ -16794,7 +17265,7 @@ var ALL = [
     "unified": "1F9FA",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1315
+    "sort_order": 1349
   },
   {
     "name": "ROLL OF PAPER",
@@ -16805,7 +17276,7 @@ var ALL = [
     "unified": "1F9FB",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1316
+    "sort_order": 1350
   },
   {
     "name": "BUCKET",
@@ -16816,7 +17287,7 @@ var ALL = [
     "unified": "1FAA3",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1317
+    "sort_order": 1351
   },
   {
     "name": "BAR OF SOAP",
@@ -16827,7 +17298,18 @@ var ALL = [
     "unified": "1F9FC",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1318
+    "sort_order": 1352
+  },
+  {
+    "name": "BUBBLES",
+    "short_name": "bubbles",
+    "short_names": [
+      "bubbles"
+    ],
+    "unified": "1FAE7",
+    "non_qualified": null,
+    "category": "Objects",
+    "sort_order": 1353
   },
   {
     "name": "TOOTHBRUSH",
@@ -16838,7 +17320,7 @@ var ALL = [
     "unified": "1FAA5",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1319
+    "sort_order": 1354
   },
   {
     "name": "SPONGE",
@@ -16849,7 +17331,7 @@ var ALL = [
     "unified": "1F9FD",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1320
+    "sort_order": 1355
   },
   {
     "name": "FIRE EXTINGUISHER",
@@ -16860,7 +17342,7 @@ var ALL = [
     "unified": "1F9EF",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1321
+    "sort_order": 1356
   },
   {
     "name": "SHOPPING TROLLEY",
@@ -16871,7 +17353,7 @@ var ALL = [
     "unified": "1F6D2",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1322
+    "sort_order": 1357
   },
   {
     "name": "SMOKING SYMBOL",
@@ -16882,7 +17364,7 @@ var ALL = [
     "unified": "1F6AC",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1323
+    "sort_order": 1358
   },
   {
     "name": "COFFIN",
@@ -16893,7 +17375,7 @@ var ALL = [
     "unified": "26B0-FE0F",
     "non_qualified": "26B0",
     "category": "Objects",
-    "sort_order": 1324
+    "sort_order": 1359
   },
   {
     "name": "HEADSTONE",
@@ -16904,7 +17386,7 @@ var ALL = [
     "unified": "1FAA6",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1325
+    "sort_order": 1360
   },
   {
     "name": "FUNERAL URN",
@@ -16915,7 +17397,7 @@ var ALL = [
     "unified": "26B1-FE0F",
     "non_qualified": "26B1",
     "category": "Objects",
-    "sort_order": 1326
+    "sort_order": 1361
   },
   {
     "name": "MOYAI",
@@ -16926,7 +17408,7 @@ var ALL = [
     "unified": "1F5FF",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1327
+    "sort_order": 1362
   },
   {
     "name": "PLACARD",
@@ -16937,7 +17419,18 @@ var ALL = [
     "unified": "1FAA7",
     "non_qualified": null,
     "category": "Objects",
-    "sort_order": 1328
+    "sort_order": 1363
+  },
+  {
+    "name": "IDENTIFICATION CARD",
+    "short_name": "identification_card",
+    "short_names": [
+      "identification_card"
+    ],
+    "unified": "1FAAA",
+    "non_qualified": null,
+    "category": "Objects",
+    "sort_order": 1364
   },
   {
     "name": "AUTOMATED TELLER MACHINE",
@@ -16948,7 +17441,7 @@ var ALL = [
     "unified": "1F3E7",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1329
+    "sort_order": 1365
   },
   {
     "name": "PUT LITTER IN ITS PLACE SYMBOL",
@@ -16959,7 +17452,7 @@ var ALL = [
     "unified": "1F6AE",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1330
+    "sort_order": 1366
   },
   {
     "name": "POTABLE WATER SYMBOL",
@@ -16970,7 +17463,7 @@ var ALL = [
     "unified": "1F6B0",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1331
+    "sort_order": 1367
   },
   {
     "name": "WHEELCHAIR SYMBOL",
@@ -16981,7 +17474,7 @@ var ALL = [
     "unified": "267F",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1332
+    "sort_order": 1368
   },
   {
     "name": "MENS SYMBOL",
@@ -16992,7 +17485,7 @@ var ALL = [
     "unified": "1F6B9",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1333
+    "sort_order": 1369
   },
   {
     "name": "WOMENS SYMBOL",
@@ -17003,7 +17496,7 @@ var ALL = [
     "unified": "1F6BA",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1334
+    "sort_order": 1370
   },
   {
     "name": "RESTROOM",
@@ -17014,7 +17507,7 @@ var ALL = [
     "unified": "1F6BB",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1335
+    "sort_order": 1371
   },
   {
     "name": "BABY SYMBOL",
@@ -17025,7 +17518,7 @@ var ALL = [
     "unified": "1F6BC",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1336
+    "sort_order": 1372
   },
   {
     "name": "WATER CLOSET",
@@ -17036,7 +17529,7 @@ var ALL = [
     "unified": "1F6BE",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1337
+    "sort_order": 1373
   },
   {
     "name": "PASSPORT CONTROL",
@@ -17047,7 +17540,7 @@ var ALL = [
     "unified": "1F6C2",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1338
+    "sort_order": 1374
   },
   {
     "name": "CUSTOMS",
@@ -17058,7 +17551,7 @@ var ALL = [
     "unified": "1F6C3",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1339
+    "sort_order": 1375
   },
   {
     "name": "BAGGAGE CLAIM",
@@ -17069,7 +17562,7 @@ var ALL = [
     "unified": "1F6C4",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1340
+    "sort_order": 1376
   },
   {
     "name": "LEFT LUGGAGE",
@@ -17080,7 +17573,7 @@ var ALL = [
     "unified": "1F6C5",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1341
+    "sort_order": 1377
   },
   {
     "name": "WARNING SIGN",
@@ -17091,7 +17584,7 @@ var ALL = [
     "unified": "26A0-FE0F",
     "non_qualified": "26A0",
     "category": "Symbols",
-    "sort_order": 1342
+    "sort_order": 1378
   },
   {
     "name": "CHILDREN CROSSING",
@@ -17102,7 +17595,7 @@ var ALL = [
     "unified": "1F6B8",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1343
+    "sort_order": 1379
   },
   {
     "name": "NO ENTRY",
@@ -17113,7 +17606,7 @@ var ALL = [
     "unified": "26D4",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1344
+    "sort_order": 1380
   },
   {
     "name": "NO ENTRY SIGN",
@@ -17124,7 +17617,7 @@ var ALL = [
     "unified": "1F6AB",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1345
+    "sort_order": 1381
   },
   {
     "name": "NO BICYCLES",
@@ -17135,7 +17628,7 @@ var ALL = [
     "unified": "1F6B3",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1346
+    "sort_order": 1382
   },
   {
     "name": "NO SMOKING SYMBOL",
@@ -17146,7 +17639,7 @@ var ALL = [
     "unified": "1F6AD",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1347
+    "sort_order": 1383
   },
   {
     "name": "DO NOT LITTER SYMBOL",
@@ -17157,7 +17650,7 @@ var ALL = [
     "unified": "1F6AF",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1348
+    "sort_order": 1384
   },
   {
     "name": "NON-POTABLE WATER SYMBOL",
@@ -17168,7 +17661,7 @@ var ALL = [
     "unified": "1F6B1",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1349
+    "sort_order": 1385
   },
   {
     "name": "NO PEDESTRIANS",
@@ -17179,7 +17672,7 @@ var ALL = [
     "unified": "1F6B7",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1350
+    "sort_order": 1386
   },
   {
     "name": "NO MOBILE PHONES",
@@ -17190,7 +17683,7 @@ var ALL = [
     "unified": "1F4F5",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1351
+    "sort_order": 1387
   },
   {
     "name": "NO ONE UNDER EIGHTEEN SYMBOL",
@@ -17201,7 +17694,7 @@ var ALL = [
     "unified": "1F51E",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1352
+    "sort_order": 1388
   },
   {
     "name": "RADIOACTIVE",
@@ -17212,7 +17705,7 @@ var ALL = [
     "unified": "2622-FE0F",
     "non_qualified": "2622",
     "category": "Symbols",
-    "sort_order": 1353
+    "sort_order": 1389
   },
   {
     "name": "BIOHAZARD",
@@ -17223,7 +17716,7 @@ var ALL = [
     "unified": "2623-FE0F",
     "non_qualified": "2623",
     "category": "Symbols",
-    "sort_order": 1354
+    "sort_order": 1390
   },
   {
     "name": "UPWARDS BLACK ARROW",
@@ -17234,7 +17727,7 @@ var ALL = [
     "unified": "2B06-FE0F",
     "non_qualified": "2B06",
     "category": "Symbols",
-    "sort_order": 1355
+    "sort_order": 1391
   },
   {
     "name": "NORTH EAST ARROW",
@@ -17245,7 +17738,7 @@ var ALL = [
     "unified": "2197-FE0F",
     "non_qualified": "2197",
     "category": "Symbols",
-    "sort_order": 1356
+    "sort_order": 1392
   },
   {
     "name": "BLACK RIGHTWARDS ARROW",
@@ -17256,7 +17749,7 @@ var ALL = [
     "unified": "27A1-FE0F",
     "non_qualified": "27A1",
     "category": "Symbols",
-    "sort_order": 1357
+    "sort_order": 1393
   },
   {
     "name": "SOUTH EAST ARROW",
@@ -17267,7 +17760,7 @@ var ALL = [
     "unified": "2198-FE0F",
     "non_qualified": "2198",
     "category": "Symbols",
-    "sort_order": 1358
+    "sort_order": 1394
   },
   {
     "name": "DOWNWARDS BLACK ARROW",
@@ -17278,7 +17771,7 @@ var ALL = [
     "unified": "2B07-FE0F",
     "non_qualified": "2B07",
     "category": "Symbols",
-    "sort_order": 1359
+    "sort_order": 1395
   },
   {
     "name": "SOUTH WEST ARROW",
@@ -17289,7 +17782,7 @@ var ALL = [
     "unified": "2199-FE0F",
     "non_qualified": "2199",
     "category": "Symbols",
-    "sort_order": 1360
+    "sort_order": 1396
   },
   {
     "name": "LEFTWARDS BLACK ARROW",
@@ -17300,7 +17793,7 @@ var ALL = [
     "unified": "2B05-FE0F",
     "non_qualified": "2B05",
     "category": "Symbols",
-    "sort_order": 1361
+    "sort_order": 1397
   },
   {
     "name": "NORTH WEST ARROW",
@@ -17311,7 +17804,7 @@ var ALL = [
     "unified": "2196-FE0F",
     "non_qualified": "2196",
     "category": "Symbols",
-    "sort_order": 1362
+    "sort_order": 1398
   },
   {
     "name": "UP DOWN ARROW",
@@ -17322,7 +17815,7 @@ var ALL = [
     "unified": "2195-FE0F",
     "non_qualified": "2195",
     "category": "Symbols",
-    "sort_order": 1363
+    "sort_order": 1399
   },
   {
     "name": "LEFT RIGHT ARROW",
@@ -17333,7 +17826,7 @@ var ALL = [
     "unified": "2194-FE0F",
     "non_qualified": "2194",
     "category": "Symbols",
-    "sort_order": 1364
+    "sort_order": 1400
   },
   {
     "name": "LEFTWARDS ARROW WITH HOOK",
@@ -17344,7 +17837,7 @@ var ALL = [
     "unified": "21A9-FE0F",
     "non_qualified": "21A9",
     "category": "Symbols",
-    "sort_order": 1365
+    "sort_order": 1401
   },
   {
     "name": "RIGHTWARDS ARROW WITH HOOK",
@@ -17355,7 +17848,7 @@ var ALL = [
     "unified": "21AA-FE0F",
     "non_qualified": "21AA",
     "category": "Symbols",
-    "sort_order": 1366
+    "sort_order": 1402
   },
   {
     "name": "ARROW POINTING RIGHTWARDS THEN CURVING UPWARDS",
@@ -17366,7 +17859,7 @@ var ALL = [
     "unified": "2934-FE0F",
     "non_qualified": "2934",
     "category": "Symbols",
-    "sort_order": 1367
+    "sort_order": 1403
   },
   {
     "name": "ARROW POINTING RIGHTWARDS THEN CURVING DOWNWARDS",
@@ -17377,7 +17870,7 @@ var ALL = [
     "unified": "2935-FE0F",
     "non_qualified": "2935",
     "category": "Symbols",
-    "sort_order": 1368
+    "sort_order": 1404
   },
   {
     "name": "CLOCKWISE DOWNWARDS AND UPWARDS OPEN CIRCLE ARROWS",
@@ -17388,7 +17881,7 @@ var ALL = [
     "unified": "1F503",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1369
+    "sort_order": 1405
   },
   {
     "name": "ANTICLOCKWISE DOWNWARDS AND UPWARDS OPEN CIRCLE ARROWS",
@@ -17399,7 +17892,7 @@ var ALL = [
     "unified": "1F504",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1370
+    "sort_order": 1406
   },
   {
     "name": "BACK WITH LEFTWARDS ARROW ABOVE",
@@ -17410,7 +17903,7 @@ var ALL = [
     "unified": "1F519",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1371
+    "sort_order": 1407
   },
   {
     "name": "END WITH LEFTWARDS ARROW ABOVE",
@@ -17421,7 +17914,7 @@ var ALL = [
     "unified": "1F51A",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1372
+    "sort_order": 1408
   },
   {
     "name": "ON WITH EXCLAMATION MARK WITH LEFT RIGHT ARROW ABOVE",
@@ -17432,7 +17925,7 @@ var ALL = [
     "unified": "1F51B",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1373
+    "sort_order": 1409
   },
   {
     "name": "SOON WITH RIGHTWARDS ARROW ABOVE",
@@ -17443,7 +17936,7 @@ var ALL = [
     "unified": "1F51C",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1374
+    "sort_order": 1410
   },
   {
     "name": "TOP WITH UPWARDS ARROW ABOVE",
@@ -17454,7 +17947,7 @@ var ALL = [
     "unified": "1F51D",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1375
+    "sort_order": 1411
   },
   {
     "name": "PLACE OF WORSHIP",
@@ -17465,7 +17958,7 @@ var ALL = [
     "unified": "1F6D0",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1376
+    "sort_order": 1412
   },
   {
     "name": "ATOM SYMBOL",
@@ -17476,7 +17969,7 @@ var ALL = [
     "unified": "269B-FE0F",
     "non_qualified": "269B",
     "category": "Symbols",
-    "sort_order": 1377
+    "sort_order": 1413
   },
   {
     "name": "OM",
@@ -17487,7 +17980,7 @@ var ALL = [
     "unified": "1F549-FE0F",
     "non_qualified": "1F549",
     "category": "Symbols",
-    "sort_order": 1378
+    "sort_order": 1414
   },
   {
     "name": "STAR OF DAVID",
@@ -17498,7 +17991,7 @@ var ALL = [
     "unified": "2721-FE0F",
     "non_qualified": "2721",
     "category": "Symbols",
-    "sort_order": 1379
+    "sort_order": 1415
   },
   {
     "name": "WHEEL OF DHARMA",
@@ -17509,7 +18002,7 @@ var ALL = [
     "unified": "2638-FE0F",
     "non_qualified": "2638",
     "category": "Symbols",
-    "sort_order": 1380
+    "sort_order": 1416
   },
   {
     "name": "YIN YANG",
@@ -17520,7 +18013,7 @@ var ALL = [
     "unified": "262F-FE0F",
     "non_qualified": "262F",
     "category": "Symbols",
-    "sort_order": 1381
+    "sort_order": 1417
   },
   {
     "name": "LATIN CROSS",
@@ -17531,7 +18024,7 @@ var ALL = [
     "unified": "271D-FE0F",
     "non_qualified": "271D",
     "category": "Symbols",
-    "sort_order": 1382
+    "sort_order": 1418
   },
   {
     "name": "ORTHODOX CROSS",
@@ -17542,7 +18035,7 @@ var ALL = [
     "unified": "2626-FE0F",
     "non_qualified": "2626",
     "category": "Symbols",
-    "sort_order": 1383
+    "sort_order": 1419
   },
   {
     "name": "STAR AND CRESCENT",
@@ -17553,7 +18046,7 @@ var ALL = [
     "unified": "262A-FE0F",
     "non_qualified": "262A",
     "category": "Symbols",
-    "sort_order": 1384
+    "sort_order": 1420
   },
   {
     "name": "PEACE SYMBOL",
@@ -17564,7 +18057,7 @@ var ALL = [
     "unified": "262E-FE0F",
     "non_qualified": "262E",
     "category": "Symbols",
-    "sort_order": 1385
+    "sort_order": 1421
   },
   {
     "name": "MENORAH WITH NINE BRANCHES",
@@ -17575,7 +18068,7 @@ var ALL = [
     "unified": "1F54E",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1386
+    "sort_order": 1422
   },
   {
     "name": "SIX POINTED STAR WITH MIDDLE DOT",
@@ -17586,7 +18079,7 @@ var ALL = [
     "unified": "1F52F",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1387
+    "sort_order": 1423
   },
   {
     "name": "ARIES",
@@ -17597,7 +18090,7 @@ var ALL = [
     "unified": "2648",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1388
+    "sort_order": 1424
   },
   {
     "name": "TAURUS",
@@ -17608,7 +18101,7 @@ var ALL = [
     "unified": "2649",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1389
+    "sort_order": 1425
   },
   {
     "name": "GEMINI",
@@ -17619,7 +18112,7 @@ var ALL = [
     "unified": "264A",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1390
+    "sort_order": 1426
   },
   {
     "name": "CANCER",
@@ -17630,7 +18123,7 @@ var ALL = [
     "unified": "264B",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1391
+    "sort_order": 1427
   },
   {
     "name": "LEO",
@@ -17641,7 +18134,7 @@ var ALL = [
     "unified": "264C",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1392
+    "sort_order": 1428
   },
   {
     "name": "VIRGO",
@@ -17652,7 +18145,7 @@ var ALL = [
     "unified": "264D",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1393
+    "sort_order": 1429
   },
   {
     "name": "LIBRA",
@@ -17663,7 +18156,7 @@ var ALL = [
     "unified": "264E",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1394
+    "sort_order": 1430
   },
   {
     "name": "SCORPIUS",
@@ -17674,7 +18167,7 @@ var ALL = [
     "unified": "264F",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1395
+    "sort_order": 1431
   },
   {
     "name": "SAGITTARIUS",
@@ -17685,7 +18178,7 @@ var ALL = [
     "unified": "2650",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1396
+    "sort_order": 1432
   },
   {
     "name": "CAPRICORN",
@@ -17696,7 +18189,7 @@ var ALL = [
     "unified": "2651",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1397
+    "sort_order": 1433
   },
   {
     "name": "AQUARIUS",
@@ -17707,7 +18200,7 @@ var ALL = [
     "unified": "2652",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1398
+    "sort_order": 1434
   },
   {
     "name": "PISCES",
@@ -17718,7 +18211,7 @@ var ALL = [
     "unified": "2653",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1399
+    "sort_order": 1435
   },
   {
     "name": "OPHIUCHUS",
@@ -17729,7 +18222,7 @@ var ALL = [
     "unified": "26CE",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1400
+    "sort_order": 1436
   },
   {
     "name": "TWISTED RIGHTWARDS ARROWS",
@@ -17740,7 +18233,7 @@ var ALL = [
     "unified": "1F500",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1401
+    "sort_order": 1437
   },
   {
     "name": "CLOCKWISE RIGHTWARDS AND LEFTWARDS OPEN CIRCLE ARROWS",
@@ -17751,7 +18244,7 @@ var ALL = [
     "unified": "1F501",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1402
+    "sort_order": 1438
   },
   {
     "name": "CLOCKWISE RIGHTWARDS AND LEFTWARDS OPEN CIRCLE ARROWS WITH CIRCLED ONE OVERLAY",
@@ -17762,7 +18255,7 @@ var ALL = [
     "unified": "1F502",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1403
+    "sort_order": 1439
   },
   {
     "name": "BLACK RIGHT-POINTING TRIANGLE",
@@ -17773,7 +18266,7 @@ var ALL = [
     "unified": "25B6-FE0F",
     "non_qualified": "25B6",
     "category": "Symbols",
-    "sort_order": 1404
+    "sort_order": 1440
   },
   {
     "name": "BLACK RIGHT-POINTING DOUBLE TRIANGLE",
@@ -17784,7 +18277,7 @@ var ALL = [
     "unified": "23E9",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1405
+    "sort_order": 1441
   },
   {
     "name": "NEXT TRACK BUTTON",
@@ -17795,7 +18288,7 @@ var ALL = [
     "unified": "23ED-FE0F",
     "non_qualified": "23ED",
     "category": "Symbols",
-    "sort_order": 1406
+    "sort_order": 1442
   },
   {
     "name": "PLAY OR PAUSE BUTTON",
@@ -17806,7 +18299,7 @@ var ALL = [
     "unified": "23EF-FE0F",
     "non_qualified": "23EF",
     "category": "Symbols",
-    "sort_order": 1407
+    "sort_order": 1443
   },
   {
     "name": "BLACK LEFT-POINTING TRIANGLE",
@@ -17817,7 +18310,7 @@ var ALL = [
     "unified": "25C0-FE0F",
     "non_qualified": "25C0",
     "category": "Symbols",
-    "sort_order": 1408
+    "sort_order": 1444
   },
   {
     "name": "BLACK LEFT-POINTING DOUBLE TRIANGLE",
@@ -17828,7 +18321,7 @@ var ALL = [
     "unified": "23EA",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1409
+    "sort_order": 1445
   },
   {
     "name": "LAST TRACK BUTTON",
@@ -17839,7 +18332,7 @@ var ALL = [
     "unified": "23EE-FE0F",
     "non_qualified": "23EE",
     "category": "Symbols",
-    "sort_order": 1410
+    "sort_order": 1446
   },
   {
     "name": "UP-POINTING SMALL RED TRIANGLE",
@@ -17850,7 +18343,7 @@ var ALL = [
     "unified": "1F53C",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1411
+    "sort_order": 1447
   },
   {
     "name": "BLACK UP-POINTING DOUBLE TRIANGLE",
@@ -17861,7 +18354,7 @@ var ALL = [
     "unified": "23EB",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1412
+    "sort_order": 1448
   },
   {
     "name": "DOWN-POINTING SMALL RED TRIANGLE",
@@ -17872,7 +18365,7 @@ var ALL = [
     "unified": "1F53D",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1413
+    "sort_order": 1449
   },
   {
     "name": "BLACK DOWN-POINTING DOUBLE TRIANGLE",
@@ -17883,7 +18376,7 @@ var ALL = [
     "unified": "23EC",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1414
+    "sort_order": 1450
   },
   {
     "name": "PAUSE BUTTON",
@@ -17894,7 +18387,7 @@ var ALL = [
     "unified": "23F8-FE0F",
     "non_qualified": "23F8",
     "category": "Symbols",
-    "sort_order": 1415
+    "sort_order": 1451
   },
   {
     "name": "STOP BUTTON",
@@ -17905,7 +18398,7 @@ var ALL = [
     "unified": "23F9-FE0F",
     "non_qualified": "23F9",
     "category": "Symbols",
-    "sort_order": 1416
+    "sort_order": 1452
   },
   {
     "name": "RECORD BUTTON",
@@ -17916,7 +18409,7 @@ var ALL = [
     "unified": "23FA-FE0F",
     "non_qualified": "23FA",
     "category": "Symbols",
-    "sort_order": 1417
+    "sort_order": 1453
   },
   {
     "name": "EJECT BUTTON",
@@ -17927,7 +18420,7 @@ var ALL = [
     "unified": "23CF-FE0F",
     "non_qualified": "23CF",
     "category": "Symbols",
-    "sort_order": 1418
+    "sort_order": 1454
   },
   {
     "name": "CINEMA",
@@ -17938,7 +18431,7 @@ var ALL = [
     "unified": "1F3A6",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1419
+    "sort_order": 1455
   },
   {
     "name": "LOW BRIGHTNESS SYMBOL",
@@ -17949,7 +18442,7 @@ var ALL = [
     "unified": "1F505",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1420
+    "sort_order": 1456
   },
   {
     "name": "HIGH BRIGHTNESS SYMBOL",
@@ -17960,7 +18453,7 @@ var ALL = [
     "unified": "1F506",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1421
+    "sort_order": 1457
   },
   {
     "name": "ANTENNA WITH BARS",
@@ -17971,7 +18464,7 @@ var ALL = [
     "unified": "1F4F6",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1422
+    "sort_order": 1458
   },
   {
     "name": "VIBRATION MODE",
@@ -17982,7 +18475,7 @@ var ALL = [
     "unified": "1F4F3",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1423
+    "sort_order": 1459
   },
   {
     "name": "MOBILE PHONE OFF",
@@ -17993,7 +18486,7 @@ var ALL = [
     "unified": "1F4F4",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1424
+    "sort_order": 1460
   },
   {
     "name": "FEMALE SIGN",
@@ -18004,7 +18497,7 @@ var ALL = [
     "unified": "2640-FE0F",
     "non_qualified": "2640",
     "category": "Symbols",
-    "sort_order": 1425
+    "sort_order": 1461
   },
   {
     "name": "MALE SIGN",
@@ -18015,7 +18508,7 @@ var ALL = [
     "unified": "2642-FE0F",
     "non_qualified": "2642",
     "category": "Symbols",
-    "sort_order": 1426
+    "sort_order": 1462
   },
   {
     "name": "TRANSGENDER SYMBOL",
@@ -18026,7 +18519,7 @@ var ALL = [
     "unified": "26A7-FE0F",
     "non_qualified": "26A7",
     "category": "Symbols",
-    "sort_order": 1427
+    "sort_order": 1463
   },
   {
     "name": "HEAVY MULTIPLICATION X",
@@ -18037,7 +18530,7 @@ var ALL = [
     "unified": "2716-FE0F",
     "non_qualified": "2716",
     "category": "Symbols",
-    "sort_order": 1428
+    "sort_order": 1464
   },
   {
     "name": "HEAVY PLUS SIGN",
@@ -18048,7 +18541,7 @@ var ALL = [
     "unified": "2795",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1429
+    "sort_order": 1465
   },
   {
     "name": "HEAVY MINUS SIGN",
@@ -18059,7 +18552,7 @@ var ALL = [
     "unified": "2796",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1430
+    "sort_order": 1466
   },
   {
     "name": "HEAVY DIVISION SIGN",
@@ -18070,7 +18563,18 @@ var ALL = [
     "unified": "2797",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1431
+    "sort_order": 1467
+  },
+  {
+    "name": "HEAVY EQUALS SIGN",
+    "short_name": "heavy_equals_sign",
+    "short_names": [
+      "heavy_equals_sign"
+    ],
+    "unified": "1F7F0",
+    "non_qualified": null,
+    "category": "Symbols",
+    "sort_order": 1468
   },
   {
     "name": "INFINITY",
@@ -18081,7 +18585,7 @@ var ALL = [
     "unified": "267E-FE0F",
     "non_qualified": "267E",
     "category": "Symbols",
-    "sort_order": 1432
+    "sort_order": 1469
   },
   {
     "name": "DOUBLE EXCLAMATION MARK",
@@ -18092,7 +18596,7 @@ var ALL = [
     "unified": "203C-FE0F",
     "non_qualified": "203C",
     "category": "Symbols",
-    "sort_order": 1433
+    "sort_order": 1470
   },
   {
     "name": "EXCLAMATION QUESTION MARK",
@@ -18103,7 +18607,7 @@ var ALL = [
     "unified": "2049-FE0F",
     "non_qualified": "2049",
     "category": "Symbols",
-    "sort_order": 1434
+    "sort_order": 1471
   },
   {
     "name": "BLACK QUESTION MARK ORNAMENT",
@@ -18114,7 +18618,7 @@ var ALL = [
     "unified": "2753",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1435
+    "sort_order": 1472
   },
   {
     "name": "WHITE QUESTION MARK ORNAMENT",
@@ -18125,7 +18629,7 @@ var ALL = [
     "unified": "2754",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1436
+    "sort_order": 1473
   },
   {
     "name": "WHITE EXCLAMATION MARK ORNAMENT",
@@ -18136,7 +18640,7 @@ var ALL = [
     "unified": "2755",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1437
+    "sort_order": 1474
   },
   {
     "name": "HEAVY EXCLAMATION MARK SYMBOL",
@@ -18148,7 +18652,7 @@ var ALL = [
     "unified": "2757",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1438
+    "sort_order": 1475
   },
   {
     "name": "WAVY DASH",
@@ -18159,7 +18663,7 @@ var ALL = [
     "unified": "3030-FE0F",
     "non_qualified": "3030",
     "category": "Symbols",
-    "sort_order": 1439
+    "sort_order": 1476
   },
   {
     "name": "CURRENCY EXCHANGE",
@@ -18170,7 +18674,7 @@ var ALL = [
     "unified": "1F4B1",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1440
+    "sort_order": 1477
   },
   {
     "name": "HEAVY DOLLAR SIGN",
@@ -18181,7 +18685,7 @@ var ALL = [
     "unified": "1F4B2",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1441
+    "sort_order": 1478
   },
   {
     "name": "MEDICAL SYMBOL",
@@ -18193,7 +18697,7 @@ var ALL = [
     "unified": "2695-FE0F",
     "non_qualified": "2695",
     "category": "Symbols",
-    "sort_order": 1442
+    "sort_order": 1479
   },
   {
     "name": "BLACK UNIVERSAL RECYCLING SYMBOL",
@@ -18204,7 +18708,7 @@ var ALL = [
     "unified": "267B-FE0F",
     "non_qualified": "267B",
     "category": "Symbols",
-    "sort_order": 1443
+    "sort_order": 1480
   },
   {
     "name": "FLEUR-DE-LIS",
@@ -18215,7 +18719,7 @@ var ALL = [
     "unified": "269C-FE0F",
     "non_qualified": "269C",
     "category": "Symbols",
-    "sort_order": 1444
+    "sort_order": 1481
   },
   {
     "name": "TRIDENT EMBLEM",
@@ -18226,7 +18730,7 @@ var ALL = [
     "unified": "1F531",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1445
+    "sort_order": 1482
   },
   {
     "name": "NAME BADGE",
@@ -18237,7 +18741,7 @@ var ALL = [
     "unified": "1F4DB",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1446
+    "sort_order": 1483
   },
   {
     "name": "JAPANESE SYMBOL FOR BEGINNER",
@@ -18248,7 +18752,7 @@ var ALL = [
     "unified": "1F530",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1447
+    "sort_order": 1484
   },
   {
     "name": "HEAVY LARGE CIRCLE",
@@ -18259,7 +18763,7 @@ var ALL = [
     "unified": "2B55",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1448
+    "sort_order": 1485
   },
   {
     "name": "WHITE HEAVY CHECK MARK",
@@ -18270,7 +18774,7 @@ var ALL = [
     "unified": "2705",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1449
+    "sort_order": 1486
   },
   {
     "name": "BALLOT BOX WITH CHECK",
@@ -18281,7 +18785,7 @@ var ALL = [
     "unified": "2611-FE0F",
     "non_qualified": "2611",
     "category": "Symbols",
-    "sort_order": 1450
+    "sort_order": 1487
   },
   {
     "name": "HEAVY CHECK MARK",
@@ -18292,7 +18796,7 @@ var ALL = [
     "unified": "2714-FE0F",
     "non_qualified": "2714",
     "category": "Symbols",
-    "sort_order": 1451
+    "sort_order": 1488
   },
   {
     "name": "CROSS MARK",
@@ -18303,7 +18807,7 @@ var ALL = [
     "unified": "274C",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1452
+    "sort_order": 1489
   },
   {
     "name": "NEGATIVE SQUARED CROSS MARK",
@@ -18314,7 +18818,7 @@ var ALL = [
     "unified": "274E",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1453
+    "sort_order": 1490
   },
   {
     "name": "CURLY LOOP",
@@ -18325,7 +18829,7 @@ var ALL = [
     "unified": "27B0",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1454
+    "sort_order": 1491
   },
   {
     "name": "DOUBLE CURLY LOOP",
@@ -18336,7 +18840,7 @@ var ALL = [
     "unified": "27BF",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1455
+    "sort_order": 1492
   },
   {
     "name": "PART ALTERNATION MARK",
@@ -18347,7 +18851,7 @@ var ALL = [
     "unified": "303D-FE0F",
     "non_qualified": "303D",
     "category": "Symbols",
-    "sort_order": 1456
+    "sort_order": 1493
   },
   {
     "name": "EIGHT SPOKED ASTERISK",
@@ -18358,7 +18862,7 @@ var ALL = [
     "unified": "2733-FE0F",
     "non_qualified": "2733",
     "category": "Symbols",
-    "sort_order": 1457
+    "sort_order": 1494
   },
   {
     "name": "EIGHT POINTED BLACK STAR",
@@ -18369,7 +18873,7 @@ var ALL = [
     "unified": "2734-FE0F",
     "non_qualified": "2734",
     "category": "Symbols",
-    "sort_order": 1458
+    "sort_order": 1495
   },
   {
     "name": "SPARKLE",
@@ -18380,7 +18884,7 @@ var ALL = [
     "unified": "2747-FE0F",
     "non_qualified": "2747",
     "category": "Symbols",
-    "sort_order": 1459
+    "sort_order": 1496
   },
   {
     "name": "COPYRIGHT SIGN",
@@ -18391,7 +18895,7 @@ var ALL = [
     "unified": "00A9-FE0F",
     "non_qualified": "00A9",
     "category": "Symbols",
-    "sort_order": 1460
+    "sort_order": 1497
   },
   {
     "name": "REGISTERED SIGN",
@@ -18402,7 +18906,7 @@ var ALL = [
     "unified": "00AE-FE0F",
     "non_qualified": "00AE",
     "category": "Symbols",
-    "sort_order": 1461
+    "sort_order": 1498
   },
   {
     "name": "TRADE MARK SIGN",
@@ -18413,7 +18917,7 @@ var ALL = [
     "unified": "2122-FE0F",
     "non_qualified": "2122",
     "category": "Symbols",
-    "sort_order": 1462
+    "sort_order": 1499
   },
   {
     "name": "HASH KEY",
@@ -18424,7 +18928,7 @@ var ALL = [
     "unified": "0023-FE0F-20E3",
     "non_qualified": "0023-20E3",
     "category": "Symbols",
-    "sort_order": 1463
+    "sort_order": 1500
   },
   {
     "name": "KEYCAP: *",
@@ -18435,7 +18939,7 @@ var ALL = [
     "unified": "002A-FE0F-20E3",
     "non_qualified": "002A-20E3",
     "category": "Symbols",
-    "sort_order": 1464
+    "sort_order": 1501
   },
   {
     "name": "KEYCAP 0",
@@ -18446,7 +18950,7 @@ var ALL = [
     "unified": "0030-FE0F-20E3",
     "non_qualified": "0030-20E3",
     "category": "Symbols",
-    "sort_order": 1465
+    "sort_order": 1502
   },
   {
     "name": "KEYCAP 1",
@@ -18457,7 +18961,7 @@ var ALL = [
     "unified": "0031-FE0F-20E3",
     "non_qualified": "0031-20E3",
     "category": "Symbols",
-    "sort_order": 1466
+    "sort_order": 1503
   },
   {
     "name": "KEYCAP 2",
@@ -18468,7 +18972,7 @@ var ALL = [
     "unified": "0032-FE0F-20E3",
     "non_qualified": "0032-20E3",
     "category": "Symbols",
-    "sort_order": 1467
+    "sort_order": 1504
   },
   {
     "name": "KEYCAP 3",
@@ -18479,7 +18983,7 @@ var ALL = [
     "unified": "0033-FE0F-20E3",
     "non_qualified": "0033-20E3",
     "category": "Symbols",
-    "sort_order": 1468
+    "sort_order": 1505
   },
   {
     "name": "KEYCAP 4",
@@ -18490,7 +18994,7 @@ var ALL = [
     "unified": "0034-FE0F-20E3",
     "non_qualified": "0034-20E3",
     "category": "Symbols",
-    "sort_order": 1469
+    "sort_order": 1506
   },
   {
     "name": "KEYCAP 5",
@@ -18501,7 +19005,7 @@ var ALL = [
     "unified": "0035-FE0F-20E3",
     "non_qualified": "0035-20E3",
     "category": "Symbols",
-    "sort_order": 1470
+    "sort_order": 1507
   },
   {
     "name": "KEYCAP 6",
@@ -18512,7 +19016,7 @@ var ALL = [
     "unified": "0036-FE0F-20E3",
     "non_qualified": "0036-20E3",
     "category": "Symbols",
-    "sort_order": 1471
+    "sort_order": 1508
   },
   {
     "name": "KEYCAP 7",
@@ -18523,7 +19027,7 @@ var ALL = [
     "unified": "0037-FE0F-20E3",
     "non_qualified": "0037-20E3",
     "category": "Symbols",
-    "sort_order": 1472
+    "sort_order": 1509
   },
   {
     "name": "KEYCAP 8",
@@ -18534,7 +19038,7 @@ var ALL = [
     "unified": "0038-FE0F-20E3",
     "non_qualified": "0038-20E3",
     "category": "Symbols",
-    "sort_order": 1473
+    "sort_order": 1510
   },
   {
     "name": "KEYCAP 9",
@@ -18545,7 +19049,7 @@ var ALL = [
     "unified": "0039-FE0F-20E3",
     "non_qualified": "0039-20E3",
     "category": "Symbols",
-    "sort_order": 1474
+    "sort_order": 1511
   },
   {
     "name": "KEYCAP TEN",
@@ -18556,7 +19060,7 @@ var ALL = [
     "unified": "1F51F",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1475
+    "sort_order": 1512
   },
   {
     "name": "INPUT SYMBOL FOR LATIN CAPITAL LETTERS",
@@ -18567,7 +19071,7 @@ var ALL = [
     "unified": "1F520",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1476
+    "sort_order": 1513
   },
   {
     "name": "INPUT SYMBOL FOR LATIN SMALL LETTERS",
@@ -18578,7 +19082,7 @@ var ALL = [
     "unified": "1F521",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1477
+    "sort_order": 1514
   },
   {
     "name": "INPUT SYMBOL FOR NUMBERS",
@@ -18589,7 +19093,7 @@ var ALL = [
     "unified": "1F522",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1478
+    "sort_order": 1515
   },
   {
     "name": "INPUT SYMBOL FOR SYMBOLS",
@@ -18600,7 +19104,7 @@ var ALL = [
     "unified": "1F523",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1479
+    "sort_order": 1516
   },
   {
     "name": "INPUT SYMBOL FOR LATIN LETTERS",
@@ -18611,7 +19115,7 @@ var ALL = [
     "unified": "1F524",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1480
+    "sort_order": 1517
   },
   {
     "name": "NEGATIVE SQUARED LATIN CAPITAL LETTER A",
@@ -18622,7 +19126,7 @@ var ALL = [
     "unified": "1F170-FE0F",
     "non_qualified": "1F170",
     "category": "Symbols",
-    "sort_order": 1481
+    "sort_order": 1518
   },
   {
     "name": "NEGATIVE SQUARED AB",
@@ -18633,7 +19137,7 @@ var ALL = [
     "unified": "1F18E",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1482
+    "sort_order": 1519
   },
   {
     "name": "NEGATIVE SQUARED LATIN CAPITAL LETTER B",
@@ -18644,7 +19148,7 @@ var ALL = [
     "unified": "1F171-FE0F",
     "non_qualified": "1F171",
     "category": "Symbols",
-    "sort_order": 1483
+    "sort_order": 1520
   },
   {
     "name": "SQUARED CL",
@@ -18655,7 +19159,7 @@ var ALL = [
     "unified": "1F191",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1484
+    "sort_order": 1521
   },
   {
     "name": "SQUARED COOL",
@@ -18666,7 +19170,7 @@ var ALL = [
     "unified": "1F192",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1485
+    "sort_order": 1522
   },
   {
     "name": "SQUARED FREE",
@@ -18677,7 +19181,7 @@ var ALL = [
     "unified": "1F193",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1486
+    "sort_order": 1523
   },
   {
     "name": "INFORMATION SOURCE",
@@ -18688,7 +19192,7 @@ var ALL = [
     "unified": "2139-FE0F",
     "non_qualified": "2139",
     "category": "Symbols",
-    "sort_order": 1487
+    "sort_order": 1524
   },
   {
     "name": "SQUARED ID",
@@ -18699,7 +19203,7 @@ var ALL = [
     "unified": "1F194",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1488
+    "sort_order": 1525
   },
   {
     "name": "CIRCLED LATIN CAPITAL LETTER M",
@@ -18710,7 +19214,7 @@ var ALL = [
     "unified": "24C2-FE0F",
     "non_qualified": "24C2",
     "category": "Symbols",
-    "sort_order": 1489
+    "sort_order": 1526
   },
   {
     "name": "SQUARED NEW",
@@ -18721,7 +19225,7 @@ var ALL = [
     "unified": "1F195",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1490
+    "sort_order": 1527
   },
   {
     "name": "SQUARED NG",
@@ -18732,7 +19236,7 @@ var ALL = [
     "unified": "1F196",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1491
+    "sort_order": 1528
   },
   {
     "name": "NEGATIVE SQUARED LATIN CAPITAL LETTER O",
@@ -18743,7 +19247,7 @@ var ALL = [
     "unified": "1F17E-FE0F",
     "non_qualified": "1F17E",
     "category": "Symbols",
-    "sort_order": 1492
+    "sort_order": 1529
   },
   {
     "name": "SQUARED OK",
@@ -18754,7 +19258,7 @@ var ALL = [
     "unified": "1F197",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1493
+    "sort_order": 1530
   },
   {
     "name": "NEGATIVE SQUARED LATIN CAPITAL LETTER P",
@@ -18765,7 +19269,7 @@ var ALL = [
     "unified": "1F17F-FE0F",
     "non_qualified": "1F17F",
     "category": "Symbols",
-    "sort_order": 1494
+    "sort_order": 1531
   },
   {
     "name": "SQUARED SOS",
@@ -18776,7 +19280,7 @@ var ALL = [
     "unified": "1F198",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1495
+    "sort_order": 1532
   },
   {
     "name": "SQUARED UP WITH EXCLAMATION MARK",
@@ -18787,7 +19291,7 @@ var ALL = [
     "unified": "1F199",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1496
+    "sort_order": 1533
   },
   {
     "name": "SQUARED VS",
@@ -18798,7 +19302,7 @@ var ALL = [
     "unified": "1F19A",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1497
+    "sort_order": 1534
   },
   {
     "name": "SQUARED KATAKANA KOKO",
@@ -18809,7 +19313,7 @@ var ALL = [
     "unified": "1F201",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1498
+    "sort_order": 1535
   },
   {
     "name": "SQUARED KATAKANA SA",
@@ -18820,7 +19324,7 @@ var ALL = [
     "unified": "1F202-FE0F",
     "non_qualified": "1F202",
     "category": "Symbols",
-    "sort_order": 1499
+    "sort_order": 1536
   },
   {
     "name": "SQUARED CJK UNIFIED IDEOGRAPH-6708",
@@ -18831,7 +19335,7 @@ var ALL = [
     "unified": "1F237-FE0F",
     "non_qualified": "1F237",
     "category": "Symbols",
-    "sort_order": 1500
+    "sort_order": 1537
   },
   {
     "name": "SQUARED CJK UNIFIED IDEOGRAPH-6709",
@@ -18842,7 +19346,7 @@ var ALL = [
     "unified": "1F236",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1501
+    "sort_order": 1538
   },
   {
     "name": "SQUARED CJK UNIFIED IDEOGRAPH-6307",
@@ -18853,7 +19357,7 @@ var ALL = [
     "unified": "1F22F",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1502
+    "sort_order": 1539
   },
   {
     "name": "CIRCLED IDEOGRAPH ADVANTAGE",
@@ -18864,7 +19368,7 @@ var ALL = [
     "unified": "1F250",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1503
+    "sort_order": 1540
   },
   {
     "name": "SQUARED CJK UNIFIED IDEOGRAPH-5272",
@@ -18875,7 +19379,7 @@ var ALL = [
     "unified": "1F239",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1504
+    "sort_order": 1541
   },
   {
     "name": "SQUARED CJK UNIFIED IDEOGRAPH-7121",
@@ -18886,7 +19390,7 @@ var ALL = [
     "unified": "1F21A",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1505
+    "sort_order": 1542
   },
   {
     "name": "SQUARED CJK UNIFIED IDEOGRAPH-7981",
@@ -18897,7 +19401,7 @@ var ALL = [
     "unified": "1F232",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1506
+    "sort_order": 1543
   },
   {
     "name": "CIRCLED IDEOGRAPH ACCEPT",
@@ -18908,7 +19412,7 @@ var ALL = [
     "unified": "1F251",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1507
+    "sort_order": 1544
   },
   {
     "name": "SQUARED CJK UNIFIED IDEOGRAPH-7533",
@@ -18919,7 +19423,7 @@ var ALL = [
     "unified": "1F238",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1508
+    "sort_order": 1545
   },
   {
     "name": "SQUARED CJK UNIFIED IDEOGRAPH-5408",
@@ -18930,7 +19434,7 @@ var ALL = [
     "unified": "1F234",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1509
+    "sort_order": 1546
   },
   {
     "name": "SQUARED CJK UNIFIED IDEOGRAPH-7A7A",
@@ -18941,7 +19445,7 @@ var ALL = [
     "unified": "1F233",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1510
+    "sort_order": 1547
   },
   {
     "name": "CIRCLED IDEOGRAPH CONGRATULATION",
@@ -18952,7 +19456,7 @@ var ALL = [
     "unified": "3297-FE0F",
     "non_qualified": "3297",
     "category": "Symbols",
-    "sort_order": 1511
+    "sort_order": 1548
   },
   {
     "name": "CIRCLED IDEOGRAPH SECRET",
@@ -18963,7 +19467,7 @@ var ALL = [
     "unified": "3299-FE0F",
     "non_qualified": "3299",
     "category": "Symbols",
-    "sort_order": 1512
+    "sort_order": 1549
   },
   {
     "name": "SQUARED CJK UNIFIED IDEOGRAPH-55B6",
@@ -18974,7 +19478,7 @@ var ALL = [
     "unified": "1F23A",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1513
+    "sort_order": 1550
   },
   {
     "name": "SQUARED CJK UNIFIED IDEOGRAPH-6E80",
@@ -18985,7 +19489,7 @@ var ALL = [
     "unified": "1F235",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1514
+    "sort_order": 1551
   },
   {
     "name": "LARGE RED CIRCLE",
@@ -18996,7 +19500,7 @@ var ALL = [
     "unified": "1F534",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1515
+    "sort_order": 1552
   },
   {
     "name": "LARGE ORANGE CIRCLE",
@@ -19007,7 +19511,7 @@ var ALL = [
     "unified": "1F7E0",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1516
+    "sort_order": 1553
   },
   {
     "name": "LARGE YELLOW CIRCLE",
@@ -19018,7 +19522,7 @@ var ALL = [
     "unified": "1F7E1",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1517
+    "sort_order": 1554
   },
   {
     "name": "LARGE GREEN CIRCLE",
@@ -19029,7 +19533,7 @@ var ALL = [
     "unified": "1F7E2",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1518
+    "sort_order": 1555
   },
   {
     "name": "LARGE BLUE CIRCLE",
@@ -19040,7 +19544,7 @@ var ALL = [
     "unified": "1F535",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1519
+    "sort_order": 1556
   },
   {
     "name": "LARGE PURPLE CIRCLE",
@@ -19051,7 +19555,7 @@ var ALL = [
     "unified": "1F7E3",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1520
+    "sort_order": 1557
   },
   {
     "name": "LARGE BROWN CIRCLE",
@@ -19062,7 +19566,7 @@ var ALL = [
     "unified": "1F7E4",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1521
+    "sort_order": 1558
   },
   {
     "name": "MEDIUM BLACK CIRCLE",
@@ -19073,7 +19577,7 @@ var ALL = [
     "unified": "26AB",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1522
+    "sort_order": 1559
   },
   {
     "name": "MEDIUM WHITE CIRCLE",
@@ -19084,7 +19588,7 @@ var ALL = [
     "unified": "26AA",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1523
+    "sort_order": 1560
   },
   {
     "name": "LARGE RED SQUARE",
@@ -19095,7 +19599,7 @@ var ALL = [
     "unified": "1F7E5",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1524
+    "sort_order": 1561
   },
   {
     "name": "LARGE ORANGE SQUARE",
@@ -19106,7 +19610,7 @@ var ALL = [
     "unified": "1F7E7",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1525
+    "sort_order": 1562
   },
   {
     "name": "LARGE YELLOW SQUARE",
@@ -19117,7 +19621,7 @@ var ALL = [
     "unified": "1F7E8",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1526
+    "sort_order": 1563
   },
   {
     "name": "LARGE GREEN SQUARE",
@@ -19128,7 +19632,7 @@ var ALL = [
     "unified": "1F7E9",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1527
+    "sort_order": 1564
   },
   {
     "name": "LARGE BLUE SQUARE",
@@ -19139,7 +19643,7 @@ var ALL = [
     "unified": "1F7E6",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1528
+    "sort_order": 1565
   },
   {
     "name": "LARGE PURPLE SQUARE",
@@ -19150,7 +19654,7 @@ var ALL = [
     "unified": "1F7EA",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1529
+    "sort_order": 1566
   },
   {
     "name": "LARGE BROWN SQUARE",
@@ -19161,7 +19665,7 @@ var ALL = [
     "unified": "1F7EB",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1530
+    "sort_order": 1567
   },
   {
     "name": "BLACK LARGE SQUARE",
@@ -19172,7 +19676,7 @@ var ALL = [
     "unified": "2B1B",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1531
+    "sort_order": 1568
   },
   {
     "name": "WHITE LARGE SQUARE",
@@ -19183,7 +19687,7 @@ var ALL = [
     "unified": "2B1C",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1532
+    "sort_order": 1569
   },
   {
     "name": "BLACK MEDIUM SQUARE",
@@ -19194,7 +19698,7 @@ var ALL = [
     "unified": "25FC-FE0F",
     "non_qualified": "25FC",
     "category": "Symbols",
-    "sort_order": 1533
+    "sort_order": 1570
   },
   {
     "name": "WHITE MEDIUM SQUARE",
@@ -19205,7 +19709,7 @@ var ALL = [
     "unified": "25FB-FE0F",
     "non_qualified": "25FB",
     "category": "Symbols",
-    "sort_order": 1534
+    "sort_order": 1571
   },
   {
     "name": "BLACK MEDIUM SMALL SQUARE",
@@ -19216,7 +19720,7 @@ var ALL = [
     "unified": "25FE",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1535
+    "sort_order": 1572
   },
   {
     "name": "WHITE MEDIUM SMALL SQUARE",
@@ -19227,7 +19731,7 @@ var ALL = [
     "unified": "25FD",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1536
+    "sort_order": 1573
   },
   {
     "name": "BLACK SMALL SQUARE",
@@ -19238,7 +19742,7 @@ var ALL = [
     "unified": "25AA-FE0F",
     "non_qualified": "25AA",
     "category": "Symbols",
-    "sort_order": 1537
+    "sort_order": 1574
   },
   {
     "name": "WHITE SMALL SQUARE",
@@ -19249,7 +19753,7 @@ var ALL = [
     "unified": "25AB-FE0F",
     "non_qualified": "25AB",
     "category": "Symbols",
-    "sort_order": 1538
+    "sort_order": 1575
   },
   {
     "name": "LARGE ORANGE DIAMOND",
@@ -19260,7 +19764,7 @@ var ALL = [
     "unified": "1F536",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1539
+    "sort_order": 1576
   },
   {
     "name": "LARGE BLUE DIAMOND",
@@ -19271,7 +19775,7 @@ var ALL = [
     "unified": "1F537",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1540
+    "sort_order": 1577
   },
   {
     "name": "SMALL ORANGE DIAMOND",
@@ -19282,7 +19786,7 @@ var ALL = [
     "unified": "1F538",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1541
+    "sort_order": 1578
   },
   {
     "name": "SMALL BLUE DIAMOND",
@@ -19293,7 +19797,7 @@ var ALL = [
     "unified": "1F539",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1542
+    "sort_order": 1579
   },
   {
     "name": "UP-POINTING RED TRIANGLE",
@@ -19304,7 +19808,7 @@ var ALL = [
     "unified": "1F53A",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1543
+    "sort_order": 1580
   },
   {
     "name": "DOWN-POINTING RED TRIANGLE",
@@ -19315,7 +19819,7 @@ var ALL = [
     "unified": "1F53B",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1544
+    "sort_order": 1581
   },
   {
     "name": "DIAMOND SHAPE WITH A DOT INSIDE",
@@ -19326,7 +19830,7 @@ var ALL = [
     "unified": "1F4A0",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1545
+    "sort_order": 1582
   },
   {
     "name": "RADIO BUTTON",
@@ -19337,7 +19841,7 @@ var ALL = [
     "unified": "1F518",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1546
+    "sort_order": 1583
   },
   {
     "name": "WHITE SQUARE BUTTON",
@@ -19348,7 +19852,7 @@ var ALL = [
     "unified": "1F533",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1547
+    "sort_order": 1584
   },
   {
     "name": "BLACK SQUARE BUTTON",
@@ -19359,7 +19863,7 @@ var ALL = [
     "unified": "1F532",
     "non_qualified": null,
     "category": "Symbols",
-    "sort_order": 1548
+    "sort_order": 1585
   },
   {
     "name": "CHEQUERED FLAG",
@@ -19370,7 +19874,7 @@ var ALL = [
     "unified": "1F3C1",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1549
+    "sort_order": 1586
   },
   {
     "name": "TRIANGULAR FLAG ON POST",
@@ -19381,7 +19885,7 @@ var ALL = [
     "unified": "1F6A9",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1550
+    "sort_order": 1587
   },
   {
     "name": "CROSSED FLAGS",
@@ -19392,7 +19896,7 @@ var ALL = [
     "unified": "1F38C",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1551
+    "sort_order": 1588
   },
   {
     "name": "WAVING BLACK FLAG",
@@ -19403,7 +19907,7 @@ var ALL = [
     "unified": "1F3F4",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1552
+    "sort_order": 1589
   },
   {
     "name": "WHITE FLAG",
@@ -19414,7 +19918,7 @@ var ALL = [
     "unified": "1F3F3-FE0F",
     "non_qualified": "1F3F3",
     "category": "Flags",
-    "sort_order": 1553
+    "sort_order": 1590
   },
   {
     "name": "RAINBOW FLAG",
@@ -19425,7 +19929,7 @@ var ALL = [
     "unified": "1F3F3-FE0F-200D-1F308",
     "non_qualified": "1F3F3-200D-1F308",
     "category": "Flags",
-    "sort_order": 1554
+    "sort_order": 1591
   },
   {
     "name": "TRANSGENDER FLAG",
@@ -19436,7 +19940,7 @@ var ALL = [
     "unified": "1F3F3-FE0F-200D-26A7-FE0F",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1555
+    "sort_order": 1592
   },
   {
     "name": "PIRATE FLAG",
@@ -19447,7 +19951,7 @@ var ALL = [
     "unified": "1F3F4-200D-2620-FE0F",
     "non_qualified": "1F3F4-200D-2620",
     "category": "Flags",
-    "sort_order": 1556
+    "sort_order": 1593
   },
   {
     "name": "Ascension Island Flag",
@@ -19458,7 +19962,7 @@ var ALL = [
     "unified": "1F1E6-1F1E8",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1557
+    "sort_order": 1594
   },
   {
     "name": "Andorra Flag",
@@ -19469,7 +19973,7 @@ var ALL = [
     "unified": "1F1E6-1F1E9",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1558
+    "sort_order": 1595
   },
   {
     "name": "United Arab Emirates Flag",
@@ -19480,7 +19984,7 @@ var ALL = [
     "unified": "1F1E6-1F1EA",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1559
+    "sort_order": 1596
   },
   {
     "name": "Afghanistan Flag",
@@ -19491,7 +19995,7 @@ var ALL = [
     "unified": "1F1E6-1F1EB",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1560
+    "sort_order": 1597
   },
   {
     "name": "Antigua & Barbuda Flag",
@@ -19502,7 +20006,7 @@ var ALL = [
     "unified": "1F1E6-1F1EC",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1561
+    "sort_order": 1598
   },
   {
     "name": "Anguilla Flag",
@@ -19513,7 +20017,7 @@ var ALL = [
     "unified": "1F1E6-1F1EE",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1562
+    "sort_order": 1599
   },
   {
     "name": "Albania Flag",
@@ -19524,7 +20028,7 @@ var ALL = [
     "unified": "1F1E6-1F1F1",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1563
+    "sort_order": 1600
   },
   {
     "name": "Armenia Flag",
@@ -19535,7 +20039,7 @@ var ALL = [
     "unified": "1F1E6-1F1F2",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1564
+    "sort_order": 1601
   },
   {
     "name": "Angola Flag",
@@ -19546,7 +20050,7 @@ var ALL = [
     "unified": "1F1E6-1F1F4",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1565
+    "sort_order": 1602
   },
   {
     "name": "Antarctica Flag",
@@ -19557,7 +20061,7 @@ var ALL = [
     "unified": "1F1E6-1F1F6",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1566
+    "sort_order": 1603
   },
   {
     "name": "Argentina Flag",
@@ -19568,7 +20072,7 @@ var ALL = [
     "unified": "1F1E6-1F1F7",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1567
+    "sort_order": 1604
   },
   {
     "name": "American Samoa Flag",
@@ -19579,7 +20083,7 @@ var ALL = [
     "unified": "1F1E6-1F1F8",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1568
+    "sort_order": 1605
   },
   {
     "name": "Austria Flag",
@@ -19590,7 +20094,7 @@ var ALL = [
     "unified": "1F1E6-1F1F9",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1569
+    "sort_order": 1606
   },
   {
     "name": "Australia Flag",
@@ -19601,7 +20105,7 @@ var ALL = [
     "unified": "1F1E6-1F1FA",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1570
+    "sort_order": 1607
   },
   {
     "name": "Aruba Flag",
@@ -19612,7 +20116,7 @@ var ALL = [
     "unified": "1F1E6-1F1FC",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1571
+    "sort_order": 1608
   },
   {
     "name": "Åland Islands Flag",
@@ -19623,7 +20127,7 @@ var ALL = [
     "unified": "1F1E6-1F1FD",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1572
+    "sort_order": 1609
   },
   {
     "name": "Azerbaijan Flag",
@@ -19634,7 +20138,7 @@ var ALL = [
     "unified": "1F1E6-1F1FF",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1573
+    "sort_order": 1610
   },
   {
     "name": "Bosnia & Herzegovina Flag",
@@ -19645,7 +20149,7 @@ var ALL = [
     "unified": "1F1E7-1F1E6",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1574
+    "sort_order": 1611
   },
   {
     "name": "Barbados Flag",
@@ -19656,7 +20160,7 @@ var ALL = [
     "unified": "1F1E7-1F1E7",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1575
+    "sort_order": 1612
   },
   {
     "name": "Bangladesh Flag",
@@ -19667,7 +20171,7 @@ var ALL = [
     "unified": "1F1E7-1F1E9",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1576
+    "sort_order": 1613
   },
   {
     "name": "Belgium Flag",
@@ -19678,7 +20182,7 @@ var ALL = [
     "unified": "1F1E7-1F1EA",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1577
+    "sort_order": 1614
   },
   {
     "name": "Burkina Faso Flag",
@@ -19689,7 +20193,7 @@ var ALL = [
     "unified": "1F1E7-1F1EB",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1578
+    "sort_order": 1615
   },
   {
     "name": "Bulgaria Flag",
@@ -19700,7 +20204,7 @@ var ALL = [
     "unified": "1F1E7-1F1EC",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1579
+    "sort_order": 1616
   },
   {
     "name": "Bahrain Flag",
@@ -19711,7 +20215,7 @@ var ALL = [
     "unified": "1F1E7-1F1ED",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1580
+    "sort_order": 1617
   },
   {
     "name": "Burundi Flag",
@@ -19722,7 +20226,7 @@ var ALL = [
     "unified": "1F1E7-1F1EE",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1581
+    "sort_order": 1618
   },
   {
     "name": "Benin Flag",
@@ -19733,7 +20237,7 @@ var ALL = [
     "unified": "1F1E7-1F1EF",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1582
+    "sort_order": 1619
   },
   {
     "name": "St. Barthélemy Flag",
@@ -19744,7 +20248,7 @@ var ALL = [
     "unified": "1F1E7-1F1F1",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1583
+    "sort_order": 1620
   },
   {
     "name": "Bermuda Flag",
@@ -19755,7 +20259,7 @@ var ALL = [
     "unified": "1F1E7-1F1F2",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1584
+    "sort_order": 1621
   },
   {
     "name": "Brunei Flag",
@@ -19766,7 +20270,7 @@ var ALL = [
     "unified": "1F1E7-1F1F3",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1585
+    "sort_order": 1622
   },
   {
     "name": "Bolivia Flag",
@@ -19777,7 +20281,7 @@ var ALL = [
     "unified": "1F1E7-1F1F4",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1586
+    "sort_order": 1623
   },
   {
     "name": "Caribbean Netherlands Flag",
@@ -19788,7 +20292,7 @@ var ALL = [
     "unified": "1F1E7-1F1F6",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1587
+    "sort_order": 1624
   },
   {
     "name": "Brazil Flag",
@@ -19799,7 +20303,7 @@ var ALL = [
     "unified": "1F1E7-1F1F7",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1588
+    "sort_order": 1625
   },
   {
     "name": "Bahamas Flag",
@@ -19810,7 +20314,7 @@ var ALL = [
     "unified": "1F1E7-1F1F8",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1589
+    "sort_order": 1626
   },
   {
     "name": "Bhutan Flag",
@@ -19821,7 +20325,7 @@ var ALL = [
     "unified": "1F1E7-1F1F9",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1590
+    "sort_order": 1627
   },
   {
     "name": "Bouvet Island Flag",
@@ -19832,7 +20336,7 @@ var ALL = [
     "unified": "1F1E7-1F1FB",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1591
+    "sort_order": 1628
   },
   {
     "name": "Botswana Flag",
@@ -19843,7 +20347,7 @@ var ALL = [
     "unified": "1F1E7-1F1FC",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1592
+    "sort_order": 1629
   },
   {
     "name": "Belarus Flag",
@@ -19854,7 +20358,7 @@ var ALL = [
     "unified": "1F1E7-1F1FE",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1593
+    "sort_order": 1630
   },
   {
     "name": "Belize Flag",
@@ -19865,7 +20369,7 @@ var ALL = [
     "unified": "1F1E7-1F1FF",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1594
+    "sort_order": 1631
   },
   {
     "name": "Canada Flag",
@@ -19876,7 +20380,7 @@ var ALL = [
     "unified": "1F1E8-1F1E6",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1595
+    "sort_order": 1632
   },
   {
     "name": "Cocos (Keeling) Islands Flag",
@@ -19887,7 +20391,7 @@ var ALL = [
     "unified": "1F1E8-1F1E8",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1596
+    "sort_order": 1633
   },
   {
     "name": "Congo - Kinshasa Flag",
@@ -19898,7 +20402,7 @@ var ALL = [
     "unified": "1F1E8-1F1E9",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1597
+    "sort_order": 1634
   },
   {
     "name": "Central African Republic Flag",
@@ -19909,7 +20413,7 @@ var ALL = [
     "unified": "1F1E8-1F1EB",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1598
+    "sort_order": 1635
   },
   {
     "name": "Congo - Brazzaville Flag",
@@ -19920,7 +20424,7 @@ var ALL = [
     "unified": "1F1E8-1F1EC",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1599
+    "sort_order": 1636
   },
   {
     "name": "Switzerland Flag",
@@ -19931,7 +20435,7 @@ var ALL = [
     "unified": "1F1E8-1F1ED",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1600
+    "sort_order": 1637
   },
   {
     "name": "Côte d’Ivoire Flag",
@@ -19942,7 +20446,7 @@ var ALL = [
     "unified": "1F1E8-1F1EE",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1601
+    "sort_order": 1638
   },
   {
     "name": "Cook Islands Flag",
@@ -19953,7 +20457,7 @@ var ALL = [
     "unified": "1F1E8-1F1F0",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1602
+    "sort_order": 1639
   },
   {
     "name": "Chile Flag",
@@ -19964,7 +20468,7 @@ var ALL = [
     "unified": "1F1E8-1F1F1",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1603
+    "sort_order": 1640
   },
   {
     "name": "Cameroon Flag",
@@ -19975,7 +20479,7 @@ var ALL = [
     "unified": "1F1E8-1F1F2",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1604
+    "sort_order": 1641
   },
   {
     "name": "China Flag",
@@ -19987,7 +20491,7 @@ var ALL = [
     "unified": "1F1E8-1F1F3",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1605
+    "sort_order": 1642
   },
   {
     "name": "Colombia Flag",
@@ -19998,7 +20502,7 @@ var ALL = [
     "unified": "1F1E8-1F1F4",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1606
+    "sort_order": 1643
   },
   {
     "name": "Clipperton Island Flag",
@@ -20009,7 +20513,7 @@ var ALL = [
     "unified": "1F1E8-1F1F5",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1607
+    "sort_order": 1644
   },
   {
     "name": "Costa Rica Flag",
@@ -20020,7 +20524,7 @@ var ALL = [
     "unified": "1F1E8-1F1F7",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1608
+    "sort_order": 1645
   },
   {
     "name": "Cuba Flag",
@@ -20031,7 +20535,7 @@ var ALL = [
     "unified": "1F1E8-1F1FA",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1609
+    "sort_order": 1646
   },
   {
     "name": "Cape Verde Flag",
@@ -20042,7 +20546,7 @@ var ALL = [
     "unified": "1F1E8-1F1FB",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1610
+    "sort_order": 1647
   },
   {
     "name": "Curaçao Flag",
@@ -20053,7 +20557,7 @@ var ALL = [
     "unified": "1F1E8-1F1FC",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1611
+    "sort_order": 1648
   },
   {
     "name": "Christmas Island Flag",
@@ -20064,7 +20568,7 @@ var ALL = [
     "unified": "1F1E8-1F1FD",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1612
+    "sort_order": 1649
   },
   {
     "name": "Cyprus Flag",
@@ -20075,7 +20579,7 @@ var ALL = [
     "unified": "1F1E8-1F1FE",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1613
+    "sort_order": 1650
   },
   {
     "name": "Czechia Flag",
@@ -20086,7 +20590,7 @@ var ALL = [
     "unified": "1F1E8-1F1FF",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1614
+    "sort_order": 1651
   },
   {
     "name": "Germany Flag",
@@ -20098,7 +20602,7 @@ var ALL = [
     "unified": "1F1E9-1F1EA",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1615
+    "sort_order": 1652
   },
   {
     "name": "Diego Garcia Flag",
@@ -20109,7 +20613,7 @@ var ALL = [
     "unified": "1F1E9-1F1EC",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1616
+    "sort_order": 1653
   },
   {
     "name": "Djibouti Flag",
@@ -20120,7 +20624,7 @@ var ALL = [
     "unified": "1F1E9-1F1EF",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1617
+    "sort_order": 1654
   },
   {
     "name": "Denmark Flag",
@@ -20131,7 +20635,7 @@ var ALL = [
     "unified": "1F1E9-1F1F0",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1618
+    "sort_order": 1655
   },
   {
     "name": "Dominica Flag",
@@ -20142,7 +20646,7 @@ var ALL = [
     "unified": "1F1E9-1F1F2",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1619
+    "sort_order": 1656
   },
   {
     "name": "Dominican Republic Flag",
@@ -20153,7 +20657,7 @@ var ALL = [
     "unified": "1F1E9-1F1F4",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1620
+    "sort_order": 1657
   },
   {
     "name": "Algeria Flag",
@@ -20164,7 +20668,7 @@ var ALL = [
     "unified": "1F1E9-1F1FF",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1621
+    "sort_order": 1658
   },
   {
     "name": "Ceuta & Melilla Flag",
@@ -20175,7 +20679,7 @@ var ALL = [
     "unified": "1F1EA-1F1E6",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1622
+    "sort_order": 1659
   },
   {
     "name": "Ecuador Flag",
@@ -20186,7 +20690,7 @@ var ALL = [
     "unified": "1F1EA-1F1E8",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1623
+    "sort_order": 1660
   },
   {
     "name": "Estonia Flag",
@@ -20197,7 +20701,7 @@ var ALL = [
     "unified": "1F1EA-1F1EA",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1624
+    "sort_order": 1661
   },
   {
     "name": "Egypt Flag",
@@ -20208,7 +20712,7 @@ var ALL = [
     "unified": "1F1EA-1F1EC",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1625
+    "sort_order": 1662
   },
   {
     "name": "Western Sahara Flag",
@@ -20219,7 +20723,7 @@ var ALL = [
     "unified": "1F1EA-1F1ED",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1626
+    "sort_order": 1663
   },
   {
     "name": "Eritrea Flag",
@@ -20230,7 +20734,7 @@ var ALL = [
     "unified": "1F1EA-1F1F7",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1627
+    "sort_order": 1664
   },
   {
     "name": "Spain Flag",
@@ -20242,7 +20746,7 @@ var ALL = [
     "unified": "1F1EA-1F1F8",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1628
+    "sort_order": 1665
   },
   {
     "name": "Ethiopia Flag",
@@ -20253,7 +20757,7 @@ var ALL = [
     "unified": "1F1EA-1F1F9",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1629
+    "sort_order": 1666
   },
   {
     "name": "European Union Flag",
@@ -20264,7 +20768,7 @@ var ALL = [
     "unified": "1F1EA-1F1FA",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1630
+    "sort_order": 1667
   },
   {
     "name": "Finland Flag",
@@ -20275,7 +20779,7 @@ var ALL = [
     "unified": "1F1EB-1F1EE",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1631
+    "sort_order": 1668
   },
   {
     "name": "Fiji Flag",
@@ -20286,7 +20790,7 @@ var ALL = [
     "unified": "1F1EB-1F1EF",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1632
+    "sort_order": 1669
   },
   {
     "name": "Falkland Islands Flag",
@@ -20297,7 +20801,7 @@ var ALL = [
     "unified": "1F1EB-1F1F0",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1633
+    "sort_order": 1670
   },
   {
     "name": "Micronesia Flag",
@@ -20308,7 +20812,7 @@ var ALL = [
     "unified": "1F1EB-1F1F2",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1634
+    "sort_order": 1671
   },
   {
     "name": "Faroe Islands Flag",
@@ -20319,7 +20823,7 @@ var ALL = [
     "unified": "1F1EB-1F1F4",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1635
+    "sort_order": 1672
   },
   {
     "name": "France Flag",
@@ -20331,7 +20835,7 @@ var ALL = [
     "unified": "1F1EB-1F1F7",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1636
+    "sort_order": 1673
   },
   {
     "name": "Gabon Flag",
@@ -20342,7 +20846,7 @@ var ALL = [
     "unified": "1F1EC-1F1E6",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1637
+    "sort_order": 1674
   },
   {
     "name": "United Kingdom Flag",
@@ -20355,7 +20859,7 @@ var ALL = [
     "unified": "1F1EC-1F1E7",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1638
+    "sort_order": 1675
   },
   {
     "name": "Grenada Flag",
@@ -20366,7 +20870,7 @@ var ALL = [
     "unified": "1F1EC-1F1E9",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1639
+    "sort_order": 1676
   },
   {
     "name": "Georgia Flag",
@@ -20377,7 +20881,7 @@ var ALL = [
     "unified": "1F1EC-1F1EA",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1640
+    "sort_order": 1677
   },
   {
     "name": "French Guiana Flag",
@@ -20388,7 +20892,7 @@ var ALL = [
     "unified": "1F1EC-1F1EB",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1641
+    "sort_order": 1678
   },
   {
     "name": "Guernsey Flag",
@@ -20399,7 +20903,7 @@ var ALL = [
     "unified": "1F1EC-1F1EC",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1642
+    "sort_order": 1679
   },
   {
     "name": "Ghana Flag",
@@ -20410,7 +20914,7 @@ var ALL = [
     "unified": "1F1EC-1F1ED",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1643
+    "sort_order": 1680
   },
   {
     "name": "Gibraltar Flag",
@@ -20421,7 +20925,7 @@ var ALL = [
     "unified": "1F1EC-1F1EE",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1644
+    "sort_order": 1681
   },
   {
     "name": "Greenland Flag",
@@ -20432,7 +20936,7 @@ var ALL = [
     "unified": "1F1EC-1F1F1",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1645
+    "sort_order": 1682
   },
   {
     "name": "Gambia Flag",
@@ -20443,7 +20947,7 @@ var ALL = [
     "unified": "1F1EC-1F1F2",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1646
+    "sort_order": 1683
   },
   {
     "name": "Guinea Flag",
@@ -20454,7 +20958,7 @@ var ALL = [
     "unified": "1F1EC-1F1F3",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1647
+    "sort_order": 1684
   },
   {
     "name": "Guadeloupe Flag",
@@ -20465,7 +20969,7 @@ var ALL = [
     "unified": "1F1EC-1F1F5",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1648
+    "sort_order": 1685
   },
   {
     "name": "Equatorial Guinea Flag",
@@ -20476,7 +20980,7 @@ var ALL = [
     "unified": "1F1EC-1F1F6",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1649
+    "sort_order": 1686
   },
   {
     "name": "Greece Flag",
@@ -20487,7 +20991,7 @@ var ALL = [
     "unified": "1F1EC-1F1F7",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1650
+    "sort_order": 1687
   },
   {
     "name": "South Georgia & South Sandwich Islands Flag",
@@ -20498,7 +21002,7 @@ var ALL = [
     "unified": "1F1EC-1F1F8",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1651
+    "sort_order": 1688
   },
   {
     "name": "Guatemala Flag",
@@ -20509,7 +21013,7 @@ var ALL = [
     "unified": "1F1EC-1F1F9",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1652
+    "sort_order": 1689
   },
   {
     "name": "Guam Flag",
@@ -20520,7 +21024,7 @@ var ALL = [
     "unified": "1F1EC-1F1FA",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1653
+    "sort_order": 1690
   },
   {
     "name": "Guinea-Bissau Flag",
@@ -20531,7 +21035,7 @@ var ALL = [
     "unified": "1F1EC-1F1FC",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1654
+    "sort_order": 1691
   },
   {
     "name": "Guyana Flag",
@@ -20542,7 +21046,7 @@ var ALL = [
     "unified": "1F1EC-1F1FE",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1655
+    "sort_order": 1692
   },
   {
     "name": "Hong Kong SAR China Flag",
@@ -20553,7 +21057,7 @@ var ALL = [
     "unified": "1F1ED-1F1F0",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1656
+    "sort_order": 1693
   },
   {
     "name": "Heard & McDonald Islands Flag",
@@ -20564,7 +21068,7 @@ var ALL = [
     "unified": "1F1ED-1F1F2",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1657
+    "sort_order": 1694
   },
   {
     "name": "Honduras Flag",
@@ -20575,7 +21079,7 @@ var ALL = [
     "unified": "1F1ED-1F1F3",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1658
+    "sort_order": 1695
   },
   {
     "name": "Croatia Flag",
@@ -20586,7 +21090,7 @@ var ALL = [
     "unified": "1F1ED-1F1F7",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1659
+    "sort_order": 1696
   },
   {
     "name": "Haiti Flag",
@@ -20597,7 +21101,7 @@ var ALL = [
     "unified": "1F1ED-1F1F9",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1660
+    "sort_order": 1697
   },
   {
     "name": "Hungary Flag",
@@ -20608,7 +21112,7 @@ var ALL = [
     "unified": "1F1ED-1F1FA",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1661
+    "sort_order": 1698
   },
   {
     "name": "Canary Islands Flag",
@@ -20619,7 +21123,7 @@ var ALL = [
     "unified": "1F1EE-1F1E8",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1662
+    "sort_order": 1699
   },
   {
     "name": "Indonesia Flag",
@@ -20630,7 +21134,7 @@ var ALL = [
     "unified": "1F1EE-1F1E9",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1663
+    "sort_order": 1700
   },
   {
     "name": "Ireland Flag",
@@ -20641,7 +21145,7 @@ var ALL = [
     "unified": "1F1EE-1F1EA",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1664
+    "sort_order": 1701
   },
   {
     "name": "Israel Flag",
@@ -20652,7 +21156,7 @@ var ALL = [
     "unified": "1F1EE-1F1F1",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1665
+    "sort_order": 1702
   },
   {
     "name": "Isle of Man Flag",
@@ -20663,7 +21167,7 @@ var ALL = [
     "unified": "1F1EE-1F1F2",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1666
+    "sort_order": 1703
   },
   {
     "name": "India Flag",
@@ -20674,7 +21178,7 @@ var ALL = [
     "unified": "1F1EE-1F1F3",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1667
+    "sort_order": 1704
   },
   {
     "name": "British Indian Ocean Territory Flag",
@@ -20685,7 +21189,7 @@ var ALL = [
     "unified": "1F1EE-1F1F4",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1668
+    "sort_order": 1705
   },
   {
     "name": "Iraq Flag",
@@ -20696,7 +21200,7 @@ var ALL = [
     "unified": "1F1EE-1F1F6",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1669
+    "sort_order": 1706
   },
   {
     "name": "Iran Flag",
@@ -20707,7 +21211,7 @@ var ALL = [
     "unified": "1F1EE-1F1F7",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1670
+    "sort_order": 1707
   },
   {
     "name": "Iceland Flag",
@@ -20718,7 +21222,7 @@ var ALL = [
     "unified": "1F1EE-1F1F8",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1671
+    "sort_order": 1708
   },
   {
     "name": "Italy Flag",
@@ -20730,7 +21234,7 @@ var ALL = [
     "unified": "1F1EE-1F1F9",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1672
+    "sort_order": 1709
   },
   {
     "name": "Jersey Flag",
@@ -20741,7 +21245,7 @@ var ALL = [
     "unified": "1F1EF-1F1EA",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1673
+    "sort_order": 1710
   },
   {
     "name": "Jamaica Flag",
@@ -20752,7 +21256,7 @@ var ALL = [
     "unified": "1F1EF-1F1F2",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1674
+    "sort_order": 1711
   },
   {
     "name": "Jordan Flag",
@@ -20763,7 +21267,7 @@ var ALL = [
     "unified": "1F1EF-1F1F4",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1675
+    "sort_order": 1712
   },
   {
     "name": "Japan Flag",
@@ -20775,7 +21279,7 @@ var ALL = [
     "unified": "1F1EF-1F1F5",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1676
+    "sort_order": 1713
   },
   {
     "name": "Kenya Flag",
@@ -20786,7 +21290,7 @@ var ALL = [
     "unified": "1F1F0-1F1EA",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1677
+    "sort_order": 1714
   },
   {
     "name": "Kyrgyzstan Flag",
@@ -20797,7 +21301,7 @@ var ALL = [
     "unified": "1F1F0-1F1EC",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1678
+    "sort_order": 1715
   },
   {
     "name": "Cambodia Flag",
@@ -20808,7 +21312,7 @@ var ALL = [
     "unified": "1F1F0-1F1ED",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1679
+    "sort_order": 1716
   },
   {
     "name": "Kiribati Flag",
@@ -20819,7 +21323,7 @@ var ALL = [
     "unified": "1F1F0-1F1EE",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1680
+    "sort_order": 1717
   },
   {
     "name": "Comoros Flag",
@@ -20830,7 +21334,7 @@ var ALL = [
     "unified": "1F1F0-1F1F2",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1681
+    "sort_order": 1718
   },
   {
     "name": "St. Kitts & Nevis Flag",
@@ -20841,7 +21345,7 @@ var ALL = [
     "unified": "1F1F0-1F1F3",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1682
+    "sort_order": 1719
   },
   {
     "name": "North Korea Flag",
@@ -20852,7 +21356,7 @@ var ALL = [
     "unified": "1F1F0-1F1F5",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1683
+    "sort_order": 1720
   },
   {
     "name": "South Korea Flag",
@@ -20864,7 +21368,7 @@ var ALL = [
     "unified": "1F1F0-1F1F7",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1684
+    "sort_order": 1721
   },
   {
     "name": "Kuwait Flag",
@@ -20875,7 +21379,7 @@ var ALL = [
     "unified": "1F1F0-1F1FC",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1685
+    "sort_order": 1722
   },
   {
     "name": "Cayman Islands Flag",
@@ -20886,7 +21390,7 @@ var ALL = [
     "unified": "1F1F0-1F1FE",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1686
+    "sort_order": 1723
   },
   {
     "name": "Kazakhstan Flag",
@@ -20897,7 +21401,7 @@ var ALL = [
     "unified": "1F1F0-1F1FF",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1687
+    "sort_order": 1724
   },
   {
     "name": "Laos Flag",
@@ -20908,7 +21412,7 @@ var ALL = [
     "unified": "1F1F1-1F1E6",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1688
+    "sort_order": 1725
   },
   {
     "name": "Lebanon Flag",
@@ -20919,7 +21423,7 @@ var ALL = [
     "unified": "1F1F1-1F1E7",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1689
+    "sort_order": 1726
   },
   {
     "name": "St. Lucia Flag",
@@ -20930,7 +21434,7 @@ var ALL = [
     "unified": "1F1F1-1F1E8",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1690
+    "sort_order": 1727
   },
   {
     "name": "Liechtenstein Flag",
@@ -20941,7 +21445,7 @@ var ALL = [
     "unified": "1F1F1-1F1EE",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1691
+    "sort_order": 1728
   },
   {
     "name": "Sri Lanka Flag",
@@ -20952,7 +21456,7 @@ var ALL = [
     "unified": "1F1F1-1F1F0",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1692
+    "sort_order": 1729
   },
   {
     "name": "Liberia Flag",
@@ -20963,7 +21467,7 @@ var ALL = [
     "unified": "1F1F1-1F1F7",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1693
+    "sort_order": 1730
   },
   {
     "name": "Lesotho Flag",
@@ -20974,7 +21478,7 @@ var ALL = [
     "unified": "1F1F1-1F1F8",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1694
+    "sort_order": 1731
   },
   {
     "name": "Lithuania Flag",
@@ -20985,7 +21489,7 @@ var ALL = [
     "unified": "1F1F1-1F1F9",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1695
+    "sort_order": 1732
   },
   {
     "name": "Luxembourg Flag",
@@ -20996,7 +21500,7 @@ var ALL = [
     "unified": "1F1F1-1F1FA",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1696
+    "sort_order": 1733
   },
   {
     "name": "Latvia Flag",
@@ -21007,7 +21511,7 @@ var ALL = [
     "unified": "1F1F1-1F1FB",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1697
+    "sort_order": 1734
   },
   {
     "name": "Libya Flag",
@@ -21018,7 +21522,7 @@ var ALL = [
     "unified": "1F1F1-1F1FE",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1698
+    "sort_order": 1735
   },
   {
     "name": "Morocco Flag",
@@ -21029,7 +21533,7 @@ var ALL = [
     "unified": "1F1F2-1F1E6",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1699
+    "sort_order": 1736
   },
   {
     "name": "Monaco Flag",
@@ -21040,7 +21544,7 @@ var ALL = [
     "unified": "1F1F2-1F1E8",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1700
+    "sort_order": 1737
   },
   {
     "name": "Moldova Flag",
@@ -21051,7 +21555,7 @@ var ALL = [
     "unified": "1F1F2-1F1E9",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1701
+    "sort_order": 1738
   },
   {
     "name": "Montenegro Flag",
@@ -21062,7 +21566,7 @@ var ALL = [
     "unified": "1F1F2-1F1EA",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1702
+    "sort_order": 1739
   },
   {
     "name": "St. Martin Flag",
@@ -21073,7 +21577,7 @@ var ALL = [
     "unified": "1F1F2-1F1EB",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1703
+    "sort_order": 1740
   },
   {
     "name": "Madagascar Flag",
@@ -21084,7 +21588,7 @@ var ALL = [
     "unified": "1F1F2-1F1EC",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1704
+    "sort_order": 1741
   },
   {
     "name": "Marshall Islands Flag",
@@ -21095,7 +21599,7 @@ var ALL = [
     "unified": "1F1F2-1F1ED",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1705
+    "sort_order": 1742
   },
   {
     "name": "North Macedonia Flag",
@@ -21106,7 +21610,7 @@ var ALL = [
     "unified": "1F1F2-1F1F0",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1706
+    "sort_order": 1743
   },
   {
     "name": "Mali Flag",
@@ -21117,7 +21621,7 @@ var ALL = [
     "unified": "1F1F2-1F1F1",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1707
+    "sort_order": 1744
   },
   {
     "name": "Myanmar (Burma) Flag",
@@ -21128,7 +21632,7 @@ var ALL = [
     "unified": "1F1F2-1F1F2",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1708
+    "sort_order": 1745
   },
   {
     "name": "Mongolia Flag",
@@ -21139,7 +21643,7 @@ var ALL = [
     "unified": "1F1F2-1F1F3",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1709
+    "sort_order": 1746
   },
   {
     "name": "Macao SAR China Flag",
@@ -21150,7 +21654,7 @@ var ALL = [
     "unified": "1F1F2-1F1F4",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1710
+    "sort_order": 1747
   },
   {
     "name": "Northern Mariana Islands Flag",
@@ -21161,7 +21665,7 @@ var ALL = [
     "unified": "1F1F2-1F1F5",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1711
+    "sort_order": 1748
   },
   {
     "name": "Martinique Flag",
@@ -21172,7 +21676,7 @@ var ALL = [
     "unified": "1F1F2-1F1F6",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1712
+    "sort_order": 1749
   },
   {
     "name": "Mauritania Flag",
@@ -21183,7 +21687,7 @@ var ALL = [
     "unified": "1F1F2-1F1F7",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1713
+    "sort_order": 1750
   },
   {
     "name": "Montserrat Flag",
@@ -21194,7 +21698,7 @@ var ALL = [
     "unified": "1F1F2-1F1F8",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1714
+    "sort_order": 1751
   },
   {
     "name": "Malta Flag",
@@ -21205,7 +21709,7 @@ var ALL = [
     "unified": "1F1F2-1F1F9",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1715
+    "sort_order": 1752
   },
   {
     "name": "Mauritius Flag",
@@ -21216,7 +21720,7 @@ var ALL = [
     "unified": "1F1F2-1F1FA",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1716
+    "sort_order": 1753
   },
   {
     "name": "Maldives Flag",
@@ -21227,7 +21731,7 @@ var ALL = [
     "unified": "1F1F2-1F1FB",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1717
+    "sort_order": 1754
   },
   {
     "name": "Malawi Flag",
@@ -21238,7 +21742,7 @@ var ALL = [
     "unified": "1F1F2-1F1FC",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1718
+    "sort_order": 1755
   },
   {
     "name": "Mexico Flag",
@@ -21249,7 +21753,7 @@ var ALL = [
     "unified": "1F1F2-1F1FD",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1719
+    "sort_order": 1756
   },
   {
     "name": "Malaysia Flag",
@@ -21260,7 +21764,7 @@ var ALL = [
     "unified": "1F1F2-1F1FE",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1720
+    "sort_order": 1757
   },
   {
     "name": "Mozambique Flag",
@@ -21271,7 +21775,7 @@ var ALL = [
     "unified": "1F1F2-1F1FF",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1721
+    "sort_order": 1758
   },
   {
     "name": "Namibia Flag",
@@ -21282,7 +21786,7 @@ var ALL = [
     "unified": "1F1F3-1F1E6",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1722
+    "sort_order": 1759
   },
   {
     "name": "New Caledonia Flag",
@@ -21293,7 +21797,7 @@ var ALL = [
     "unified": "1F1F3-1F1E8",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1723
+    "sort_order": 1760
   },
   {
     "name": "Niger Flag",
@@ -21304,7 +21808,7 @@ var ALL = [
     "unified": "1F1F3-1F1EA",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1724
+    "sort_order": 1761
   },
   {
     "name": "Norfolk Island Flag",
@@ -21315,7 +21819,7 @@ var ALL = [
     "unified": "1F1F3-1F1EB",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1725
+    "sort_order": 1762
   },
   {
     "name": "Nigeria Flag",
@@ -21326,7 +21830,7 @@ var ALL = [
     "unified": "1F1F3-1F1EC",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1726
+    "sort_order": 1763
   },
   {
     "name": "Nicaragua Flag",
@@ -21337,7 +21841,7 @@ var ALL = [
     "unified": "1F1F3-1F1EE",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1727
+    "sort_order": 1764
   },
   {
     "name": "Netherlands Flag",
@@ -21348,7 +21852,7 @@ var ALL = [
     "unified": "1F1F3-1F1F1",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1728
+    "sort_order": 1765
   },
   {
     "name": "Norway Flag",
@@ -21359,7 +21863,7 @@ var ALL = [
     "unified": "1F1F3-1F1F4",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1729
+    "sort_order": 1766
   },
   {
     "name": "Nepal Flag",
@@ -21370,7 +21874,7 @@ var ALL = [
     "unified": "1F1F3-1F1F5",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1730
+    "sort_order": 1767
   },
   {
     "name": "Nauru Flag",
@@ -21381,7 +21885,7 @@ var ALL = [
     "unified": "1F1F3-1F1F7",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1731
+    "sort_order": 1768
   },
   {
     "name": "Niue Flag",
@@ -21392,7 +21896,7 @@ var ALL = [
     "unified": "1F1F3-1F1FA",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1732
+    "sort_order": 1769
   },
   {
     "name": "New Zealand Flag",
@@ -21403,7 +21907,7 @@ var ALL = [
     "unified": "1F1F3-1F1FF",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1733
+    "sort_order": 1770
   },
   {
     "name": "Oman Flag",
@@ -21414,7 +21918,7 @@ var ALL = [
     "unified": "1F1F4-1F1F2",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1734
+    "sort_order": 1771
   },
   {
     "name": "Panama Flag",
@@ -21425,7 +21929,7 @@ var ALL = [
     "unified": "1F1F5-1F1E6",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1735
+    "sort_order": 1772
   },
   {
     "name": "Peru Flag",
@@ -21436,7 +21940,7 @@ var ALL = [
     "unified": "1F1F5-1F1EA",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1736
+    "sort_order": 1773
   },
   {
     "name": "French Polynesia Flag",
@@ -21447,7 +21951,7 @@ var ALL = [
     "unified": "1F1F5-1F1EB",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1737
+    "sort_order": 1774
   },
   {
     "name": "Papua New Guinea Flag",
@@ -21458,7 +21962,7 @@ var ALL = [
     "unified": "1F1F5-1F1EC",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1738
+    "sort_order": 1775
   },
   {
     "name": "Philippines Flag",
@@ -21469,7 +21973,7 @@ var ALL = [
     "unified": "1F1F5-1F1ED",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1739
+    "sort_order": 1776
   },
   {
     "name": "Pakistan Flag",
@@ -21480,7 +21984,7 @@ var ALL = [
     "unified": "1F1F5-1F1F0",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1740
+    "sort_order": 1777
   },
   {
     "name": "Poland Flag",
@@ -21491,7 +21995,7 @@ var ALL = [
     "unified": "1F1F5-1F1F1",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1741
+    "sort_order": 1778
   },
   {
     "name": "St. Pierre & Miquelon Flag",
@@ -21502,7 +22006,7 @@ var ALL = [
     "unified": "1F1F5-1F1F2",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1742
+    "sort_order": 1779
   },
   {
     "name": "Pitcairn Islands Flag",
@@ -21513,7 +22017,7 @@ var ALL = [
     "unified": "1F1F5-1F1F3",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1743
+    "sort_order": 1780
   },
   {
     "name": "Puerto Rico Flag",
@@ -21524,7 +22028,7 @@ var ALL = [
     "unified": "1F1F5-1F1F7",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1744
+    "sort_order": 1781
   },
   {
     "name": "Palestinian Territories Flag",
@@ -21535,7 +22039,7 @@ var ALL = [
     "unified": "1F1F5-1F1F8",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1745
+    "sort_order": 1782
   },
   {
     "name": "Portugal Flag",
@@ -21546,7 +22050,7 @@ var ALL = [
     "unified": "1F1F5-1F1F9",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1746
+    "sort_order": 1783
   },
   {
     "name": "Palau Flag",
@@ -21557,7 +22061,7 @@ var ALL = [
     "unified": "1F1F5-1F1FC",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1747
+    "sort_order": 1784
   },
   {
     "name": "Paraguay Flag",
@@ -21568,7 +22072,7 @@ var ALL = [
     "unified": "1F1F5-1F1FE",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1748
+    "sort_order": 1785
   },
   {
     "name": "Qatar Flag",
@@ -21579,7 +22083,7 @@ var ALL = [
     "unified": "1F1F6-1F1E6",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1749
+    "sort_order": 1786
   },
   {
     "name": "Réunion Flag",
@@ -21590,7 +22094,7 @@ var ALL = [
     "unified": "1F1F7-1F1EA",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1750
+    "sort_order": 1787
   },
   {
     "name": "Romania Flag",
@@ -21601,7 +22105,7 @@ var ALL = [
     "unified": "1F1F7-1F1F4",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1751
+    "sort_order": 1788
   },
   {
     "name": "Serbia Flag",
@@ -21612,7 +22116,7 @@ var ALL = [
     "unified": "1F1F7-1F1F8",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1752
+    "sort_order": 1789
   },
   {
     "name": "Russia Flag",
@@ -21624,7 +22128,7 @@ var ALL = [
     "unified": "1F1F7-1F1FA",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1753
+    "sort_order": 1790
   },
   {
     "name": "Rwanda Flag",
@@ -21635,7 +22139,7 @@ var ALL = [
     "unified": "1F1F7-1F1FC",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1754
+    "sort_order": 1791
   },
   {
     "name": "Saudi Arabia Flag",
@@ -21646,7 +22150,7 @@ var ALL = [
     "unified": "1F1F8-1F1E6",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1755
+    "sort_order": 1792
   },
   {
     "name": "Solomon Islands Flag",
@@ -21657,7 +22161,7 @@ var ALL = [
     "unified": "1F1F8-1F1E7",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1756
+    "sort_order": 1793
   },
   {
     "name": "Seychelles Flag",
@@ -21668,7 +22172,7 @@ var ALL = [
     "unified": "1F1F8-1F1E8",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1757
+    "sort_order": 1794
   },
   {
     "name": "Sudan Flag",
@@ -21679,7 +22183,7 @@ var ALL = [
     "unified": "1F1F8-1F1E9",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1758
+    "sort_order": 1795
   },
   {
     "name": "Sweden Flag",
@@ -21690,7 +22194,7 @@ var ALL = [
     "unified": "1F1F8-1F1EA",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1759
+    "sort_order": 1796
   },
   {
     "name": "Singapore Flag",
@@ -21701,7 +22205,7 @@ var ALL = [
     "unified": "1F1F8-1F1EC",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1760
+    "sort_order": 1797
   },
   {
     "name": "St. Helena Flag",
@@ -21712,7 +22216,7 @@ var ALL = [
     "unified": "1F1F8-1F1ED",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1761
+    "sort_order": 1798
   },
   {
     "name": "Slovenia Flag",
@@ -21723,7 +22227,7 @@ var ALL = [
     "unified": "1F1F8-1F1EE",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1762
+    "sort_order": 1799
   },
   {
     "name": "Svalbard & Jan Mayen Flag",
@@ -21734,7 +22238,7 @@ var ALL = [
     "unified": "1F1F8-1F1EF",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1763
+    "sort_order": 1800
   },
   {
     "name": "Slovakia Flag",
@@ -21745,7 +22249,7 @@ var ALL = [
     "unified": "1F1F8-1F1F0",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1764
+    "sort_order": 1801
   },
   {
     "name": "Sierra Leone Flag",
@@ -21756,7 +22260,7 @@ var ALL = [
     "unified": "1F1F8-1F1F1",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1765
+    "sort_order": 1802
   },
   {
     "name": "San Marino Flag",
@@ -21767,7 +22271,7 @@ var ALL = [
     "unified": "1F1F8-1F1F2",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1766
+    "sort_order": 1803
   },
   {
     "name": "Senegal Flag",
@@ -21778,7 +22282,7 @@ var ALL = [
     "unified": "1F1F8-1F1F3",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1767
+    "sort_order": 1804
   },
   {
     "name": "Somalia Flag",
@@ -21789,7 +22293,7 @@ var ALL = [
     "unified": "1F1F8-1F1F4",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1768
+    "sort_order": 1805
   },
   {
     "name": "Suriname Flag",
@@ -21800,7 +22304,7 @@ var ALL = [
     "unified": "1F1F8-1F1F7",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1769
+    "sort_order": 1806
   },
   {
     "name": "South Sudan Flag",
@@ -21811,7 +22315,7 @@ var ALL = [
     "unified": "1F1F8-1F1F8",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1770
+    "sort_order": 1807
   },
   {
     "name": "São Tomé & Príncipe Flag",
@@ -21822,7 +22326,7 @@ var ALL = [
     "unified": "1F1F8-1F1F9",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1771
+    "sort_order": 1808
   },
   {
     "name": "El Salvador Flag",
@@ -21833,7 +22337,7 @@ var ALL = [
     "unified": "1F1F8-1F1FB",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1772
+    "sort_order": 1809
   },
   {
     "name": "Sint Maarten Flag",
@@ -21844,7 +22348,7 @@ var ALL = [
     "unified": "1F1F8-1F1FD",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1773
+    "sort_order": 1810
   },
   {
     "name": "Syria Flag",
@@ -21855,7 +22359,7 @@ var ALL = [
     "unified": "1F1F8-1F1FE",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1774
+    "sort_order": 1811
   },
   {
     "name": "Eswatini Flag",
@@ -21866,7 +22370,7 @@ var ALL = [
     "unified": "1F1F8-1F1FF",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1775
+    "sort_order": 1812
   },
   {
     "name": "Tristan da Cunha Flag",
@@ -21877,7 +22381,7 @@ var ALL = [
     "unified": "1F1F9-1F1E6",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1776
+    "sort_order": 1813
   },
   {
     "name": "Turks & Caicos Islands Flag",
@@ -21888,7 +22392,7 @@ var ALL = [
     "unified": "1F1F9-1F1E8",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1777
+    "sort_order": 1814
   },
   {
     "name": "Chad Flag",
@@ -21899,7 +22403,7 @@ var ALL = [
     "unified": "1F1F9-1F1E9",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1778
+    "sort_order": 1815
   },
   {
     "name": "French Southern Territories Flag",
@@ -21910,7 +22414,7 @@ var ALL = [
     "unified": "1F1F9-1F1EB",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1779
+    "sort_order": 1816
   },
   {
     "name": "Togo Flag",
@@ -21921,7 +22425,7 @@ var ALL = [
     "unified": "1F1F9-1F1EC",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1780
+    "sort_order": 1817
   },
   {
     "name": "Thailand Flag",
@@ -21932,7 +22436,7 @@ var ALL = [
     "unified": "1F1F9-1F1ED",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1781
+    "sort_order": 1818
   },
   {
     "name": "Tajikistan Flag",
@@ -21943,7 +22447,7 @@ var ALL = [
     "unified": "1F1F9-1F1EF",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1782
+    "sort_order": 1819
   },
   {
     "name": "Tokelau Flag",
@@ -21954,7 +22458,7 @@ var ALL = [
     "unified": "1F1F9-1F1F0",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1783
+    "sort_order": 1820
   },
   {
     "name": "Timor-Leste Flag",
@@ -21965,7 +22469,7 @@ var ALL = [
     "unified": "1F1F9-1F1F1",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1784
+    "sort_order": 1821
   },
   {
     "name": "Turkmenistan Flag",
@@ -21976,7 +22480,7 @@ var ALL = [
     "unified": "1F1F9-1F1F2",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1785
+    "sort_order": 1822
   },
   {
     "name": "Tunisia Flag",
@@ -21987,7 +22491,7 @@ var ALL = [
     "unified": "1F1F9-1F1F3",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1786
+    "sort_order": 1823
   },
   {
     "name": "Tonga Flag",
@@ -21998,7 +22502,7 @@ var ALL = [
     "unified": "1F1F9-1F1F4",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1787
+    "sort_order": 1824
   },
   {
     "name": "Turkey Flag",
@@ -22009,7 +22513,7 @@ var ALL = [
     "unified": "1F1F9-1F1F7",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1788
+    "sort_order": 1825
   },
   {
     "name": "Trinidad & Tobago Flag",
@@ -22020,7 +22524,7 @@ var ALL = [
     "unified": "1F1F9-1F1F9",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1789
+    "sort_order": 1826
   },
   {
     "name": "Tuvalu Flag",
@@ -22031,7 +22535,7 @@ var ALL = [
     "unified": "1F1F9-1F1FB",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1790
+    "sort_order": 1827
   },
   {
     "name": "Taiwan Flag",
@@ -22042,7 +22546,7 @@ var ALL = [
     "unified": "1F1F9-1F1FC",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1791
+    "sort_order": 1828
   },
   {
     "name": "Tanzania Flag",
@@ -22053,7 +22557,7 @@ var ALL = [
     "unified": "1F1F9-1F1FF",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1792
+    "sort_order": 1829
   },
   {
     "name": "Ukraine Flag",
@@ -22064,7 +22568,7 @@ var ALL = [
     "unified": "1F1FA-1F1E6",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1793
+    "sort_order": 1830
   },
   {
     "name": "Uganda Flag",
@@ -22075,7 +22579,7 @@ var ALL = [
     "unified": "1F1FA-1F1EC",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1794
+    "sort_order": 1831
   },
   {
     "name": "U.S. Outlying Islands Flag",
@@ -22086,7 +22590,7 @@ var ALL = [
     "unified": "1F1FA-1F1F2",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1795
+    "sort_order": 1832
   },
   {
     "name": "United Nations Flag",
@@ -22097,7 +22601,7 @@ var ALL = [
     "unified": "1F1FA-1F1F3",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1796
+    "sort_order": 1833
   },
   {
     "name": "United States Flag",
@@ -22109,7 +22613,7 @@ var ALL = [
     "unified": "1F1FA-1F1F8",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1797
+    "sort_order": 1834
   },
   {
     "name": "Uruguay Flag",
@@ -22120,7 +22624,7 @@ var ALL = [
     "unified": "1F1FA-1F1FE",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1798
+    "sort_order": 1835
   },
   {
     "name": "Uzbekistan Flag",
@@ -22131,7 +22635,7 @@ var ALL = [
     "unified": "1F1FA-1F1FF",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1799
+    "sort_order": 1836
   },
   {
     "name": "Vatican City Flag",
@@ -22142,7 +22646,7 @@ var ALL = [
     "unified": "1F1FB-1F1E6",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1800
+    "sort_order": 1837
   },
   {
     "name": "St. Vincent & Grenadines Flag",
@@ -22153,7 +22657,7 @@ var ALL = [
     "unified": "1F1FB-1F1E8",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1801
+    "sort_order": 1838
   },
   {
     "name": "Venezuela Flag",
@@ -22164,7 +22668,7 @@ var ALL = [
     "unified": "1F1FB-1F1EA",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1802
+    "sort_order": 1839
   },
   {
     "name": "British Virgin Islands Flag",
@@ -22175,7 +22679,7 @@ var ALL = [
     "unified": "1F1FB-1F1EC",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1803
+    "sort_order": 1840
   },
   {
     "name": "U.S. Virgin Islands Flag",
@@ -22186,7 +22690,7 @@ var ALL = [
     "unified": "1F1FB-1F1EE",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1804
+    "sort_order": 1841
   },
   {
     "name": "Vietnam Flag",
@@ -22197,7 +22701,7 @@ var ALL = [
     "unified": "1F1FB-1F1F3",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1805
+    "sort_order": 1842
   },
   {
     "name": "Vanuatu Flag",
@@ -22208,7 +22712,7 @@ var ALL = [
     "unified": "1F1FB-1F1FA",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1806
+    "sort_order": 1843
   },
   {
     "name": "Wallis & Futuna Flag",
@@ -22219,7 +22723,7 @@ var ALL = [
     "unified": "1F1FC-1F1EB",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1807
+    "sort_order": 1844
   },
   {
     "name": "Samoa Flag",
@@ -22230,7 +22734,7 @@ var ALL = [
     "unified": "1F1FC-1F1F8",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1808
+    "sort_order": 1845
   },
   {
     "name": "Kosovo Flag",
@@ -22241,7 +22745,7 @@ var ALL = [
     "unified": "1F1FD-1F1F0",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1809
+    "sort_order": 1846
   },
   {
     "name": "Yemen Flag",
@@ -22252,7 +22756,7 @@ var ALL = [
     "unified": "1F1FE-1F1EA",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1810
+    "sort_order": 1847
   },
   {
     "name": "Mayotte Flag",
@@ -22263,7 +22767,7 @@ var ALL = [
     "unified": "1F1FE-1F1F9",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1811
+    "sort_order": 1848
   },
   {
     "name": "South Africa Flag",
@@ -22274,7 +22778,7 @@ var ALL = [
     "unified": "1F1FF-1F1E6",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1812
+    "sort_order": 1849
   },
   {
     "name": "Zambia Flag",
@@ -22285,7 +22789,7 @@ var ALL = [
     "unified": "1F1FF-1F1F2",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1813
+    "sort_order": 1850
   },
   {
     "name": "Zimbabwe Flag",
@@ -22296,7 +22800,7 @@ var ALL = [
     "unified": "1F1FF-1F1FC",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1814
+    "sort_order": 1851
   },
   {
     "name": "England Flag",
@@ -22307,7 +22811,7 @@ var ALL = [
     "unified": "1F3F4-E0067-E0062-E0065-E006E-E0067-E007F",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1815
+    "sort_order": 1852
   },
   {
     "name": "Scotland Flag",
@@ -22318,7 +22822,7 @@ var ALL = [
     "unified": "1F3F4-E0067-E0062-E0073-E0063-E0074-E007F",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1816
+    "sort_order": 1853
   },
   {
     "name": "Wales Flag",
@@ -22329,7 +22833,7 @@ var ALL = [
     "unified": "1F3F4-E0067-E0062-E0077-E006C-E0073-E007F",
     "non_qualified": null,
     "category": "Flags",
-    "sort_order": 1817
+    "sort_order": 1854
   },
   {
     "name": "½",

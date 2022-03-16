@@ -18,7 +18,7 @@
   "homepage": "https://github.com/maoschanz/emoji-selector-for-gnome#readme",
   "devDependencies": {
     "@unicode/unicode-13.0.0": "^1.2.0",
-    "emoji-datasource": "^7.0.1"
+    "emoji-datasource": "^14.0.0"
   },
   "dependencies": {}
 }
