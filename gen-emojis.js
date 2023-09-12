@@ -1,4 +1,4 @@
-#!/bin/env nodejs
+#!/bin/env node
 
 const fs = require('fs');
 const emojis = require("emoji-datasource/emoji.json")
