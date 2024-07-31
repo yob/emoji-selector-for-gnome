@@ -1,3 +1,9 @@
+# ARCHIVED
+
+The extenion this forked from is abandoned, but another fork is more actively maintained than this one
+
+https://extensions.gnome.org/extension/6242/emoji-copy/
+
 # Emoji Selector (for GNOME Shell)
 
 This GNOME shell extension provides a searchable popup menu displaying most emojis ; Clicking on an emoji copies it to your clipboard.
