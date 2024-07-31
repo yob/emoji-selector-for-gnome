@@ -17,20 +17,20 @@
 	along with this program.  If not, see <http://www.gnu.org/licenses/>.
 */
 
-const St = imports.gi.St;
-const Clutter = imports.gi.Clutter;
-const Main = imports.ui.main;
-const Shell = imports.gi.Shell;
+import St from 'gi://St';
+import Clutter from 'gi://Clutter';
+import * as Main from 'resource:///org/gnome/shell/ui/main.js';
+import Shell from 'gi://Shell';
 
 // it is needed to grab the focus for the search entry
 const Mainloop = imports.mainloop;
 
 // for the keybinding
-const Meta = imports.gi.Meta;
+import Meta from 'gi://Meta';
 
 /* Import PanelMenu and PopupMenu */
-const PanelMenu = imports.ui.panelMenu;
-const PopupMenu = imports.ui.popupMenu;
+import * as PopupMenu from 'resource:///org/gnome/shell/ui/popupMenu.js';
+import * as PanelMenu from 'resource:///org/gnome/shell/ui/panelMenu.js';
 
 const Clipboard = St.Clipboard.get_default();
 const CLIPBOARD_TYPE = St.ClipboardType.CLIPBOARD;
@@ -40,16 +40,23 @@ const Gettext = imports.gettext.domain('emoji-selector');
 const _ = Gettext.gettext;
 
 // Retrocompatibility
-const ShellVersion = imports.misc.config.PACKAGE_VERSION;
+//const ShellVersion = imports.misc.config.PACKAGE_VERSION;
+import * as Config from 'resource:///org/gnome/shell/misc/config.js';
+const ShellVersion = Config.PACKAGE_VERSION
 var useActors = parseInt(ShellVersion.split('.')[1]) < 33;
 
-const ExtensionUtils = imports.misc.extensionUtils;
-const Me = ExtensionUtils.getCurrentExtension();
-const Convenience = Me.imports.convenience;
-const SkinTonesBar = Me.imports.emojiOptionsBar.SkinTonesBar;
-const EmojiCategory = Me.imports.emojiCategory.EmojiCategory;
-const EmojiButton = Me.imports.emojiButton;
-const emoji_data = Me.imports.data.emoji.ALL;
+//const ExtensionUtils = imports.misc.extensionUtils;
+//const Me = ExtensionUtils.getCurrentExtension();
+//const Convenience = Me.imports.convenience;
+//const SkinTonesBar = Me.imports.emojiOptionsBar.SkinTonesBar;
+//const EmojiCategory = Me.imports.emojiCategory.EmojiCategory;
+//const EmojiButton = Me.imports.emojiButton;
+//const emoji_data = Me.imports.data.emoji.ALL;
+import * as Convenience from './convenience.js';
+import * as SkinTonesBar from './emojiOptionsBar.js';
+import * as EmojiCategory from './emojiCategory.js';
+import * as EmojiButton from './emojiButton.js';
+import * as emoji_data from './data/emoji.js';
 
 //------------------------------------------------------------------------------
 

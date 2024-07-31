@@ -25,10 +25,11 @@
   SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 */
 
-const Gettext = imports.gettext;
-const Gio = imports.gi.Gio;
+//const Gettext = imports.gettext;
+import {gettext as Gettext} from 'resource:///org/gnome/shell/extensions/extension.js';
+import Gio from 'gi://Gio';
 
-const Config = imports.misc.config;
+import * as Config from 'resource:///org/gnome/shell/misc/config.js';
 const ExtensionUtils = imports.misc.extensionUtils;
 
 /**
